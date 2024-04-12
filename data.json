@@ -2,6 +2,7 @@
   {
     "name": "Sport",
     "id": 1,
+    "color": "#10C718",
     "products": [
       {
         "id": 1,
@@ -308,6 +309,7 @@
   {
     "name": "Geek",
     "id": 2,
+    "color": "#1090C7",
     "products": [
       {
         "id": 31,
@@ -614,6 +616,7 @@
   {
     "name": "Anime",
     "id": 3,
+    "color": "#F59E1B",
     "products": [
       {
         "id": 61,
@@ -920,6 +923,7 @@
   {
     "name": "Art",
     "id": 4,
+    "color": "#FDDB2B",
     "products": [
       {
         "id": 91,
@@ -1226,6 +1230,7 @@
   {
     "name": "Festif",
     "id": 5,
+    "color": "#F51BDF",
     "products": [
       {
         "id": 121,
