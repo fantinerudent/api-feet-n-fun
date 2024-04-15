@@ -3,6 +3,7 @@
     "name": "Sport",
     "id": 1,
     "color": "#10C718",
+    "bgColor": "#DEFFD9",
     "products": [
       {
         "id": 1,
@@ -310,6 +311,7 @@
     "name": "Geek",
     "id": 2,
     "color": "#1090C7",
+    "bgColor": "#EFF7FF",
     "products": [
       {
         "id": 31,
@@ -617,6 +619,7 @@
     "name": "Anime",
     "id": 3,
     "color": "#F59E1B",
+    "bgColor": "#fff3d5",
     "products": [
       {
         "id": 61,
@@ -924,306 +927,307 @@
     "name": "Art",
     "id": 4,
     "color": "#FDDB2B",
+    "bgColor": "#FFFFD0",
     "products": [
       {
         "id": 91,
         "src": "../assets/images/socks/Art/91.jpeg",
-        "name": "Produit 91",
-        "desc": "description",
+        "name": "Night",
+        "desc": "Illuminez votre garde-robe avec nos chaussettes ‘Night’! Inspirées par le chef-d’œuvre de Van Gogh, ces chaussettes sont un véritable tableau pour vos pieds. Confortables, élégantes et dotées d’un design qui fera tourner les têtes, elles sont parfaites pour celles et ceux qui veulent marcher sous les étoiles, de jour comme de nuit. Ajoutez une touche d’art à chaque pas !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 92,
         "src": "../assets/images/socks/Art/92.jpeg",
-        "name": "Produit 92",
-        "desc": "description",
+        "name": "Pearl",
+        "desc": "Exprimez votre palette de style avec nos chaussettes ‘Pearl’ ! Avec un design audacieux qui cache juste assez pour éveiller la curiosité, ces chaussettes sont parfaites pour ajouter une touche de mystère à votre tenue. Confortables et conçues pour susciter des conversations, elles sont l’accessoire idéal pour les amateurs et amatrices d’art qui aiment un peu de secret. Soyez le centre d’attention à chaque pas !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 93,
         "src": "../assets/images/socks/Art/93.jpeg",
-        "name": "Produit 93",
-        "desc": "description",
+        "name": "Flower Thrower",
+        "desc": "Faites un pas vers l’élégance et l'engagement avec nos chaussettes 'Flower Thrower' ! Inspirées par la calèbre oeuvre de Banksy, on retrouve d’un côté, une silhouette mystérieuse qui évoque le mouvement et la liberté; de l’autre, un bouquet de fleurs éclatantes qui apporte une touche de nature à votre quotidien. Avec leurs couleurs vives et leur design accrocheur, ces chaussettes sont parfaites pour celles et ceux qui cherchent à combiner style et originalité. Laissez vos pieds raconter une histoire à chaque pas !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 94,
         "src": "../assets/images/socks/Art/94.jpeg",
-        "name": "Produit 94",
-        "desc": "description",
+        "name": "Campbell",
+        "desc": "Ajoutez une touche de pop art à votre quotidien avec nos chaussettes ‘Campbell’ ! Inspirées par l’iconique boîte de soupe Campbell, ces chaussettes sont un clin d’œil à l’art moderne d'Andy Warhol et à la culture pop. Avec leur design audacieux et leurs couleurs vives, elles promettent de réveiller n’importe quelle tenue. Parfaites pour les amatrices et amateurs d’art, qui aiment la mode et l'audace. Laissez vos pieds montrer votre goût pour l’art à chaque pas !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 95,
         "src": "../assets/images/socks/Art/95.jpeg",
-        "name": "Produit 95",
-        "desc": "description",
+        "name": "Joconde",
+        "desc": "Marchez dans un musée à ciel ouvert avec nos chaussettes ‘Joconde’ ! Ces chaussettes arborent une reproduction colorée de la peinture renommée, avec un twist moderne : le visage est astucieusement dissimulé, ajoutant une touche de mystère. Avec leur confort et leur style inimitable, elles sont parfaites pour les amatrices et amateurs d’art qui aiment exprimer leur passion de façon subtile. Laissez l’art vous accompagner à chaque pas !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 96,
         "src": "../assets/images/socks/Art/96.jpeg",
-        "name": "Produit 96",
-        "desc": "description",
+        "name": "Frida",
+        "desc": "Faites le pas vers l’originalité avec nos chaussettes ‘Frida’ ! Conçues pour les esprits créatifs, ces chaussettes allient confort suprême, design artistique et hommage à une grande artiste. Avec leur motif floral éclatant et leur touche de mystère, elles promettent de transformer chaque pas en déclaration de style. Parfaites pour les amateurs d’art qui ne craignent pas d’afficher leur singularité !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 97,
         "src": "../assets/images/socks/Art/97.jpeg",
-        "name": "Produit 97",
-        "desc": "description",
+        "name": "Andy",
+        "desc": "“Plongez dans un univers de style avec nos chaussettes ‘Andy’ ! Avec leurs motifs audacieux et leurs couleurs vives, elles sont la touche finale parfaite pour toute tenue qui ose se démarquer. Confortables et tendance, elles sont un clin d’œil à l’art moderne. Soyez le centre de l’attention, une chaussette à la fois !”",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 98,
         "src": "../assets/images/socks/Art/98.jpeg",
-        "name": "Produit 98",
-        "desc": "description",
+        "name": "Jackson",
+        "desc": "Élevez votre style avec nos chaussettes ‘Jackson', inspirées des oeuvres de Jackson Pollock ! Ces joyaux du design sont une véritable toile de maître à vos pieds. Avec leur mélange harmonieux de couleurs vives et de motifs abstraits, elles promettent de captiver les regards et d’ajouter une touche d’élégance artistique à votre quotidien. Confortables et ornées de détails en relief, elles ne manqueront pas de faire sensation !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 99,
         "src": "../assets/images/socks/Art/99.jpeg",
-        "name": "Produit 99",
-        "desc": "description",
+        "name": "Léonard",
+        "desc": "Enfilez 'Léonard', ces chaussettes inspirées des chefs-d’œuvre de la Renaissance. Avec un design qui ferait sourire De Vinci lui-même, ces chaussettes sont la touche finale parfaite pour tout amatrice ou amateur d’art avec un bon sens de l’humour. Confortables, élégantes et un brin espiègles, elles sont conçues pour celles et ceux qui aiment marcher sur les traces des grands maîtres… tout en gardant les pieds bien au chaud ",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 100,
         "src": "../assets/images/socks/Art/100.jpeg",
-        "name": "Produit 100",
-        "desc": "description",
+        "name": "Gorilla",
+        "desc": "Ajoutez une touche de fantaisie et d'originalité à votre garde-robe avec nos chaussettes ‘Gorilla’, inspirée des oeuvres de Banksy ! Ces chaussettes sont une véritable célébration du streetart. Leur design réaliste sur fond texturé promet de capturer l’imagination et d’apporter une note d’originalité à vos tenues. Confortables et élégantes, elles sont parfaites pour celles et ceux qui aiment raconter une histoire à travers leur style !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 101,
         "src": "../assets/images/socks/Art/101.jpeg",
-        "name": "Produit 101",
-        "desc": "description",
+        "name": "Gustav",
+        "desc": "Faites sensation avec nos chaussettes 'Gustav' ! Inspirées du grand tableau 'Le Baiser', elles sont une véritable œuvre d'art pour vos pieds. Avec leur design coloré et audacieux, elles ajoutent une touche de romantisme et de fantaisie à votre garde-robe. Confortables et fabriquées pour durer, elles ne manqueront pas de démarrer des conversations.",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 102,
         "src": "../assets/images/socks/Art/102.jpeg",
-        "name": "Produit 102",
-        "desc": "description",
+        "name": "Salvador",
+        "desc": "Éveillez votre style avec nos chaussettes 'Salvador' ! Conçues pour les esprits créatifs, ces chaussettes arborent un design inspiré de l'art abstrait de Salvador Dali qui captivera les regards. Avec leurs motifs colorés, elles sont parfaites pour celles et ceux qui aiment garder une part de mystère. Confort et conversation artistique garantis à chaque pas !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 103,
         "src": "../assets/images/socks/Art/103.jpeg",
-        "name": "Produit 103",
-        "desc": "description",
+        "name": "Hokusai",
+        "desc": "Surfez sur la vague de la mode avec nos chaussettes ‘Hokusai’ ! Inspirées par la célèbre œuvre japonaise, ces chaussettes captent l’essence de la mer avec leurs motifs ondulants et leurs nuances de bleu profond. Parfaites pour les amatrices et amateurs d’art et les esprits libres, elles apportent une touche de sérénité et de style à chaque pas. Confortables et artistiques, elles sont une invitation à l’aventure quotidienne, un pied après l’autre.",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 104,
         "src": "../assets/images/socks/Art/104.jpeg",
-        "name": "Produit 104",
-        "desc": "description",
+        "name": "Brooklyn",
+        "desc": "Marchez dans les pas d’un maître de l’expressionnisme moderne avec ces chaussettes 'Brooklyn' inspirées par l’art audacieux de Jean-Michel Basquiat. Avec leur mélange de couleurs vives et de motifs évoquant les graffitis, elles sont un hommage portable à l’artiste qui a brisé les frontières entre l’art de rue et la galerie. Parfaites pour les esprits rebelles et les amatrices et amateurs d’art contemporain, ces chaussettes sont une déclaration de style qui crie ‘Boom for real’ à chaque pas",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 105,
         "src": "../assets/images/socks/Art/105.jpeg",
-        "name": "Produit 105",
-        "desc": "description",
+        "name": "Piet",
+        "desc": "Plongez vos pieds dans un chef-d'œuvre avec nos chaussettes 'Piet' ! Ces chaussettes sont un hommage vibrant aux lignes épurées et aux couleurs primaires de l'art moderne. Avec leur mélange audacieux de rouge, bleu et jaune, séparés par des contours noirs, elles sont parfaites pour celles et ceux qui veulent marcher au rythme de l'art. Confortables, élégantes et pleines de caractère, elles feront de chaque pas une déclaration d'amour pour l'art. Exprimez votre palette intérieure !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 106,
         "src": "../assets/images/socks/Art/106.jpeg",
-        "name": "Produit 106",
-        "desc": "description",
+        "name": "Vincent",
+        "desc": "Marchez sous les étoiles avec nos chaussettes 'Vincent' ! Inspirées par les chefs-d'œuvre de Van Gogh, ces chaussettes combinent la beauté des tournesols avec les tourbillons célestes pour un effet artistique saisissant. Parfaites pour illuminer votre tenue, elles sont un hommage à l'art qui ne manquera pas d'attirer l'attention. Confortables et conçues pour inspirer, elles sont la touche finale idéale pour les amatrices et amateurs d'art et de nature.",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 107,
         "src": "../assets/images/socks/Art/107.jpeg",
-        "name": "Produit 107",
-        "desc": "description",
+        "name": "Kahlo",
+        "desc": "Faites le pas vers l’originalité avec nos chaussettes ‘Kahlo’ ! Conçues pour ceux et celles qui aiment ajouter une touche de fantaisie à leur quotidien, ces chaussettes sont un véritable bouquet de confort. Avec leurs motifs floraux éclatants, leur hommage à la grande artiste Frida Kahlo, leurs couleurs vives, elles promettent de garder vos pieds dans une étreinte aussi douce que ludique. Parfaites pour les esprits créatifs, elles sont la promesse d’une démarche fleurie, où que vous alliez !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 108,
         "src": "../assets/images/socks/Art/108.jpeg",
-        "name": "Produit 108",
-        "desc": "description",
+        "name": "Sunrise",
+        "desc": "Illuminez votre garde-robe avec les chaussettes ‘Sunrise’! Inspirées par le chef-d’œuvre de Monet, elles évoquent la douceur d’un soleil levant qui baigne le port du Havre dans une lumière dorée. Chaque pas est une œuvre d’art, mêlant les nuances brumeuses et les reflets chatoyants de l’eau, capturant l’essence même de l’impressionnisme. Parfaites pour les amateurs d’art et d’aventure, ces chaussettes sont une invitation à commencer la journée avec élégance et une touche de poésie.",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 109,
         "src": "../assets/images/socks/Art/109.jpeg",
-        "name": "Produit 109",
-        "desc": "description",
+        "name": "Claude",
+        "desc": "Plongez vos pieds dans un chef-d’œuvre aquatique avec nos chaussettes ‘Claude’ ! Avec leur design inspiré des étangs de nénuphars, elles apportent une touche de sérénité à votre garde-robe. Les couleurs vives et apaisantes évoquent la tranquillité d’un jardin d’eau, offrant un confort visuel et physique. Idéales pour les amoureux de la nature et de l’art, ces chaussettes sont une invitation à marcher sur l’eau avec élégance et fantaisie",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 110,
         "src": "../assets/images/socks/Art/110.jpeg",
-        "name": "Produit 110",
-        "desc": "description",
+        "name": "Water Lily",
+        "desc": "Flânez dans un jardin aquatique avec nos chaussettes 'Water Lily' ! Inspirées par les célèbres peintures de Claude Monet, ces chaussettes transforment vos pieds en une toile impressionniste. Les teintes de vert, bleu et orange évoquent la sérénité des étangs fleuris, tandis que le design confortable assure que chaque pas est un plongeon dans le monde de l'art. Idéales pour les amoureux de la nature et de la peinture, elles apportent une touche de poésie à votre quotidien.",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 111,
         "src": "../assets/images/socks/Art/111.jpeg",
-        "name": "Produit 111",
-        "desc": "description",
+        "name": "Jean-Michel",
+        "desc": "Marchez dans les pas de l’art avec nos chaussettes ‘Jean-Michel’ ! Inspirées par l’œuvre iconique de Jean-Michel Basquiat, ces chaussettes sont une célébration de l’art contemporain à vos pieds. Jaune éclatant avec des motifs noirs rappelant le style inimitable de Basquiat, elles sont parfaites pour celles et ceux qui cherchent à mélanger art et confort. Douces au toucher, elles transformeront vos pas en une toile de rue mobile. Portez-les et laissez votre empreinte artistique dans le monde professionnel !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 112,
         "src": "../assets/images/socks/Art/112.jpeg",
-        "name": "Produit 112",
-        "desc": "description",
+        "name": "Square",
+        "desc": "Ajoutez une touche de gaieté à votre tenue avec nos chaussettes ‘Square’ ! Ces chaussettes sont un véritable kaléidoscope pour vos pieds, avec leurs motifs géométriques audacieux et leurs couleurs vives. Parfaites pour égayer une journée grise ou pour compléter un look, elles sont conçues pour celles et ceux qui osent montrer leur style unique. Confortables, elles sont le choix idéal pour marcher avec confiance et couleurs !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 113,
         "src": "../assets/images/socks/Art/113.jpeg",
-        "name": "Produit 113",
-        "desc": "description",
+        "name": "Rembrandt",
+        "desc": "Marchez à travers l’histoire avec nos chaussettes ‘Rembrandt’ ! Arborant un imprimé inspiré des oeuvres de la Renaissance, ces chaussettes sont une véritable toile d’art pour vos pieds. Chaque pas raconte une histoire, avec des personnages vêtus de leurs plus beaux atours parmi les nuages. Confortables et captivantes, elles sont parfaites pour les amateurs d’histoire et d’art, ajoutant une touche de noblesse à chaque tenue. Enfilez-les et faites de chaque journée un chapitre mémorable de votre propre saga !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 114,
         "src": "../assets/images/socks/Art/114.jpeg",
-        "name": "Produit 114",
-        "desc": "description",
+        "name": "Michelangelo",
+        "desc": "Plongez vos pieds dans un chef-d’œuvre avec nos chaussettes ‘Michelangelo’ ! La palette de couleurs vivantes crée un spectacle visuel qui ne manquera pas d’attirer les regards, tandis que le confort supérieur vous permettra de parcourir les galeries de la vie quotidienne avec aisance. Portez-les et faites de chaque journée une exposition d’art exceptionnelle !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 115,
         "src": "../assets/images/socks/Art/115.jpeg",
-        "name": "Produit 115",
-        "desc": "description",
+        "name": "Georgia",
+        "desc": "Éveillez vos sens avec les chaussettes ‘Georgia’! Inspirées par les toiles emblématiques de Georgia O’Keeffe, ces chaussettes sont une célébration de la couleur et de la forme. Chaque fibre est imprégnée de l’esprit audacieux de l’artiste, avec des motifs qui rappellent ses célèbres fleurs agrandies et ses paysages du Nouveau-Mexique. Portez un morceau de l’histoire de l’art à vos pieds et laissez-vous transporter dans un monde où la nature rencontre l’abstraction.",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 116,
         "src": "../assets/images/socks/Art/116.jpeg",
-        "name": "Produit 116",
-        "desc": "description",
+        "name": "Keith",
+        "desc": "Faites vibrer vos pas au rythme de Keith Haring avec nos chaussettes ‘Haring’ ! Inspirées par l’iconique artiste, ces chaussettes sont une toile de confort où danse l’art. Les silhouettes orange énergiques sur fond gris évoquent le dynamisme et la liberté d’expression caractéristiques de Haring. Un clin d’œil artistique à vos pieds, elles sont parfaites pour celles et ceux qui marchent sur le chemin de l’art avec audace et légèreté. Portez-les et faites de chaque pas une déclaration d’art !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 117,
         "src": "../assets/images/socks/Art/117.jpeg",
-        "name": "Produit 117",
-        "desc": "description",
+        "name": "Edvard",
+        "desc": "Résonnez avec l’art expressionniste avec les chaussettes ‘Edvard’! Capturant l’essence tourmentée de la célèbre peinture de Munch, ces chaussettes sont un cri visuel qui traverse le tissu. Les lignes ondulantes et les couleurs ardentes enveloppent vos pieds, évoquant la puissance émotionnelle de l’œuvre originale. Portez un symbole de l’angoisse et de la beauté de la condition humaine, tout en ajoutant une touche de drame artistique à votre style quotidien.",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 118,
         "src": "../assets/images/socks/Art/118.jpeg",
-        "name": "Produit 118",
-        "desc": "description",
+        "name": "René",
+        "desc": "Découvrez le mystère à chaque pas avec nos chaussettes ‘René’ ! Inspirées par les œuvres surréalistes de René Magritte, ces chaussettes sont une énigme enveloppant vos pieds. Elles capturent l’essence de l’art de Magritte, où le jour se mêle à la nuit et la réalité au rêve. Avec leur design qui défie la logique, elles sont parfaites pour celles et ceux qui cherchent à ajouter une touche de poésie et d’énigme à leur garde-robe professionnelle. Confortables et captivantes, elles vous invitent à laisser libre cours à votre imagination. Portez-les et faites de chaque journée une œuvre d’art !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 119,
         "src": "../assets/images/socks/Art/119.jpeg",
-        "name": "Produit 119",
-        "desc": "description",
+        "name": "Haring",
+        "desc": "Exprimez votre art de vivre avec nos chaussettes ‘Haring’ ! Inspirées par l’énergie des oeuvre de Keith Haring, ces chaussettes sont un véritable manifeste de style. Les motifs colorés et ludiques, mêlant figures humaines et formes géométriques, évoquent l’art de rue emblématique de Haring. Un hommage pied-à-terre à l’esprit rebelle de l’art moderne, elles sont la promesse d’une démarche audacieuse et d’un confort sans compromis. Laissez vos pieds parler d’art !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       },
       {
         "id": 120,
         "src": "../assets/images/socks/Art/120.jpeg",
-        "name": "Produit 120",
-        "desc": "description",
+        "name": "Auguste",
+        "desc": "Promenez-vous dans une galerie d’art à chaque pas avec les chaussettes ‘Auguste’! Arborant un design riche et coloré qui rappelle les toiles vibrantes de l'époque d'Auguste Renoir, ces chaussettes transforment vos pieds en chefs-d’œuvre ambulants. Le confort rencontre la classe dans ce tissu doux, où chaque couleur raconte une histoire de rencontres et de paysages urbains. Idéales pour les amateurs d’histoire et d’élégance, elles ajoutent une touche de sophistication à toute tenue, tout en gardant une pointe d’humour.",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
+        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
       }
     ]
   },
@@ -1231,6 +1235,7 @@
     "name": "Festif",
     "id": 5,
     "color": "#F51BDF",
+    "bgColor": "#FFEFFE",
     "products": [
       {
         "id": 121,
