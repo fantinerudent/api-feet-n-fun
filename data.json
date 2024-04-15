@@ -7,7 +7,7 @@
     "products": [
       {
         "id": 1,
-        "src": "../assets/images/socks/Sport/1.jpeg",
+        "src": "../assets/images/socks/Sport/1.jpg",
         "name": "Produit 1",
         "desc": "description",
         "price": 12.99,
@@ -17,7 +17,7 @@
       },
       {
         "id": 2,
-        "src": "../assets/images/socks/Sport/2.jpeg",
+        "src": "../assets/images/socks/Sport/2.jpg",
         "name": "Produit 2",
         "desc": "description",
         "price": 12.99,
@@ -27,7 +27,7 @@
       },
       {
         "id": 3,
-        "src": "../assets/images/socks/Sport/3.jpeg",
+        "src": "../assets/images/socks/Sport/3.jpg",
         "name": "Produit 3",
         "desc": "description",
         "price": 12.99,
@@ -37,7 +37,7 @@
       },
       {
         "id": 4,
-        "src": "../assets/images/socks/Sport/4.jpeg",
+        "src": "../assets/images/socks/Sport/4.jpg",
         "name": "Produit 4",
         "desc": "description",
         "price": 12.99,
@@ -47,7 +47,7 @@
       },
       {
         "id": 5,
-        "src": "../assets/images/socks/Sport/5.jpeg",
+        "src": "../assets/images/socks/Sport/5.jpg",
         "name": "Produit 5",
         "desc": "description",
         "price": 12.99,
@@ -57,7 +57,7 @@
       },
       {
         "id": 6,
-        "src": "../assets/images/socks/Sport/6.jpeg",
+        "src": "../assets/images/socks/Sport/6.jpg",
         "name": "Produit 6",
         "desc": "description",
         "price": 12.99,
@@ -67,7 +67,7 @@
       },
       {
         "id": 7,
-        "src": "../assets/images/socks/Sport/7.jpeg",
+        "src": "../assets/images/socks/Sport/7.jpg",
         "name": "Produit 7",
         "desc": "description",
         "price": 12.99,
@@ -77,7 +77,7 @@
       },
       {
         "id": 8,
-        "src": "../assets/images/socks/Sport/8.jpeg",
+        "src": "../assets/images/socks/Sport/8.jpg",
         "name": "Produit 8",
         "desc": "description",
         "price": 12.99,
@@ -87,7 +87,7 @@
       },
       {
         "id": 9,
-        "src": "../assets/images/socks/Sport/9.jpeg",
+        "src": "../assets/images/socks/Sport/9.jpg",
         "name": "Produit 9",
         "desc": "description",
         "price": 12.99,
@@ -97,7 +97,7 @@
       },
       {
         "id": 10,
-        "src": "../assets/images/socks/Sport/10.jpeg",
+        "src": "../assets/images/socks/Sport/10.jpg",
         "name": "Produit 10",
         "desc": "description",
         "price": 12.99,
@@ -107,7 +107,7 @@
       },
       {
         "id": 11,
-        "src": "../assets/images/socks/Sport/11.jpeg",
+        "src": "../assets/images/socks/Sport/11.jpg",
         "name": "Produit 11",
         "desc": "description",
         "price": 12.99,
@@ -117,7 +117,7 @@
       },
       {
         "id": 12,
-        "src": "../assets/images/socks/Sport/12.jpeg",
+        "src": "../assets/images/socks/Sport/12.jpg",
         "name": "Produit 12",
         "desc": "description",
         "price": 12.99,
@@ -127,7 +127,7 @@
       },
       {
         "id": 13,
-        "src": "../assets/images/socks/Sport/13.jpeg",
+        "src": "../assets/images/socks/Sport/13.jpg",
         "name": "Produit 13",
         "desc": "description",
         "price": 12.99,
@@ -137,7 +137,7 @@
       },
       {
         "id": 14,
-        "src": "../assets/images/socks/Sport/14.jpeg",
+        "src": "../assets/images/socks/Sport/14.jpg",
         "name": "Produit 14",
         "desc": "description",
         "price": 12.99,
@@ -147,7 +147,7 @@
       },
       {
         "id": 15,
-        "src": "../assets/images/socks/Sport/15.jpeg",
+        "src": "../assets/images/socks/Sport/15.jpg",
         "name": "Produit 15",
         "desc": "description",
         "price": 12.99,
@@ -157,7 +157,7 @@
       },
       {
         "id": 16,
-        "src": "../assets/images/socks/Sport/16.jpeg",
+        "src": "../assets/images/socks/Sport/16.jpg",
         "name": "Produit 16",
         "desc": "description",
         "price": 12.99,
@@ -167,7 +167,7 @@
       },
       {
         "id": 17,
-        "src": "../assets/images/socks/Sport/17.jpeg",
+        "src": "../assets/images/socks/Sport/17.jpg",
         "name": "Produit 17",
         "desc": "description",
         "price": 12.99,
@@ -177,7 +177,7 @@
       },
       {
         "id": 18,
-        "src": "../assets/images/socks/Sport/18.jpeg",
+        "src": "../assets/images/socks/Sport/18.jpg",
         "name": "Produit 18",
         "desc": "description",
         "price": 12.99,
@@ -187,7 +187,7 @@
       },
       {
         "id": 19,
-        "src": "../assets/images/socks/Sport/19.jpeg",
+        "src": "../assets/images/socks/Sport/19.jpg",
         "name": "Produit 19",
         "desc": "description",
         "price": 12.99,
@@ -197,7 +197,7 @@
       },
       {
         "id": 20,
-        "src": "../assets/images/socks/Sport/20.jpeg",
+        "src": "../assets/images/socks/Sport/20.jpg",
         "name": "Produit 20",
         "desc": "description",
         "price": 12.99,
@@ -207,7 +207,7 @@
       },
       {
         "id": 21,
-        "src": "../assets/images/socks/Sport/21.jpeg",
+        "src": "../assets/images/socks/Sport/21.jpg",
         "name": "Produit 21",
         "desc": "description",
         "price": 12.99,
@@ -217,7 +217,7 @@
       },
       {
         "id": 22,
-        "src": "../assets/images/socks/Sport/22.jpeg",
+        "src": "../assets/images/socks/Sport/22.jpg",
         "name": "Produit 22",
         "desc": "description",
         "price": 12.99,
@@ -227,7 +227,7 @@
       },
       {
         "id": 23,
-        "src": "../assets/images/socks/Sport/23.jpeg",
+        "src": "../assets/images/socks/Sport/23.jpg",
         "name": "Produit 23",
         "desc": "description",
         "price": 12.99,
@@ -237,7 +237,7 @@
       },
       {
         "id": 24,
-        "src": "../assets/images/socks/Sport/24.jpeg",
+        "src": "../assets/images/socks/Sport/24.jpg",
         "name": "Produit 24",
         "desc": "description",
         "price": 12.99,
@@ -247,7 +247,7 @@
       },
       {
         "id": 25,
-        "src": "../assets/images/socks/Sport/25.jpeg",
+        "src": "../assets/images/socks/Sport/25.jpg",
         "name": "Produit 25",
         "desc": "description",
         "price": 12.99,
@@ -257,7 +257,7 @@
       },
       {
         "id": 26,
-        "src": "../assets/images/socks/Sport/26.jpeg",
+        "src": "../assets/images/socks/Sport/26.jpg",
         "name": "Produit 26",
         "desc": "description",
         "price": 12.99,
@@ -267,7 +267,7 @@
       },
       {
         "id": 27,
-        "src": "../assets/images/socks/Sport/27.jpeg",
+        "src": "../assets/images/socks/Sport/27.jpg",
         "name": "Produit 27",
         "desc": "description",
         "price": 12.99,
@@ -277,7 +277,7 @@
       },
       {
         "id": 28,
-        "src": "../assets/images/socks/Sport/28.jpeg",
+        "src": "../assets/images/socks/Sport/28.jpg",
         "name": "Produit 28",
         "desc": "description",
         "price": 12.99,
@@ -287,7 +287,7 @@
       },
       {
         "id": 29,
-        "src": "../assets/images/socks/Sport/29.jpeg",
+        "src": "../assets/images/socks/Sport/29.jpg",
         "name": "Produit 29",
         "desc": "description",
         "price": 12.99,
@@ -297,7 +297,7 @@
       },
       {
         "id": 30,
-        "src": "../assets/images/socks/Sport/30.jpeg",
+        "src": "../assets/images/socks/Sport/30.jpg",
         "name": "Produit 30",
         "desc": "description",
         "price": 12.99,
@@ -315,7 +315,7 @@
     "products": [
       {
         "id": 31,
-        "src": "../assets/images/socks/Geek/31.jpeg",
+        "src": "../assets/images/socks/Geek/31.jpg",
         "name": "Produit 31",
         "desc": "description",
         "price": 12.99,
@@ -325,7 +325,7 @@
       },
       {
         "id": 32,
-        "src": "../assets/images/socks/Geek/32.jpeg",
+        "src": "../assets/images/socks/Geek/32.jpg",
         "name": "Produit 32",
         "desc": "description",
         "price": 12.99,
@@ -335,7 +335,7 @@
       },
       {
         "id": 33,
-        "src": "../assets/images/socks/Geek/33.jpeg",
+        "src": "../assets/images/socks/Geek/33.jpg",
         "name": "Produit 33",
         "desc": "description",
         "price": 12.99,
@@ -345,7 +345,7 @@
       },
       {
         "id": 34,
-        "src": "../assets/images/socks/Geek/34.jpeg",
+        "src": "../assets/images/socks/Geek/34.jpg",
         "name": "Produit 34",
         "desc": "description",
         "price": 12.99,
@@ -355,7 +355,7 @@
       },
       {
         "id": 35,
-        "src": "../assets/images/socks/Geek/35.jpeg",
+        "src": "../assets/images/socks/Geek/35.jpg",
         "name": "Produit 35",
         "desc": "description",
         "price": 12.99,
@@ -365,7 +365,7 @@
       },
       {
         "id": 36,
-        "src": "../assets/images/socks/Geek/36.jpeg",
+        "src": "../assets/images/socks/Geek/36.jpg",
         "name": "Produit 36",
         "desc": "description",
         "price": 12.99,
@@ -375,7 +375,7 @@
       },
       {
         "id": 37,
-        "src": "../assets/images/socks/Geek/37.jpeg",
+        "src": "../assets/images/socks/Geek/37.jpg",
         "name": "Produit 37",
         "desc": "description",
         "price": 12.99,
@@ -385,7 +385,7 @@
       },
       {
         "id": 38,
-        "src": "../assets/images/socks/Geek/38.jpeg",
+        "src": "../assets/images/socks/Geek/38.jpg",
         "name": "Produit 38",
         "desc": "description",
         "price": 12.99,
@@ -395,7 +395,7 @@
       },
       {
         "id": 39,
-        "src": "../assets/images/socks/Geek/39.jpeg",
+        "src": "../assets/images/socks/Geek/39.jpg",
         "name": "Produit 39",
         "desc": "description",
         "price": 12.99,
@@ -405,7 +405,7 @@
       },
       {
         "id": 40,
-        "src": "../assets/images/socks/Geek/40.jpeg",
+        "src": "../assets/images/socks/Geek/40.jpg",
         "name": "Produit 40",
         "desc": "description",
         "price": 12.99,
@@ -415,7 +415,7 @@
       },
       {
         "id": 41,
-        "src": "../assets/images/socks/Geek/41.jpeg",
+        "src": "../assets/images/socks/Geek/41.jpg",
         "name": "Produit 41",
         "desc": "description",
         "price": 12.99,
@@ -425,7 +425,7 @@
       },
       {
         "id": 42,
-        "src": "../assets/images/socks/Geek/42.jpeg",
+        "src": "../assets/images/socks/Geek/42.jpg",
         "name": "Produit 42",
         "desc": "description",
         "price": 12.99,
@@ -435,7 +435,7 @@
       },
       {
         "id": 43,
-        "src": "../assets/images/socks/Geek/43.jpeg",
+        "src": "../assets/images/socks/Geek/43.jpg",
         "name": "Produit 43",
         "desc": "description",
         "price": 12.99,
@@ -445,7 +445,7 @@
       },
       {
         "id": 44,
-        "src": "../assets/images/socks/Geek/44.jpeg",
+        "src": "../assets/images/socks/Geek/44.jpg",
         "name": "Produit 44",
         "desc": "description",
         "price": 12.99,
@@ -455,7 +455,7 @@
       },
       {
         "id": 45,
-        "src": "../assets/images/socks/Geek/45.jpeg",
+        "src": "../assets/images/socks/Geek/45.jpg",
         "name": "Produit 45",
         "desc": "description",
         "price": 12.99,
@@ -465,7 +465,7 @@
       },
       {
         "id": 46,
-        "src": "../assets/images/socks/Geek/46.jpeg",
+        "src": "../assets/images/socks/Geek/46.jpg",
         "name": "Produit 46",
         "desc": "description",
         "price": 12.99,
@@ -475,7 +475,7 @@
       },
       {
         "id": 47,
-        "src": "../assets/images/socks/Geek/47.jpeg",
+        "src": "../assets/images/socks/Geek/47.jpg",
         "name": "Produit 47",
         "desc": "description",
         "price": 12.99,
@@ -485,7 +485,7 @@
       },
       {
         "id": 48,
-        "src": "../assets/images/socks/Geek/48.jpeg",
+        "src": "../assets/images/socks/Geek/48.jpg",
         "name": "Produit 48",
         "desc": "description",
         "price": 12.99,
@@ -495,7 +495,7 @@
       },
       {
         "id": 49,
-        "src": "../assets/images/socks/Geek/49.jpeg",
+        "src": "../assets/images/socks/Geek/49.jpg",
         "name": "Produit 49",
         "desc": "description",
         "price": 12.99,
@@ -505,7 +505,7 @@
       },
       {
         "id": 50,
-        "src": "../assets/images/socks/Geek/50.jpeg",
+        "src": "../assets/images/socks/Geek/50.jpg",
         "name": "Produit 50",
         "desc": "description",
         "price": 12.99,
@@ -515,7 +515,7 @@
       },
       {
         "id": 51,
-        "src": "../assets/images/socks/Geek/51.jpeg",
+        "src": "../assets/images/socks/Geek/51.jpg",
         "name": "Produit 51",
         "desc": "description",
         "price": 12.99,
@@ -525,7 +525,7 @@
       },
       {
         "id": 52,
-        "src": "../assets/images/socks/Geek/52.jpeg",
+        "src": "../assets/images/socks/Geek/52.jpg",
         "name": "Produit 52",
         "desc": "description",
         "price": 12.99,
@@ -535,7 +535,7 @@
       },
       {
         "id": 53,
-        "src": "../assets/images/socks/Geek/53.jpeg",
+        "src": "../assets/images/socks/Geek/53.jpg",
         "name": "Produit 53",
         "desc": "description",
         "price": 12.99,
@@ -545,7 +545,7 @@
       },
       {
         "id": 54,
-        "src": "../assets/images/socks/Geek/54.jpeg",
+        "src": "../assets/images/socks/Geek/54.jpg",
         "name": "Produit 54",
         "desc": "description",
         "price": 12.99,
@@ -555,7 +555,7 @@
       },
       {
         "id": 55,
-        "src": "../assets/images/socks/Geek/55.jpeg",
+        "src": "../assets/images/socks/Geek/55.jpg",
         "name": "Produit 55",
         "desc": "description",
         "price": 12.99,
@@ -565,7 +565,7 @@
       },
       {
         "id": 56,
-        "src": "../assets/images/socks/Geek/56.jpeg",
+        "src": "../assets/images/socks/Geek/56.jpg",
         "name": "Produit 56",
         "desc": "description",
         "price": 12.99,
@@ -575,7 +575,7 @@
       },
       {
         "id": 57,
-        "src": "../assets/images/socks/Geek/57.jpeg",
+        "src": "../assets/images/socks/Geek/57.jpg",
         "name": "Produit 57",
         "desc": "description",
         "price": 12.99,
@@ -585,7 +585,7 @@
       },
       {
         "id": 58,
-        "src": "../assets/images/socks/Geek/58.jpeg",
+        "src": "../assets/images/socks/Geek/58.jpg",
         "name": "Produit 58",
         "desc": "description",
         "price": 12.99,
@@ -595,7 +595,7 @@
       },
       {
         "id": 59,
-        "src": "../assets/images/socks/Geek/59.jpeg",
+        "src": "../assets/images/socks/Geek/59.jpg",
         "name": "Produit 59",
         "desc": "description",
         "price": 12.99,
@@ -605,7 +605,7 @@
       },
       {
         "id": 60,
-        "src": "../assets/images/socks/Geek/60.jpeg",
+        "src": "../assets/images/socks/Geek/60.jpg",
         "name": "Produit 60",
         "desc": "description",
         "price": 12.99,
@@ -623,9 +623,9 @@
     "products": [
       {
         "id": 61,
-        "src": "../assets/images/socks/Anime/61.jpeg",
-        "name": "Produit 61",
-        "desc": "description",
+        "src": "../assets/images/socks/Anime/61.jpg",
+        "name": "Morty",
+        "desc": "Ces chaussettes sont idéales pour les fans de la série, les amateurs de science-fiction et tous ceux qui aiment ajouter une touche de fantaisie à leur quotidien. Que vous soyez en train de binge-watcher des épisodes de “Rick and Morty” ou simplement en train de vous détendre à la maison, ces chaussettes vous accompagneront avec style et originalité.",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
@@ -633,9 +633,9 @@
       },
       {
         "id": 62,
-        "src": "../assets/images/socks/Anime/62.jpeg",
-        "name": "Produit 62",
-        "desc": "description",
+        "src": "../assets/images/socks/Anime/62.jpg",
+        "name": "Rick & Morty",
+        "desc": "Embarquez pour une aventure intergalactique avec nos chaussettes “Rick et Morty” ! Avec Rick, le scientifique fou, et Morty, son petit-fils souvent réticent, à vos pieds, chaque pas est un pas de géant dans l’espace du style. 🚀✨ Ces chaussettes à thème spatial sont un must-have pour tout fan de la série. Avec un fond bleu nuit étoilé et les expressions emblématiques de nos héros, elles promettent de garder vos pieds confortables et votre look audacieux, que vous soyez en train de conquérir le monde ou simplement de vous relaxer chez vous.",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
@@ -643,9 +643,9 @@
       },
       {
         "id": 63,
-        "src": "../assets/images/socks/Anime/63.jpeg",
-        "name": "Produit 63",
-        "desc": "description",
+        "src": "../assets/images/socks/Anime/63.jpg",
+        "name": "Futurama",
+        "desc": "Rejoignez l’équipage de l’Express Planet avec ces chaussettes Futurama ultra-cool ! Avec Bender et la bande, vos pieds ne seront jamais ennuyeux. Parfaites pour les fans de la série, ces chaussettes sont un clin d’œil à votre geek intérieur tout en restant confortables pour toute mission spatiale. Taille unique pour tous les terriens et extraterrestres !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
@@ -653,9 +653,9 @@
       },
       {
         "id": 64,
-        "src": "../assets/images/socks/Anime/64.jpeg",
-        "name": "Produit 64",
-        "desc": "description",
+        "src": "../assets/images/socks/Anime/64.jpg",
+        "name": "Peter Griffin",
+        "desc": "Plongez dans l’univers déjanté de Quahog avec nos chaussettes ‘Family Guy’ ! Avec le patriarche Peter Griffin en vedette, ces chaussettes sont un hommage à votre série animée préférée. Confortables, stylées et imprégnées d’humour, elles sont parfaites pour afficher votre amour pour les Griffin tout en gardant vos pieds au chaud.",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
@@ -663,9 +663,9 @@
       },
       {
         "id": 65,
-        "src": "../assets/images/socks/Anime/65.jpeg",
-        "name": "Produit 65",
-        "desc": "description",
+        "src": "../assets/images/socks/Anime/65.jpg",
+        "name": "Family Guy",
+        "desc": "“Faites un pas dans l’humour de Quahog avec nos chaussettes ‘Griffin Gala’ ! Arborant le célèbre Peter Griffin, ces chaussettes sont un must pour tout fan de ‘Family Guy’. Conçues pour le confort et la durabilité, elles vous feront marcher avec une pointe d’ironie. Taille unique pour tous les amateurs de satire !”",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
@@ -673,9 +673,9 @@
       },
       {
         "id": 66,
-        "src": "../assets/images/socks/Anime/66.jpeg",
-        "name": "Produit 66",
-        "desc": "description",
+        "src": "../assets/images/socks/Anime/66.jpg",
+        "name": "Chaussettes Springfield Express",
+        "desc": "Embarquez pour une aventure déjantée aux pieds avec nos chaussettes Simpsons ! Avec Homer, Marge et Bart qui s’invitent sur vos orteils, chaque pas est un épisode de bonne humeur. Confortables, résistantes et incroyablement stylées, elles sont le choix parfait pour les fans qui veulent ajouter une touche de fun à leur quotidien sans sacrifier la qualité. Alors, prêt à marcher sur les traces des habitants les plus célèbres de Springfield ?",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
@@ -683,9 +683,9 @@
       },
       {
         "id": 67,
-        "src": "../assets/images/socks/Anime/67.jpeg",
-        "name": "Produit 67",
-        "desc": "description",
+        "src": "../assets/images/socks/Anime/67.jpg",
+        "name": "Bart Simpsons",
+        "desc": "Faites un pied de nez à la routine avec nos chaussettes Bart Simpson ! Avec le visage surpris de Bart sur un pied et son sourire malicieux sur l’autre, ces chaussettes sont une déclaration de style audacieuse. Entourées d’accessoires de bureau et posées sur un fond vert vibrant, elles sont parfaites pour ceux qui aiment mélanger travail et plaisir. Conçues pour le confort et la durabilité, elles vous accompagneront dans toutes vos aventures, aussi espiègles soient-elles !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
@@ -693,9 +693,9 @@
       },
       {
         "id": 68,
-        "src": "../assets/images/socks/Anime/68.jpeg",
-        "name": "Produit 68",
-        "desc": "description",
+        "src": "../assets/images/socks/Anime/68.jpg",
+        "name": "Homer Donuts",
+        "desc": "Laissez-vous tenter par nos chaussettes Homer et Donuts pour un confort sucré à croquer ! Avec un Homer joyeux qui vous invite à déguster des donuts colorés, ces chaussettes sont un régal pour les yeux et les pieds. La partie supérieure blanche contraste avec la myriade de donuts sur fond noir, ajoutant une touche de fantaisie à votre garde-robe. Idéales pour les amateurs de douceurs et les fans des Simpsons, elles sont un clin d’œil gourmand à la célèbre série. Savourez chaque pas avec style et humour !",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
@@ -703,9 +703,9 @@
       },
       {
         "id": 69,
-        "src": "../assets/images/socks/Anime/69.jpeg",
-        "name": "Produit 69",
-        "desc": "description",
+        "src": "../assets/images/socks/Anime/69.jpg",
+        "name": "La famille Simpsons",
+        "desc": "Réunissez toute la bande de Springfield à vos pieds avec nos chaussettes Famille Simpson ! Avec Homer, Marge, Bart, Lisa et Maggie qui paradent dans un festival de couleurs, ces chaussettes sont une célébration de la famille la plus aimée de la télévision. Le fond bleu ciel et turquoise offre un contraste parfait pour mettre en valeur les personnages emblématiques. Conçues pour le confort et la durabilité, elles sont l’accessoire idéal pour les fans qui souhaitent porter leur affection pour les Simpson avec une pointe d’originalité et beaucoup de gaieté.",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
@@ -713,9 +713,9 @@
       },
       {
         "id": 70,
-        "src": "../assets/images/socks/Anime/70.jpeg",
-        "name": "Produit 70",
-        "desc": "description",
+        "src": "../assets/images/socks/Anime/70.jpg",
+        "name": "Naruto",
+        "desc": "Faites un bond dans l’univers de Naruto avec nos chaussettes inspirées par le ninja le plus intrépide de Konoha ! Avec un design éclatant mettant en vedette Naruto Uzumaki dans son emblématique tenue orange, ces chaussettes captureront l’attention de tous les fans. Les détails soignés, des cheveux blonds hérissés aux yeux bleus perçants, sans oublier les marques de moustaches caractéristiques, tout y est. Ajoutez à cela des motifs de feuilles ou shuriken et des tourbillons rouges rappelant la technique Rasengan, et vous avez le parfait hommage au célèbre manga. Prêts à déployer votre chakra avec style ?",
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
@@ -723,7 +723,7 @@
       },
       {
         "id": 71,
-        "src": "../assets/images/socks/Anime/71.jpeg",
+        "src": "../assets/images/socks/Anime/71.jpg",
         "name": "Produit 71",
         "desc": "description",
         "price": 12.99,
@@ -733,7 +733,7 @@
       },
       {
         "id": 72,
-        "src": "../assets/images/socks/Anime/72.jpeg",
+        "src": "../assets/images/socks/Anime/72.jpg",
         "name": "Produit 72",
         "desc": "description",
         "price": 12.99,
@@ -743,7 +743,7 @@
       },
       {
         "id": 73,
-        "src": "../assets/images/socks/Anime/73.jpeg",
+        "src": "../assets/images/socks/Anime/73.jpg",
         "name": "Produit 73",
         "desc": "description",
         "price": 12.99,
@@ -753,7 +753,7 @@
       },
       {
         "id": 74,
-        "src": "../assets/images/socks/Anime/74.jpeg",
+        "src": "../assets/images/socks/Anime/74.jpg",
         "name": "Produit 74",
         "desc": "description",
         "price": 12.99,
@@ -763,7 +763,7 @@
       },
       {
         "id": 75,
-        "src": "../assets/images/socks/Anime/75.jpeg",
+        "src": "../assets/images/socks/Anime/75.jpg",
         "name": "Produit 75",
         "desc": "description",
         "price": 12.99,
@@ -773,7 +773,7 @@
       },
       {
         "id": 76,
-        "src": "../assets/images/socks/Anime/76.jpeg",
+        "src": "../assets/images/socks/Anime/76.jpg",
         "name": "Produit 76",
         "desc": "description",
         "price": 12.99,
@@ -783,7 +783,7 @@
       },
       {
         "id": 77,
-        "src": "../assets/images/socks/Anime/77.jpeg",
+        "src": "../assets/images/socks/Anime/77.jpg",
         "name": "Produit 77",
         "desc": "description",
         "price": 12.99,
@@ -793,7 +793,7 @@
       },
       {
         "id": 78,
-        "src": "../assets/images/socks/Anime/78.jpeg",
+        "src": "../assets/images/socks/Anime/78.jpg",
         "name": "Produit 78",
         "desc": "description",
         "price": 12.99,
@@ -803,7 +803,7 @@
       },
       {
         "id": 79,
-        "src": "../assets/images/socks/Anime/79.jpeg",
+        "src": "../assets/images/socks/Anime/79.jpg",
         "name": "Produit 79",
         "desc": "description",
         "price": 12.99,
@@ -813,7 +813,7 @@
       },
       {
         "id": 80,
-        "src": "../assets/images/socks/Anime/80.jpeg",
+        "src": "../assets/images/socks/Anime/80.jpg",
         "name": "Produit 80",
         "desc": "description",
         "price": 12.99,
@@ -823,7 +823,7 @@
       },
       {
         "id": 81,
-        "src": "../assets/images/socks/Anime/81.jpeg",
+        "src": "../assets/images/socks/Anime/81.jpg",
         "name": "Produit 81",
         "desc": "description",
         "price": 12.99,
@@ -833,7 +833,7 @@
       },
       {
         "id": 82,
-        "src": "../assets/images/socks/Anime/82.jpeg",
+        "src": "../assets/images/socks/Anime/82.jpg",
         "name": "Produit 82",
         "desc": "description",
         "price": 12.99,
@@ -843,7 +843,7 @@
       },
       {
         "id": 83,
-        "src": "../assets/images/socks/Anime/83.jpeg",
+        "src": "../assets/images/socks/Anime/83.jpg",
         "name": "Produit 83",
         "desc": "description",
         "price": 12.99,
@@ -853,7 +853,7 @@
       },
       {
         "id": 84,
-        "src": "../assets/images/socks/Anime/84.jpeg",
+        "src": "../assets/images/socks/Anime/84.jpg",
         "name": "Produit 84",
         "desc": "description",
         "price": 12.99,
@@ -863,7 +863,7 @@
       },
       {
         "id": 85,
-        "src": "../assets/images/socks/Anime/85.jpeg",
+        "src": "../assets/images/socks/Anime/85.jpg",
         "name": "Produit 85",
         "desc": "description",
         "price": 12.99,
@@ -873,7 +873,7 @@
       },
       {
         "id": 86,
-        "src": "../assets/images/socks/Anime/86.jpeg",
+        "src": "../assets/images/socks/Anime/86.jpg",
         "name": "Produit 86",
         "desc": "description",
         "price": 12.99,
@@ -883,7 +883,7 @@
       },
       {
         "id": 87,
-        "src": "../assets/images/socks/Anime/87.jpeg",
+        "src": "../assets/images/socks/Anime/87.jpg",
         "name": "Produit 87",
         "desc": "description",
         "price": 12.99,
@@ -893,7 +893,7 @@
       },
       {
         "id": 88,
-        "src": "../assets/images/socks/Anime/88.jpeg",
+        "src": "../assets/images/socks/Anime/88.jpg",
         "name": "Produit 88",
         "desc": "description",
         "price": 12.99,
@@ -903,7 +903,7 @@
       },
       {
         "id": 89,
-        "src": "../assets/images/socks/Anime/89.jpeg",
+        "src": "../assets/images/socks/Anime/89.jpg",
         "name": "Produit 89",
         "desc": "description",
         "price": 12.99,
@@ -913,7 +913,7 @@
       },
       {
         "id": 90,
-        "src": "../assets/images/socks/Anime/90.jpeg",
+        "src": "../assets/images/socks/Anime/90.jpg",
         "name": "Produit 90",
         "desc": "description",
         "price": 12.99,
@@ -931,7 +931,7 @@
     "products": [
       {
         "id": 91,
-        "src": "../assets/images/socks/Art/91.jpeg",
+        "src": "../assets/images/socks/Art/91.jpg",
         "name": "Night",
         "desc": "Illuminez votre garde-robe avec nos chaussettes ‘Night’! Inspirées par le chef-d’œuvre de Van Gogh, ces chaussettes sont un véritable tableau pour vos pieds. Confortables, élégantes et dotées d’un design qui fera tourner les têtes, elles sont parfaites pour celles et ceux qui veulent marcher sous les étoiles, de jour comme de nuit. Ajoutez une touche d’art à chaque pas !",
         "price": 12.99,
@@ -941,7 +941,7 @@
       },
       {
         "id": 92,
-        "src": "../assets/images/socks/Art/92.jpeg",
+        "src": "../assets/images/socks/Art/92.jpg",
         "name": "Pearl",
         "desc": "Exprimez votre palette de style avec nos chaussettes ‘Pearl’ ! Avec un design audacieux qui cache juste assez pour éveiller la curiosité, ces chaussettes sont parfaites pour ajouter une touche de mystère à votre tenue. Confortables et conçues pour susciter des conversations, elles sont l’accessoire idéal pour les amateurs et amatrices d’art qui aiment un peu de secret. Soyez le centre d’attention à chaque pas !",
         "price": 12.99,
@@ -951,7 +951,7 @@
       },
       {
         "id": 93,
-        "src": "../assets/images/socks/Art/93.jpeg",
+        "src": "../assets/images/socks/Art/93.jpg",
         "name": "Flower Thrower",
         "desc": "Faites un pas vers l’élégance et l'engagement avec nos chaussettes 'Flower Thrower' ! Inspirées par la calèbre oeuvre de Banksy, on retrouve d’un côté, une silhouette mystérieuse qui évoque le mouvement et la liberté; de l’autre, un bouquet de fleurs éclatantes qui apporte une touche de nature à votre quotidien. Avec leurs couleurs vives et leur design accrocheur, ces chaussettes sont parfaites pour celles et ceux qui cherchent à combiner style et originalité. Laissez vos pieds raconter une histoire à chaque pas !",
         "price": 12.99,
@@ -961,7 +961,7 @@
       },
       {
         "id": 94,
-        "src": "../assets/images/socks/Art/94.jpeg",
+        "src": "../assets/images/socks/Art/94.jpg",
         "name": "Campbell",
         "desc": "Ajoutez une touche de pop art à votre quotidien avec nos chaussettes ‘Campbell’ ! Inspirées par l’iconique boîte de soupe Campbell, ces chaussettes sont un clin d’œil à l’art moderne d'Andy Warhol et à la culture pop. Avec leur design audacieux et leurs couleurs vives, elles promettent de réveiller n’importe quelle tenue. Parfaites pour les amatrices et amateurs d’art, qui aiment la mode et l'audace. Laissez vos pieds montrer votre goût pour l’art à chaque pas !",
         "price": 12.99,
@@ -971,7 +971,7 @@
       },
       {
         "id": 95,
-        "src": "../assets/images/socks/Art/95.jpeg",
+        "src": "../assets/images/socks/Art/95.jpg",
         "name": "Joconde",
         "desc": "Marchez dans un musée à ciel ouvert avec nos chaussettes ‘Joconde’ ! Ces chaussettes arborent une reproduction colorée de la peinture renommée, avec un twist moderne : le visage est astucieusement dissimulé, ajoutant une touche de mystère. Avec leur confort et leur style inimitable, elles sont parfaites pour les amatrices et amateurs d’art qui aiment exprimer leur passion de façon subtile. Laissez l’art vous accompagner à chaque pas !",
         "price": 12.99,
@@ -981,7 +981,7 @@
       },
       {
         "id": 96,
-        "src": "../assets/images/socks/Art/96.jpeg",
+        "src": "../assets/images/socks/Art/96.jpg",
         "name": "Frida",
         "desc": "Faites le pas vers l’originalité avec nos chaussettes ‘Frida’ ! Conçues pour les esprits créatifs, ces chaussettes allient confort suprême, design artistique et hommage à une grande artiste. Avec leur motif floral éclatant et leur touche de mystère, elles promettent de transformer chaque pas en déclaration de style. Parfaites pour les amateurs d’art qui ne craignent pas d’afficher leur singularité !",
         "price": 12.99,
@@ -991,7 +991,7 @@
       },
       {
         "id": 97,
-        "src": "../assets/images/socks/Art/97.jpeg",
+        "src": "../assets/images/socks/Art/97.jpg",
         "name": "Andy",
         "desc": "“Plongez dans un univers de style avec nos chaussettes ‘Andy’ ! Avec leurs motifs audacieux et leurs couleurs vives, elles sont la touche finale parfaite pour toute tenue qui ose se démarquer. Confortables et tendance, elles sont un clin d’œil à l’art moderne. Soyez le centre de l’attention, une chaussette à la fois !”",
         "price": 12.99,
@@ -1001,7 +1001,7 @@
       },
       {
         "id": 98,
-        "src": "../assets/images/socks/Art/98.jpeg",
+        "src": "../assets/images/socks/Art/98.jpg",
         "name": "Jackson",
         "desc": "Élevez votre style avec nos chaussettes ‘Jackson', inspirées des oeuvres de Jackson Pollock ! Ces joyaux du design sont une véritable toile de maître à vos pieds. Avec leur mélange harmonieux de couleurs vives et de motifs abstraits, elles promettent de captiver les regards et d’ajouter une touche d’élégance artistique à votre quotidien. Confortables et ornées de détails en relief, elles ne manqueront pas de faire sensation !",
         "price": 12.99,
@@ -1011,7 +1011,7 @@
       },
       {
         "id": 99,
-        "src": "../assets/images/socks/Art/99.jpeg",
+        "src": "../assets/images/socks/Art/99.jpg",
         "name": "Léonard",
         "desc": "Enfilez 'Léonard', ces chaussettes inspirées des chefs-d’œuvre de la Renaissance. Avec un design qui ferait sourire De Vinci lui-même, ces chaussettes sont la touche finale parfaite pour tout amatrice ou amateur d’art avec un bon sens de l’humour. Confortables, élégantes et un brin espiègles, elles sont conçues pour celles et ceux qui aiment marcher sur les traces des grands maîtres… tout en gardant les pieds bien au chaud ",
         "price": 12.99,
@@ -1021,7 +1021,7 @@
       },
       {
         "id": 100,
-        "src": "../assets/images/socks/Art/100.jpeg",
+        "src": "../assets/images/socks/Art/100.jpg",
         "name": "Gorilla",
         "desc": "Ajoutez une touche de fantaisie et d'originalité à votre garde-robe avec nos chaussettes ‘Gorilla’, inspirée des oeuvres de Banksy ! Ces chaussettes sont une véritable célébration du streetart. Leur design réaliste sur fond texturé promet de capturer l’imagination et d’apporter une note d’originalité à vos tenues. Confortables et élégantes, elles sont parfaites pour celles et ceux qui aiment raconter une histoire à travers leur style !",
         "price": 12.99,
@@ -1031,7 +1031,7 @@
       },
       {
         "id": 101,
-        "src": "../assets/images/socks/Art/101.jpeg",
+        "src": "../assets/images/socks/Art/101.jpg",
         "name": "Gustav",
         "desc": "Faites sensation avec nos chaussettes 'Gustav' ! Inspirées du grand tableau 'Le Baiser', elles sont une véritable œuvre d'art pour vos pieds. Avec leur design coloré et audacieux, elles ajoutent une touche de romantisme et de fantaisie à votre garde-robe. Confortables et fabriquées pour durer, elles ne manqueront pas de démarrer des conversations.",
         "price": 12.99,
@@ -1041,7 +1041,7 @@
       },
       {
         "id": 102,
-        "src": "../assets/images/socks/Art/102.jpeg",
+        "src": "../assets/images/socks/Art/102.jpg",
         "name": "Salvador",
         "desc": "Éveillez votre style avec nos chaussettes 'Salvador' ! Conçues pour les esprits créatifs, ces chaussettes arborent un design inspiré de l'art abstrait de Salvador Dali qui captivera les regards. Avec leurs motifs colorés, elles sont parfaites pour celles et ceux qui aiment garder une part de mystère. Confort et conversation artistique garantis à chaque pas !",
         "price": 12.99,
@@ -1051,7 +1051,7 @@
       },
       {
         "id": 103,
-        "src": "../assets/images/socks/Art/103.jpeg",
+        "src": "../assets/images/socks/Art/103.jpg",
         "name": "Hokusai",
         "desc": "Surfez sur la vague de la mode avec nos chaussettes ‘Hokusai’ ! Inspirées par la célèbre œuvre japonaise, ces chaussettes captent l’essence de la mer avec leurs motifs ondulants et leurs nuances de bleu profond. Parfaites pour les amatrices et amateurs d’art et les esprits libres, elles apportent une touche de sérénité et de style à chaque pas. Confortables et artistiques, elles sont une invitation à l’aventure quotidienne, un pied après l’autre.",
         "price": 12.99,
@@ -1061,7 +1061,7 @@
       },
       {
         "id": 104,
-        "src": "../assets/images/socks/Art/104.jpeg",
+        "src": "../assets/images/socks/Art/104.jpg",
         "name": "Brooklyn",
         "desc": "Marchez dans les pas d’un maître de l’expressionnisme moderne avec ces chaussettes 'Brooklyn' inspirées par l’art audacieux de Jean-Michel Basquiat. Avec leur mélange de couleurs vives et de motifs évoquant les graffitis, elles sont un hommage portable à l’artiste qui a brisé les frontières entre l’art de rue et la galerie. Parfaites pour les esprits rebelles et les amatrices et amateurs d’art contemporain, ces chaussettes sont une déclaration de style qui crie ‘Boom for real’ à chaque pas",
         "price": 12.99,
@@ -1071,7 +1071,7 @@
       },
       {
         "id": 105,
-        "src": "../assets/images/socks/Art/105.jpeg",
+        "src": "../assets/images/socks/Art/105.jpg",
         "name": "Piet",
         "desc": "Plongez vos pieds dans un chef-d'œuvre avec nos chaussettes 'Piet' ! Ces chaussettes sont un hommage vibrant aux lignes épurées et aux couleurs primaires de l'art moderne. Avec leur mélange audacieux de rouge, bleu et jaune, séparés par des contours noirs, elles sont parfaites pour celles et ceux qui veulent marcher au rythme de l'art. Confortables, élégantes et pleines de caractère, elles feront de chaque pas une déclaration d'amour pour l'art. Exprimez votre palette intérieure !",
         "price": 12.99,
@@ -1081,7 +1081,7 @@
       },
       {
         "id": 106,
-        "src": "../assets/images/socks/Art/106.jpeg",
+        "src": "../assets/images/socks/Art/106.jpg",
         "name": "Vincent",
         "desc": "Marchez sous les étoiles avec nos chaussettes 'Vincent' ! Inspirées par les chefs-d'œuvre de Van Gogh, ces chaussettes combinent la beauté des tournesols avec les tourbillons célestes pour un effet artistique saisissant. Parfaites pour illuminer votre tenue, elles sont un hommage à l'art qui ne manquera pas d'attirer l'attention. Confortables et conçues pour inspirer, elles sont la touche finale idéale pour les amatrices et amateurs d'art et de nature.",
         "price": 12.99,
@@ -1091,7 +1091,7 @@
       },
       {
         "id": 107,
-        "src": "../assets/images/socks/Art/107.jpeg",
+        "src": "../assets/images/socks/Art/107.jpg",
         "name": "Kahlo",
         "desc": "Faites le pas vers l’originalité avec nos chaussettes ‘Kahlo’ ! Conçues pour ceux et celles qui aiment ajouter une touche de fantaisie à leur quotidien, ces chaussettes sont un véritable bouquet de confort. Avec leurs motifs floraux éclatants, leur hommage à la grande artiste Frida Kahlo, leurs couleurs vives, elles promettent de garder vos pieds dans une étreinte aussi douce que ludique. Parfaites pour les esprits créatifs, elles sont la promesse d’une démarche fleurie, où que vous alliez !",
         "price": 12.99,
@@ -1101,7 +1101,7 @@
       },
       {
         "id": 108,
-        "src": "../assets/images/socks/Art/108.jpeg",
+        "src": "../assets/images/socks/Art/108.jpg",
         "name": "Sunrise",
         "desc": "Illuminez votre garde-robe avec les chaussettes ‘Sunrise’! Inspirées par le chef-d’œuvre de Monet, elles évoquent la douceur d’un soleil levant qui baigne le port du Havre dans une lumière dorée. Chaque pas est une œuvre d’art, mêlant les nuances brumeuses et les reflets chatoyants de l’eau, capturant l’essence même de l’impressionnisme. Parfaites pour les amateurs d’art et d’aventure, ces chaussettes sont une invitation à commencer la journée avec élégance et une touche de poésie.",
         "price": 12.99,
@@ -1111,7 +1111,7 @@
       },
       {
         "id": 109,
-        "src": "../assets/images/socks/Art/109.jpeg",
+        "src": "../assets/images/socks/Art/109.jpg",
         "name": "Claude",
         "desc": "Plongez vos pieds dans un chef-d’œuvre aquatique avec nos chaussettes ‘Claude’ ! Avec leur design inspiré des étangs de nénuphars, elles apportent une touche de sérénité à votre garde-robe. Les couleurs vives et apaisantes évoquent la tranquillité d’un jardin d’eau, offrant un confort visuel et physique. Idéales pour les amoureux de la nature et de l’art, ces chaussettes sont une invitation à marcher sur l’eau avec élégance et fantaisie",
         "price": 12.99,
@@ -1121,7 +1121,7 @@
       },
       {
         "id": 110,
-        "src": "../assets/images/socks/Art/110.jpeg",
+        "src": "../assets/images/socks/Art/110.jpg",
         "name": "Water Lily",
         "desc": "Flânez dans un jardin aquatique avec nos chaussettes 'Water Lily' ! Inspirées par les célèbres peintures de Claude Monet, ces chaussettes transforment vos pieds en une toile impressionniste. Les teintes de vert, bleu et orange évoquent la sérénité des étangs fleuris, tandis que le design confortable assure que chaque pas est un plongeon dans le monde de l'art. Idéales pour les amoureux de la nature et de la peinture, elles apportent une touche de poésie à votre quotidien.",
         "price": 12.99,
@@ -1131,7 +1131,7 @@
       },
       {
         "id": 111,
-        "src": "../assets/images/socks/Art/111.jpeg",
+        "src": "../assets/images/socks/Art/111.jpg",
         "name": "Jean-Michel",
         "desc": "Marchez dans les pas de l’art avec nos chaussettes ‘Jean-Michel’ ! Inspirées par l’œuvre iconique de Jean-Michel Basquiat, ces chaussettes sont une célébration de l’art contemporain à vos pieds. Jaune éclatant avec des motifs noirs rappelant le style inimitable de Basquiat, elles sont parfaites pour celles et ceux qui cherchent à mélanger art et confort. Douces au toucher, elles transformeront vos pas en une toile de rue mobile. Portez-les et laissez votre empreinte artistique dans le monde professionnel !",
         "price": 12.99,
@@ -1141,7 +1141,7 @@
       },
       {
         "id": 112,
-        "src": "../assets/images/socks/Art/112.jpeg",
+        "src": "../assets/images/socks/Art/112.jpg",
         "name": "Square",
         "desc": "Ajoutez une touche de gaieté à votre tenue avec nos chaussettes ‘Square’ ! Ces chaussettes sont un véritable kaléidoscope pour vos pieds, avec leurs motifs géométriques audacieux et leurs couleurs vives. Parfaites pour égayer une journée grise ou pour compléter un look, elles sont conçues pour celles et ceux qui osent montrer leur style unique. Confortables, elles sont le choix idéal pour marcher avec confiance et couleurs !",
         "price": 12.99,
@@ -1151,7 +1151,7 @@
       },
       {
         "id": 113,
-        "src": "../assets/images/socks/Art/113.jpeg",
+        "src": "../assets/images/socks/Art/113.jpg",
         "name": "Rembrandt",
         "desc": "Marchez à travers l’histoire avec nos chaussettes ‘Rembrandt’ ! Arborant un imprimé inspiré des oeuvres de la Renaissance, ces chaussettes sont une véritable toile d’art pour vos pieds. Chaque pas raconte une histoire, avec des personnages vêtus de leurs plus beaux atours parmi les nuages. Confortables et captivantes, elles sont parfaites pour les amateurs d’histoire et d’art, ajoutant une touche de noblesse à chaque tenue. Enfilez-les et faites de chaque journée un chapitre mémorable de votre propre saga !",
         "price": 12.99,
@@ -1161,7 +1161,7 @@
       },
       {
         "id": 114,
-        "src": "../assets/images/socks/Art/114.jpeg",
+        "src": "../assets/images/socks/Art/114.jpg",
         "name": "Michelangelo",
         "desc": "Plongez vos pieds dans un chef-d’œuvre avec nos chaussettes ‘Michelangelo’ ! La palette de couleurs vivantes crée un spectacle visuel qui ne manquera pas d’attirer les regards, tandis que le confort supérieur vous permettra de parcourir les galeries de la vie quotidienne avec aisance. Portez-les et faites de chaque journée une exposition d’art exceptionnelle !",
         "price": 12.99,
@@ -1171,7 +1171,7 @@
       },
       {
         "id": 115,
-        "src": "../assets/images/socks/Art/115.jpeg",
+        "src": "../assets/images/socks/Art/115.jpg",
         "name": "Georgia",
         "desc": "Éveillez vos sens avec les chaussettes ‘Georgia’! Inspirées par les toiles emblématiques de Georgia O’Keeffe, ces chaussettes sont une célébration de la couleur et de la forme. Chaque fibre est imprégnée de l’esprit audacieux de l’artiste, avec des motifs qui rappellent ses célèbres fleurs agrandies et ses paysages du Nouveau-Mexique. Portez un morceau de l’histoire de l’art à vos pieds et laissez-vous transporter dans un monde où la nature rencontre l’abstraction.",
         "price": 12.99,
@@ -1181,7 +1181,7 @@
       },
       {
         "id": 116,
-        "src": "../assets/images/socks/Art/116.jpeg",
+        "src": "../assets/images/socks/Art/116.jpg",
         "name": "Keith",
         "desc": "Faites vibrer vos pas au rythme de Keith Haring avec nos chaussettes ‘Haring’ ! Inspirées par l’iconique artiste, ces chaussettes sont une toile de confort où danse l’art. Les silhouettes orange énergiques sur fond gris évoquent le dynamisme et la liberté d’expression caractéristiques de Haring. Un clin d’œil artistique à vos pieds, elles sont parfaites pour celles et ceux qui marchent sur le chemin de l’art avec audace et légèreté. Portez-les et faites de chaque pas une déclaration d’art !",
         "price": 12.99,
@@ -1191,7 +1191,7 @@
       },
       {
         "id": 117,
-        "src": "../assets/images/socks/Art/117.jpeg",
+        "src": "../assets/images/socks/Art/117.jpg",
         "name": "Edvard",
         "desc": "Résonnez avec l’art expressionniste avec les chaussettes ‘Edvard’! Capturant l’essence tourmentée de la célèbre peinture de Munch, ces chaussettes sont un cri visuel qui traverse le tissu. Les lignes ondulantes et les couleurs ardentes enveloppent vos pieds, évoquant la puissance émotionnelle de l’œuvre originale. Portez un symbole de l’angoisse et de la beauté de la condition humaine, tout en ajoutant une touche de drame artistique à votre style quotidien.",
         "price": 12.99,
@@ -1201,7 +1201,7 @@
       },
       {
         "id": 118,
-        "src": "../assets/images/socks/Art/118.jpeg",
+        "src": "../assets/images/socks/Art/118.jpg",
         "name": "René",
         "desc": "Découvrez le mystère à chaque pas avec nos chaussettes ‘René’ ! Inspirées par les œuvres surréalistes de René Magritte, ces chaussettes sont une énigme enveloppant vos pieds. Elles capturent l’essence de l’art de Magritte, où le jour se mêle à la nuit et la réalité au rêve. Avec leur design qui défie la logique, elles sont parfaites pour celles et ceux qui cherchent à ajouter une touche de poésie et d’énigme à leur garde-robe professionnelle. Confortables et captivantes, elles vous invitent à laisser libre cours à votre imagination. Portez-les et faites de chaque journée une œuvre d’art !",
         "price": 12.99,
@@ -1211,7 +1211,7 @@
       },
       {
         "id": 119,
-        "src": "../assets/images/socks/Art/119.jpeg",
+        "src": "../assets/images/socks/Art/119.jpg",
         "name": "Haring",
         "desc": "Exprimez votre art de vivre avec nos chaussettes ‘Haring’ ! Inspirées par l’énergie des oeuvre de Keith Haring, ces chaussettes sont un véritable manifeste de style. Les motifs colorés et ludiques, mêlant figures humaines et formes géométriques, évoquent l’art de rue emblématique de Haring. Un hommage pied-à-terre à l’esprit rebelle de l’art moderne, elles sont la promesse d’une démarche audacieuse et d’un confort sans compromis. Laissez vos pieds parler d’art !",
         "price": 12.99,
@@ -1221,7 +1221,7 @@
       },
       {
         "id": 120,
-        "src": "../assets/images/socks/Art/120.jpeg",
+        "src": "../assets/images/socks/Art/120.jpg",
         "name": "Auguste",
         "desc": "Promenez-vous dans une galerie d’art à chaque pas avec les chaussettes ‘Auguste’! Arborant un design riche et coloré qui rappelle les toiles vibrantes de l'époque d'Auguste Renoir, ces chaussettes transforment vos pieds en chefs-d’œuvre ambulants. Le confort rencontre la classe dans ce tissu doux, où chaque couleur raconte une histoire de rencontres et de paysages urbains. Idéales pour les amateurs d’histoire et d’élégance, elles ajoutent une touche de sophistication à toute tenue, tout en gardant une pointe d’humour.",
         "price": 12.99,
@@ -1239,7 +1239,7 @@
     "products": [
       {
         "id": 121,
-        "src": "../assets/images/socks/Festif/121.jpeg",
+        "src": "../assets/images/socks/Festif/121.jpg",
         "name": "Produit 121",
         "desc": "description",
         "price": 12.99,
@@ -1249,7 +1249,7 @@
       },
       {
         "id": 122,
-        "src": "../assets/images/socks/Festif/122.jpeg",
+        "src": "../assets/images/socks/Festif/122.jpg",
         "name": "Produit 122",
         "desc": "description",
         "price": 12.99,
@@ -1259,7 +1259,7 @@
       },
       {
         "id": 123,
-        "src": "../assets/images/socks/Festif/123.jpeg",
+        "src": "../assets/images/socks/Festif/123.jpg",
         "name": "Produit 123",
         "desc": "description",
         "price": 12.99,
@@ -1269,7 +1269,7 @@
       },
       {
         "id": 124,
-        "src": "../assets/images/socks/Festif/124.jpeg",
+        "src": "../assets/images/socks/Festif/124.jpg",
         "name": "Produit 124",
         "desc": "description",
         "price": 12.99,
@@ -1279,7 +1279,7 @@
       },
       {
         "id": 125,
-        "src": "../assets/images/socks/Festif/125.jpeg",
+        "src": "../assets/images/socks/Festif/125.jpg",
         "name": "Produit 125",
         "desc": "description",
         "price": 12.99,
@@ -1289,7 +1289,7 @@
       },
       {
         "id": 126,
-        "src": "../assets/images/socks/Festif/126.jpeg",
+        "src": "../assets/images/socks/Festif/126.jpg",
         "name": "Produit 126",
         "desc": "description",
         "price": 12.99,
@@ -1299,7 +1299,7 @@
       },
       {
         "id": 127,
-        "src": "../assets/images/socks/Festif/127.jpeg",
+        "src": "../assets/images/socks/Festif/127.jpg",
         "name": "Produit 127",
         "desc": "description",
         "price": 12.99,
@@ -1309,7 +1309,7 @@
       },
       {
         "id": 128,
-        "src": "../assets/images/socks/Festif/128.jpeg",
+        "src": "../assets/images/socks/Festif/128.jpg",
         "name": "Produit 128",
         "desc": "description",
         "price": 12.99,
@@ -1319,7 +1319,7 @@
       },
       {
         "id": 129,
-        "src": "../assets/images/socks/Festif/129.jpeg",
+        "src": "../assets/images/socks/Festif/129.jpg",
         "name": "Produit 129",
         "desc": "description",
         "price": 12.99,
@@ -1329,7 +1329,7 @@
       },
       {
         "id": 130,
-        "src": "../assets/images/socks/Festif/130.jpeg",
+        "src": "../assets/images/socks/Festif/130.jpg",
         "name": "Produit 130",
         "desc": "description",
         "price": 12.99,
@@ -1339,7 +1339,7 @@
       },
       {
         "id": 131,
-        "src": "../assets/images/socks/Festif/131.jpeg",
+        "src": "../assets/images/socks/Festif/131.jpg",
         "name": "Produit 131",
         "desc": "description",
         "price": 12.99,
@@ -1349,7 +1349,7 @@
       },
       {
         "id": 132,
-        "src": "../assets/images/socks/Festif/132.jpeg",
+        "src": "../assets/images/socks/Festif/132.jpg",
         "name": "Produit 132",
         "desc": "description",
         "price": 12.99,
@@ -1359,7 +1359,7 @@
       },
       {
         "id": 133,
-        "src": "../assets/images/socks/Festif/133.jpeg",
+        "src": "../assets/images/socks/Festif/133.jpg",
         "name": "Produit 133",
         "desc": "description",
         "price": 12.99,
@@ -1369,7 +1369,7 @@
       },
       {
         "id": 134,
-        "src": "../assets/images/socks/Festif/134.jpeg",
+        "src": "../assets/images/socks/Festif/134.jpg",
         "name": "Produit 134",
         "desc": "description",
         "price": 12.99,
@@ -1379,7 +1379,7 @@
       },
       {
         "id": 135,
-        "src": "../assets/images/socks/Festif/135.jpeg",
+        "src": "../assets/images/socks/Festif/135.jpg",
         "name": "Produit 135",
         "desc": "description",
         "price": 12.99,
@@ -1389,7 +1389,7 @@
       },
       {
         "id": 136,
-        "src": "../assets/images/socks/Festif/136.jpeg",
+        "src": "../assets/images/socks/Festif/136.jpg",
         "name": "Produit 136",
         "desc": "description",
         "price": 12.99,
@@ -1399,7 +1399,7 @@
       },
       {
         "id": 137,
-        "src": "../assets/images/socks/Festif/137.jpeg",
+        "src": "../assets/images/socks/Festif/137.jpg",
         "name": "Produit 137",
         "desc": "description",
         "price": 12.99,
@@ -1409,7 +1409,7 @@
       },
       {
         "id": 138,
-        "src": "../assets/images/socks/Festif/138.jpeg",
+        "src": "../assets/images/socks/Festif/138.jpg",
         "name": "Produit 138",
         "desc": "description",
         "price": 12.99,
@@ -1419,7 +1419,7 @@
       },
       {
         "id": 139,
-        "src": "../assets/images/socks/Festif/139.jpeg",
+        "src": "../assets/images/socks/Festif/139.jpg",
         "name": "Produit 139",
         "desc": "description",
         "price": 12.99,
@@ -1429,7 +1429,7 @@
       },
       {
         "id": 140,
-        "src": "../assets/images/socks/Festif/140.jpeg",
+        "src": "../assets/images/socks/Festif/140.jpg",
         "name": "Produit 140",
         "desc": "description",
         "price": 12.99,
@@ -1439,7 +1439,7 @@
       },
       {
         "id": 141,
-        "src": "../assets/images/socks/Festif/141.jpeg",
+        "src": "../assets/images/socks/Festif/141.jpg",
         "name": "Produit 141",
         "desc": "description",
         "price": 12.99,
@@ -1449,7 +1449,7 @@
       },
       {
         "id": 142,
-        "src": "../assets/images/socks/Festif/142.jpeg",
+        "src": "../assets/images/socks/Festif/142.jpg",
         "name": "Produit 142",
         "desc": "description",
         "price": 12.99,
@@ -1459,7 +1459,7 @@
       },
       {
         "id": 143,
-        "src": "../assets/images/socks/Festif/143.jpeg",
+        "src": "../assets/images/socks/Festif/143.jpg",
         "name": "Produit 143",
         "desc": "description",
         "price": 12.99,
@@ -1469,7 +1469,7 @@
       },
       {
         "id": 144,
-        "src": "../assets/images/socks/Festif/144.jpeg",
+        "src": "../assets/images/socks/Festif/144.jpg",
         "name": "Produit 144",
         "desc": "description",
         "price": 12.99,
@@ -1479,7 +1479,7 @@
       },
       {
         "id": 145,
-        "src": "../assets/images/socks/Festif/145.jpeg",
+        "src": "../assets/images/socks/Festif/145.jpg",
         "name": "Produit 145",
         "desc": "description",
         "price": 12.99,
@@ -1489,7 +1489,7 @@
       },
       {
         "id": 146,
-        "src": "../assets/images/socks/Festif/146.jpeg",
+        "src": "../assets/images/socks/Festif/146.jpg",
         "name": "Produit 146",
         "desc": "description",
         "price": 12.99,
@@ -1499,7 +1499,7 @@
       },
       {
         "id": 147,
-        "src": "../assets/images/socks/Festif/147.jpeg",
+        "src": "../assets/images/socks/Festif/147.jpg",
         "name": "Produit 147",
         "desc": "description",
         "price": 12.99,
@@ -1509,7 +1509,7 @@
       },
       {
         "id": 148,
-        "src": "../assets/images/socks/Festif/148.jpeg",
+        "src": "../assets/images/socks/Festif/148.jpg",
         "name": "Produit 148",
         "desc": "description",
         "price": 12.99,
@@ -1519,7 +1519,7 @@
       },
       {
         "id": 149,
-        "src": "../assets/images/socks/Festif/149.jpeg",
+        "src": "../assets/images/socks/Festif/149.jpg",
         "name": "Produit 149",
         "desc": "description",
         "price": 12.99,
@@ -1529,7 +1529,7 @@
       },
       {
         "id": 150,
-        "src": "../assets/images/socks/Festif/150.jpeg",
+        "src": "../assets/images/socks/Festif/150.jpg",
         "name": "Produit 150",
         "desc": "description",
         "price": 12.99,
