@@ -937,7 +937,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 92,
@@ -947,7 +947,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 93,
@@ -957,7 +957,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 94,
@@ -967,7 +967,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 95,
@@ -977,7 +977,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 96,
@@ -987,7 +987,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 97,
@@ -997,7 +997,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 98,
@@ -1007,7 +1007,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 99,
@@ -1017,7 +1017,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 100,
@@ -1027,7 +1027,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 101,
@@ -1037,7 +1037,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 102,
@@ -1047,7 +1047,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 103,
@@ -1057,7 +1057,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 104,
@@ -1067,7 +1067,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 105,
@@ -1077,7 +1077,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 106,
@@ -1087,7 +1087,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 107,
@@ -1097,7 +1097,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 108,
@@ -1107,7 +1107,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 109,
@@ -1117,7 +1117,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 110,
@@ -1127,7 +1127,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 111,
@@ -1137,7 +1137,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 112,
@@ -1147,7 +1147,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 113,
@@ -1157,7 +1157,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 114,
@@ -1167,7 +1167,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 115,
@@ -1177,7 +1177,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 116,
@@ -1187,7 +1187,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 117,
@@ -1197,7 +1197,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 118,
@@ -1207,7 +1207,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 119,
@@ -1217,7 +1217,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       },
       {
         "id": 120,
@@ -1227,7 +1227,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "size": [{ "35_38": true }, { "39_42": true }, { "43_46": true }]
+        "size": [{ "size": "35-38", "available": true }, { "size": "39-42", "available": true }, { "size": "43-46", "available": true }]
       }
     ]
   },
