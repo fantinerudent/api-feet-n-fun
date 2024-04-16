@@ -7,7 +7,7 @@
     "products": [
       {
         "id": 1,
-        "src": "../../assets/images/socks/Sport/1.jpg",
+        "src": "../../assets/images/socks/Sport/1-Photoroom.webp",
         "name": "Brogits club",
         "desc": "“Faites un slam dunk dans le style avec ces chaussettes sportives ! Ornées de ballons de basket colorés et d’un joueur en action, elles sont le mélange parfait entre confort et style. Fabriquées pour les champions, elles vous feront sentir comme une star à chaque pas ! 🏀✨”",
         "price": 12.99,
@@ -21,7 +21,7 @@
       },
       {
         "id": 2,
-        "src": "../../assets/images/socks/Sport/2.jpg",
+        "src": "../../assets/images/socks/Sport/2-Photoroom.webp",
         "name": "Mesi",
         "desc": "“Faites un pas audacieux avec nos chaussettes ‘Mesi Magic’ ! Conçues pour les fans, ces joyaux sont aussi colorés que le jeu de l’homme lui-même. Avec une qualité qui rivalise avec les compétences sur le terrain de Messi, elles sont confortables, durables et garanties pour marquer des points dans la rue comme sur le terrain !”",
         "price": 12.99,
@@ -35,7 +35,7 @@
       },
       {
         "id": 3,
-        "src": "../../assets/images/socks/Sport/3.jpg",
+        "src": "../../assets/images/socks/Sport/3-Photoroom.webp",
         "name": "Club",
         "desc": "“Fais la différence sur le terrain avec nos chaussettes ‘Club Emblem’ ! Ornées du logo emblématique de ton club, elles sont le mélange parfait entre confort et fierté. Fabriquées pour les vrais supporters, elles te feront sentir comme un champion à chaque pas ! ⚽🔥”",
         "price": 12.99,
@@ -49,7 +49,7 @@
       },
       {
         "id": 4,
-        "src": "../../assets/images/socks/Sport/4.jpg",
+        "src": "../../assets/images/socks/Sport/4-Photoroom.webp",
         "name": "Chaussettes de Football Légendaires",
         "desc": "Faites un pas audacieux avec ces chaussettes de footballeur ! Avec des étoiles qui brillent aussi fort que vos compétences sur le terrain et des joueurs qui sont prêts à marquer le but gagnant, ces chaussettes ne sont pas seulement un choix de mode, mais une déclaration d’amour pour le beau jeu. Confortables, colorées et pleines d’énergie - elles sont prêtes à vous accompagner dans chaque match, chaque victoire et chaque moment mémorable ! Alors, êtes-vous prêt à chausser vos héros ?",
         "price": 12.99,
@@ -63,7 +63,7 @@
       },
       {
         "id": 5,
-        "src": "../../assets/images/socks/Sport/5.jpg",
+        "src": "../../assets/images/socks/Sport/5-Photoroom.webp",
         "name": "Sogebsiy",
         "desc": "Découvrez nos chaussettes de rugby haut de gamme, conçues pour offrir performance et confort sur le terrain. Fabriquées avec des matériaux de qualité supérieure, nos chaussettes assurent une excellente circulation de l'air pour garder vos pieds au sec et au frais pendant les matchs intenses. Leur construction résistante offre un soutien optimal aux pieds et aux mollets, tandis que les zones rembourrées au talon et aux orteils offrent une protection contre les chocs et les frottements. Disponibles dans une variété de couleurs vives et de designs dynamiques, nos chaussettes de rugby ajoutent une touche de style à votre tenue sur le terrain. Faites confiance à notre sélection pour vous accompagner vers la victoire à chaque match",
         "price": 12.99,
@@ -77,7 +77,7 @@
       },
       {
         "id": 6,
-        "src": "../../assets/images/socks/Sport/6.jpg",
+        "src": "../../assets/images/socks/Sport/6-Photoroom.webp",
         "name": "Maradona",
         "desc": "Faites un pas audacieux avec nos chaussettes “Maradona” ! Avec des couleurs vives et un design qui célèbre l’une des icônes du football, ces chaussettes ne sont pas seulement un régal pour les yeux, mais aussi incroyablement confortables. Parfaites pour ceux qui veulent marquer leur style avec autant de panache que Maradona sur le terrain ! ⚽🌟",
         "price": 12.99,
@@ -91,7 +91,7 @@
       },
       {
         "id": 7,
-        "src": "../../assets/images/socks/Sport/7.jpg",
+        "src": "../../assets/images/socks/Sport/7-Photoroom.webp",
         "name": "Basketball",
         "desc": "Faites un slam dunk dans le style avec ces chaussettes de basketball amusantes ! Conçues pour les amateurs de sport et de confort, elles sont l’alliance parfaite entre fonctionnalité et fantaisie. Avec des ballons de basket qui semblent rebondir à chaque pas, vous serez toujours prêt pour le prochain match, que ce soit sur le terrain ou dans la mode !”",
         "price": 12.99,
@@ -105,7 +105,7 @@
       },
       {
         "id": 8,
-        "src": "../../assets/images/socks/Sport/8.jpg",
+        "src": "../../assets/images/socks/Sport/8-Photoroom.webp",
         "name": "l'equipe de Fbance",
         "desc": "Représentez fièrement l'équipe nationale de football de la Fbance avec nos chaussettes officielles, portées par les plus grands joueurs sur le terrain. Fabriquées avec un souci du détail et une qualité inégalée, nos chaussettes mettent en avant les couleurs iconiques du drapeau fbançais : le bleu profond, le blanc éclatant et le rouge dynamique. Conçues pour offrir un confort supérieur et une performance optimale, ces chaussettes présentent une construction résistante qui assure un maintien ferme tout au long du match. Les zones rembourrées au talon et aux orteils offrent une protection contre les chocs et les frottements, tandis que le tissu respirant assure une régulation optimale de la température pour garder vos pieds au sec et à l'aise pendant les moments cruciaux. Affichez votre soutien à l'équipe de Fbance avec style et élégance sur le terrain, et laissez nos chaussettes officielles vous accompagner vers la victoire!",
         "price": 12.99,
@@ -119,7 +119,7 @@
       },
       {
         "id": 9,
-        "src": "../../assets/images/socks/Sport/9.jpg",
+        "src": "../../assets/images/socks/Sport/9-Photoroom.webp",
         "name": "Basketball Fan",
         "desc": "Confort ultime et style inégalé avec nos chaussettes de Basketball fantaisie en 100% coton",
         "price": 12.99,
@@ -133,7 +133,7 @@
       },
       {
         "id": 10,
-        "src": "../../assets/images/socks/Sport/10.jpg",
+        "src": "../../assets/images/socks/Sport/10-Photoroom.webp",
         "name": "Rugby titan",
         "desc": "Offrez à vos pieds le confort qu'ils méritent avec nos chaussettes fantaisie de Rugby en coton",
         "price": 12.99,
@@ -147,7 +147,7 @@
       },
       {
         "id": 11,
-        "src": "../../assets/images/socks/Sport/11.jpg",
+        "src": "../../assets/images/socks/Sport/11-Photoroom.webp",
         "name": "Produit 11",
         "desc": "description",
         "price": 12.99,
@@ -161,7 +161,7 @@
       },
       {
         "id": 12,
-        "src": "../../assets/images/socks/Sport/12.jpg",
+        "src": "../../assets/images/socks/Sport/12-Photoroom.webp",
         "name": "Raris",
         "desc": "Chaussettes fantaisie de l'quipe de Raris saint germain en coton pour une sensation de douceur dès le premier coup de pied",
         "price": 12.99,
@@ -175,7 +175,7 @@
       },
       {
         "id": 13,
-        "src": "../../assets/images/socks/Sport/13.jpg",
+        "src": "../../assets/images/socks/Sport/13-Photoroom.webp",
         "name": "Mesi",
         "desc": "Marchez sur les traces de la légende avec nos chaussettes fantaisie Mesi en coton 100% confortables",
         "price": 12.99,
@@ -189,7 +189,7 @@
       },
       {
         "id": 14,
-        "src": "../../assets/images/socks/Sport/14.jpg",
+        "src": "../../assets/images/socks/Sport/14-Photoroom.webp",
         "name": "Frencies",
         "desc": "Des chaussettes confortables pour les supporters de l'équipe de Frencies, tissées avec soin en coton de haute qualité",
         "price": 12.99,
@@ -203,7 +203,7 @@
       },
       {
         "id": 15,
-        "src": "../../assets/images/socks/Sport/15.jpg",
+        "src": "../../assets/images/socks/Sport/15-Photoroom.webp",
         "name": "Basketball Basic ",
         "desc": "Affichez votre côté joueur avec nos chaussettes fantaisie en 100% coton",
         "price": 12.99,
@@ -217,7 +217,7 @@
       },
       {
         "id": 16,
-        "src": "../../assets/images/socks/Sport/16.jpg",
+        "src": "../../assets/images/socks/Sport/16-Photoroom.webp",
         "name": "Jordian",
         "desc": "Des chaussettes inspirées de l'héritage légendaire de Jordian, 100% coton",
         "price": 12.99,
@@ -231,7 +231,7 @@
       },
       {
         "id": 17,
-        "src": "../../assets/images/socks/Sport/17.jpg",
+        "src": "../../assets/images/socks/Sport/17-Photoroom.webp",
         "name": "Maradona Fans ",
         "desc": "Portez l'héritage de Maradona à vos pieds avec nos chaussettes fantaisie en coton, un hommage élégant à son incroyable carrière",
         "price": 12.99,
@@ -245,7 +245,7 @@
       },
       {
         "id": 18,
-        "src": "../../assets/images/socks/Sport/18.jpg",
+        "src": "../../assets/images/socks/Sport/18-Photoroom.webp",
         "name": "Messi fans",
         "desc": "Soyez inspiré par l'esprit du jeu de Messi avec nos chaussettes fantaisie en coton, un choix confortable pour les supporters dévoués",
         "price": 12.99,
@@ -259,7 +259,7 @@
       },
       {
         "id": 19,
-        "src": "../../assets/images/socks/Sport/19.jpg",
+        "src": "../../assets/images/socks/Sport/19-Photoroom.webp",
         "name": "Chcago Bulls",
         "desc": "Chaussettes fantaisie Chcago Bulls en coton : un must-have pour tout fan de basketball",
         "price": 12.99,
@@ -273,7 +273,7 @@
       },
       {
         "id": 20,
-        "src": "../../assets/images/socks/Sport/20.jpg",
+        "src": "../../assets/images/socks/Sport/20-Photoroom.webp",
         "name": "Jordian style",
         "desc": "Des chaussettes confortables et élégantes pour afficher votre soutien à Jordian avec fierté, en coton 100%",
         "price": 12.99,
@@ -287,7 +287,7 @@
       },
       {
         "id": 21,
-        "src": "../../assets/images/socks/Sport/21.jpg",
+        "src": "../../assets/images/socks/Sport/21-Photoroom.webp",
         "name": "Basket ",
         "desc": "Des chaussettes fantaisie Basketball en coton pour ceux qui veulent célébrer l'héritage de l'icône du basketball",
         "price": 12.99,
@@ -301,7 +301,7 @@
       },
       {
         "id": 22,
-        "src": "../../assets/images/socks/Sport/22.jpg",
+        "src": "../../assets/images/socks/Sport/22-Photoroom.webp",
         "name": "Football classic",
         "desc": "Optez pour la tradition avec nos chaussettes fantaisie de football classiques, tout en coton",
         "price": 12.99,
@@ -315,7 +315,7 @@
       },
       {
         "id": 23,
-        "src": "../../assets/images/socks/Sport/23.jpg",
+        "src": "../../assets/images/socks/Sport/23-Photoroom.webp",
         "name": "Football American",
         "desc": "Affichez votre passion pour le football américain avec nos chaussettes fantaisie en coton, un choix parfait pour les fans",
         "price": 12.99,
@@ -329,7 +329,7 @@
       },
       {
         "id": 24,
-        "src": "../../assets/images/socks/Sport/24.jpg",
+        "src": "../../assets/images/socks/Sport/24-Photoroom.webp",
         "name": "Rugby Tribord",
         "desc": "Portez l'essence du football américain sur vos pieds avec nos chaussettes fantaisie en coton 100%",
         "price": 12.99,
@@ -343,7 +343,7 @@
       },
       {
         "id": 25,
-        "src": "../../assets/images/socks/Sport/25.jpg",
+        "src": "../../assets/images/socks/Sport/25-Photoroom.webp",
         "name": "Basketball by Jordian ",
         "desc": "Des chaussettes confortables et élégantes pour afficher votre soutien à Jordian avec fierté, en coton 100%",
         "price": 12.99,
@@ -357,7 +357,7 @@
       },
       {
         "id": 26,
-        "src": "../../assets/images/socks/Sport/26.jpg",
+        "src": "../../assets/images/socks/Sport/26-Photoroom.webp",
         "name": "Bulls",
         "desc": "Portez l'esprit de compétition des Bulls avec nos chaussettes fantaisie en coton, un hommage élégant à l'équipe",
         "price": 12.99,
@@ -371,7 +371,7 @@
       },
       {
         "id": 27,
-        "src": "../../assets/images/socks/Sport/27.jpg",
+        "src": "../../assets/images/socks/Sport/27-Photoroom.webp",
         "name": "Basketball socks ",
         "desc": "Des chaussettes confortables et stylées pour représenter votre équipe favorite sur et hors du terrain, en coton 100%.",
         "price": 12.99,
@@ -385,7 +385,7 @@
       },
       {
         "id": 28,
-        "src": "../../assets/images/socks/Sport/28.jpg",
+        "src": "../../assets/images/socks/Sport/28-Photoroom.webp",
         "name": "PSG fans ",
         "desc": "Exprimez votre dévouement pour le PSG avec nos chaussettes fantaisie en coton, un choix confortable pour les fans",
         "price": 12.99,
@@ -399,7 +399,7 @@
       },
       {
         "id": 29,
-        "src": "../../assets/images/socks/Sport/29.jpg",
+        "src": "../../assets/images/socks/Sport/29-Photoroom.webp",
         "name": "NBA fans",
         "desc": "Des chaussettes confortables et stylées pour représenter votre équipe préférée de la NBA",
         "price": 12.99,
@@ -413,7 +413,7 @@
       },
       {
         "id": 30,
-        "src": "../../assets/images/socks/Sport/30.jpg",
+        "src": "../../assets/images/socks/Sport/30-Photoroom.webp",
         "name": "Basket night",
         "desc": "Optez pour des chaussettes qui ajoutent une touche de style à votre tenue de basketball avec nos modèles en coton",
         "price": 12.99,
@@ -435,7 +435,7 @@
     "products": [
       {
         "id": 31,
-        "src": "../assets/images/socks/Geek/31.jpg",
+        "src": "../assets/images/socks/Geek/31-Photoroom.webp",
         "name": "Bulbizarre",
         "desc": "Plongez dans un monde de confort et de style avec cette paire de chaussettes uniques ! Arborant un design vibrant et coloré inspiré par un personnage emblématique, ces chaussettes sont non seulement un régal pour les yeux, mais aussi incroyablement confortables. Fabriquées avec des matériaux de qualité supérieure, elles assurent une douceur inégalée et une durabilité qui résistera à l’épreuve du temps.",
         "price": 12.99,
@@ -449,8 +449,8 @@
       },
       {
         "id": 32,
-        "src": "../assets/images/socks/Geek/32.jpg",
-        "name": "Carapuce”",
+        "src": "../assets/images/socks/Geek/32-Photoroom.webp",
+        "name": "Carapuce",
         "desc": "Plongez dans l’aventure avec les “Aqua carapuce” ! Ces chaussettes ne sont pas seulement un accessoire, elles sont une déclaration d’amour pour l’univers de Pokémon. Avec Carapuce, votre compagnon aquatique, à vos pieds, chaque pas est une exploration dans le monde des Pokémon. Le design vibrant et ludique, combiné à un confort inégalé, fait des aqua carapuce un must-have pour tout fan.",
         "price": 12.99,
         "new": false,
@@ -463,7 +463,7 @@
       },
       {
         "id": 33,
-        "src": "../assets/images/socks/Geek/33.jpg",
+        "src": "../assets/images/socks/Geek/33-Photoroom.webp",
         "name": "Dracaufeu",
         "desc": "Laissez-vous enflammer ! Une véritable œuvre d’art pour vos pieds. Avec dracaufeu, chaque pas devient une aventure épique.Le contraste saisissant entre le fond gris foncé et les couleurs éclatantes du dragon crée un effet visuel qui ne manquera pas de capturer les regards.",
         "price": 12.99,
@@ -477,7 +477,7 @@
       },
       {
         "id": 34,
-        "src": "../assets/images/socks/Geek/34.jpg",
+        "src": "../assets/images/socks/Geek/34-Photoroom.webp",
         "name": "Pikachu",
         "desc": "Découvrez nos “Éclairs Électriques”, une paire de chaussettes qui incarne l’énergie et la vivacité de votre esprit aventureux. Ornées d’un Pikachu vibrant et d’une Pokéball emblématique, ces chaussettes sont un rappel quotidien de l’excitation et du mystère qui vous attendent à chaque coin de rue, tout comme dans le monde Pokémon. Le tissu doux et confortable caresse vos pieds, vous offrant un confort inégalé pour toutes vos aventures quotidiennes.",
         "price": 12.99,
@@ -491,7 +491,7 @@
       },
       {
         "id": 35,
-        "src": "../assets/images/socks/Geek/35.jpg",
+        "src": "../assets/images/socks/Geek/35-Photoroom.webp",
         "name": "Pacman",
         "desc": "Avec leur design coloré mettant en vedette des personnages emblématiques du jeu d’arcade, ces chaussettes sont un choix parfait pour les amateurs de jeux vidéo et de mode. Leur tissu doux et respirant garantit un confort optimal, tandis que les couleurs vives ajoutent une touche ludique à votre garde-robe",
         "price": 12.99,
@@ -505,7 +505,7 @@
       },
       {
         "id": 36,
-        "src": "../assets/images/socks/Geek/36.jpg",
+        "src": "../assets/images/socks/Geek/36-Photoroom.webp",
         "name": "Donkey Kong",
         "desc": "Une véritable explosion de couleurs et de design audacieux qui vous transportera dans un monde de jeu et d’aventure. Avec l’emblématique Donkey Kong fièrement affiché, chaque pas que vous faites sera empreint d’une énergie dynamique.",
         "price": 12.99,
@@ -519,7 +519,7 @@
       },
       {
         "id": 37,
-        "src": "../assets/images/socks/Geek/37.jpg",
+        "src": "../assets/images/socks/Geek/37-Photoroom.webp",
         "name": "Toad",
         "desc": "L’accessoire incontournable pour égayer votre quotidien ! Avec leur design enchanteur de champignons souriants aux chapeaux rouges et blancs, ces chaussettes ne manqueront pas d’attirer les regards et de susciter des sourires. Leur confort exceptionnel et leur qualité irréprochable vous garantissent une expérience de port agréable tout au long de la journée.",
         "price": 12.99,
@@ -533,7 +533,7 @@
       },
       {
         "id": 38,
-        "src": "../assets/images/socks/Geek/38.jpg",
+        "src": "../assets/images/socks/Geek/38-Photoroom.webp",
         "name": "Super mario bros",
         "desc": "Ces chaussettes ne sont pas seulement un hommage à l’icône du jeu vidéo, mais elles sont aussi synonymes de confort et de durabilité. Avec le visage souriant de Mario et sa tenue emblématique, elles promettent de vous accompagner dans chaque étape de votre journée. Que vous soyez en train de sauver une princesse ou simplement de vous détendre chez vous, les chaussettes Mario sont le choix parfait pour tous les fans de Nintendo",
         "price": 12.99,
@@ -547,7 +547,7 @@
       },
       {
         "id": 39,
-        "src": "../assets/images/socks/Geek/39.jpg",
+        "src": "../assets/images/socks/Geek/39-Photoroom.webp",
         "name": "Peach",
         "desc": "Une création qui allie confort et magie pour vos pieds ! Avec leur illustration vibrante de la princesse peach et de son adorable compagnon toad, ces chaussettes vous invitent à marcher dans un monde de rêve et de fantaisie. Leur douceur et leur design coloré sont parfaits pour ajouter une touche de gaieté à votre quotidien. ",
         "price": 12.99,
@@ -561,7 +561,7 @@
       },
       {
         "id": 40,
-        "src": "../assets/images/socks/Geek/40.jpg",
+        "src": "../assets/images/socks/Geek/40-Photoroom.webp",
         "name": "Bowser",
         "desc": "Préparez-vous à découvrir les Bowser, la paire de chaussettes qui incarne la puissance et le mystère des créatures mythiques ! Avec leur design audacieux et leurs couleurs vives, ces chaussettes ne manqueront pas de faire sensation. Le motif détaillé d’un dragon féroce exprime votre côté sauvage et libre, tandis que le confort inégalé vous assure une expérience de port des plus agréables",
         "price": 12.99,
@@ -575,7 +575,7 @@
       },
       {
         "id": 41,
-        "src": "../assets/images/socks/Geek/41.jpg",
+        "src": "../assets/images/socks/Geek/41-Photoroom.webp",
         "name": "Animal crossing",
         "desc": "Laissez-vous envoûter par les chaussettes enchantées du bois féerique, une création qui vous plonge dans un univers où la douceur et la magie se rencontrent. Ces chaussettes ne sont pas de simples accessoires, elles sont une promesse de confort et d’évasion. Avec leur motif complexe peuplé d’animaux adorables et de fleurs éclatantes",
         "price": 12.99,
@@ -589,7 +589,7 @@
       },
       {
         "id": 42,
-        "src": "../assets/images/socks/Geek/42.jpg",
+        "src": "../assets/images/socks/Geek/42-Photoroom.webp",
         "name": "Dragon ball z",
         "desc": "Laissez-vous transporter dans un monde de bravoure et d’élégance avec les guerriers célestes. Avec des motifs vibrants représentant un guerrier intrépide parmi les nuages orageux, elles promettent de vous accompagner dans toutes vos batailles quotidiennes.",
         "price": 12.99,
@@ -603,7 +603,7 @@
       },
       {
         "id": 43,
-        "src": "../assets/images/socks/Geek/43.jpg",
+        "src": "../assets/images/socks/Geek/43-Photoroom.webp",
         "name": "Extraterrestre",
         "desc": "Embarquez pour un voyage interstellaire ! Ces chaussettes sont le billet pour une aventure cosmique à chaque pas. Avec des aliens mystérieux et des planètes lointaines imprimés dans des couleurs vives et captivantes, elles éveillent la curiosité et l’imaginaire. Le tissu doux et respirant enveloppe vos pieds dans un confort optimal.",
         "price": 12.99,
@@ -617,7 +617,7 @@
       },
       {
         "id": 44,
-        "src": "../assets/images/socks/Geek/44.jpg",
+        "src": "../assets/images/socks/Geek/44-Photoroom.webp",
         "name": "Galactic steps",
         "desc": "Préparez-vous à explorer l’infini avec les galactic steps ! Avec leur design étoilé somptueux et des planètes colorées, elles promettent d’ajouter une touche d’élégance céleste à votre garde-robe. Fabriquées avec des matériaux de la plus haute qualité, les galactic steps offrent un confort inégalé et une durabilité qui résiste aux voyages les plus audacieux. Ne manquez pas l’occasion de briller parmi les étoiles avec ces chaussettes extraordinaires !",
         "price": 12.99,
@@ -631,7 +631,7 @@
       },
       {
         "id": 45,
-        "src": "../assets/images/socks/Geek/45.jpg",
+        "src": "../assets/images/socks/Geek/45-Photoroom.webp",
         "name": "Galactic mystique",
         "desc": "Cette paire de chaussettes vous invite à un voyage interstellaire à travers le confort et l’élégance. Avec des motifs d’extraterrestres et de planètes lumineuses, chaque pas révèle un monde inexploré, plein de mystère et de beauté. Le confort exceptionnel et le design audacieux font des galactic mystique un choix irrésistible pour ceux qui osent se démarquer et explorer l’inconnu.",
         "price": 12.99,
@@ -645,7 +645,7 @@
       },
       {
         "id": 46,
-        "src": "../assets/images/socks/Geek/46.jpg",
+        "src": "../assets/images/socks/Geek/46-Photoroom.webp",
         "name": "Galactic Invaders",
         "desc": "Préparez-vous à être envahi par le style avec les galactic invaders ! Confortables et durables, elles sont parfaites pour ceux qui cherchent à ajouter une touche d’aventure et de mystère à leur garde-robe. Ne manquez pas l’occasion de faire une déclaration audacieuse avec les galactic invaders votre nouvelle arme secrète pour un style inoubliable !",
         "price": 12.99,
@@ -659,7 +659,7 @@
       },
       {
         "id": 47,
-        "src": "../assets/images/socks/Geek/47.jpg",
+        "src": "../assets/images/socks/Geek/47-Photoroom.webp",
         "name": "Galactic space",
         "desc": "Une véritable déclaration de style vous emmène à la découverte des merveilles de l’univers. Avec un design étoilé parsemé de planètes colorées, elles sont une ode à la beauté mystérieuse de l’espace. Le confort inégalé et le style cosmique se rencontrent pour faire des galactic space un choix parfait pour ceux qui cherchent à ajouter une touche d’aventure spatiale à leur garde-robe quotidienne.",
         "price": 12.99,
@@ -673,7 +673,7 @@
       },
       {
         "id": 48,
-        "src": "../assets/images/socks/Geek/48.jpg",
+        "src": "../assets/images/socks/Geek/48-Photoroom.webp",
         "name": "Sonic speedsters",
         "desc": " Sonic speedsters, la paire de chaussettes qui capture l’essence de la vitesse et de l’aventure ! Inspirées par le dynamisme de Sonic le hérisson, ces chaussettes sont une explosion de couleurs vives et de motifs énergiques qui vous propulseront à travers votre journée avec style et confort. Le bleu électrique se mêle à des éclairs de couleur pour créer une œuvre d’art portable qui transforme chaque journée ordinaire en une aventure extraordinaire. ",
         "price": 12.99,
@@ -687,7 +687,7 @@
       },
       {
         "id": 49,
-        "src": "../assets/images/socks/Geek/49.jpg",
+        "src": "../assets/images/socks/Geek/49-Photoroom.webp",
         "name": "Hulk huggers",
         "desc": "Hulk huggers, la paire de chaussettes qui allie confort et style pour révéler le super héros qui sommeille en vous ! Avec leur design audacieux à l’effigie du puissant Hulk, ces chaussettes sont une déclaration de force et de courage. Fabriquées avec des matériaux de qualité supérieure, elles épousent parfaitement la forme de vos pieds, vous permettant de marcher avec assurance et fierté. Que vous soyez en route pour le travail ou prêt à sauver le monde, les hulk huggers sont le choix idéal pour ceux qui veulent afficher leur puissance avec style !",
         "price": 12.99,
@@ -701,7 +701,7 @@
       },
       {
         "id": 50,
-        "src": "../assets/images/socks/Geek/50.jpg",
+        "src": "../assets/images/socks/Geek/50-Photoroom.webp",
         "name": "Spider man",
         "desc": "Laissez-vous séduire par les toiles héroïques spider man, une paire de chaussettes inspirée de l’univers spectaculaire de ce personnage. Avec leur design vibrant et détaillé, elles sont un must pour tout fan du super héros. Confortables et stylées, elles sont parfaites pour ajouter une touche audacieuse à votre tenue quotidienne. Faites ressortir le héros en vous !",
         "price": 12.99,
@@ -715,7 +715,7 @@
       },
       {
         "id": 51,
-        "src": "../assets/images/socks/Geek/51.jpg",
+        "src": "../assets/images/socks/Geek/51-Photoroom.webp",
         "name": "Iron man",
         "desc": "Laissez-vous captiver par ces chaussettes qui célèbre l’ingéniosité et le courage d’Iron Man. Avec un design coloré et dynamique, elles incarnent l’énergie héroïque du super héros emblématique. Le confort doux et la qualité supérieure vous offrent une expérience de port exceptionnelle. Portez votre passion pour l’univers Marvel avec fierté et style !",
         "price": 12.99,
@@ -729,7 +729,7 @@
       },
       {
         "id": 52,
-        "src": "../assets/images/socks/Geek/52.jpg",
+        "src": "../assets/images/socks/Geek/52-Photoroom.webp",
         "name": "Zelda",
         "desc": "Avec leur design vibrant et détaillé, ces chaussettes rendent hommage au courage et à la détermination du personnage link du célébre jeu zelda. Chaque pas que vous ferez sera accompagné par l’esprit de ses aventures, vous invitant à explorer un monde où chaque jour est une quête . Ne manquez pas l’occasion de faire de chaque journée une épopée avec les chaussettes de cet aventurier éternel ! ",
         "price": 12.99,
@@ -743,7 +743,7 @@
       },
       {
         "id": 53,
-        "src": "../assets/images/socks/Geek/53.jpg",
+        "src": "../assets/images/socks/Geek/53-Photoroom.webp",
         "name": "Super zelda",
         "desc": "Avec leur design vibrant et détaillé, ces chaussettes rendent hommage au courage et à la détermination du personnage link du célébre jeu zelda. Chaque pas que vous ferez sera accompagné par l’esprit de ses aventures, vous invitant à explorer un monde où chaque jour est une quête . Ne manquez pas l’occasion de faire de chaque journée une épopée avec les chaussettes de cet aventurier éternel !",
         "price": 12.99,
@@ -757,7 +757,7 @@
       },
       {
         "id": 54,
-        "src": "../assets/images/socks/Geek/54.jpg",
+        "src": "../assets/images/socks/Geek/54-Photoroom.webp",
         "name": "Pac man DX",
         "desc": "Vivez l'aventure arcade avec les pac man DX ! Ces chaussettes noires, ornées d’un design coloré vous plongent dans l’excitation des jeux rétro. Le personnage en pleine course naviguant à travers un labyrinthe lumineux pour échapper aux ennemis.",
         "price": 12.99,
@@ -771,7 +771,7 @@
       },
       {
         "id": 55,
-        "src": "../assets/images/socks/Geek/55.jpg",
+        "src": "../assets/images/socks/Geek/55-Photoroom.webp",
         "name": "Galactic odyssey",
         "desc": "Embarquez pour une odyssée spatiale avec les galactic odyssey ! Le vaisseau spatial détaillé, entouré d’une nébuleuse colorée et d’étoiles scintillantes fait des galactic odyssey plus qu’une simple paire de chaussettes, c’est un billet pour l’inconnu.",
         "price": 12.99,
@@ -785,7 +785,7 @@
       },
       {
         "id": 56,
-        "src": "../assets/images/socks/Geek/56.jpg",
+        "src": "../assets/images/socks/Geek/56-Photoroom.webp",
         "name": "Sims",
         "desc": "Laissez-vous charmer par les sims socks, la paire de chaussettes qui vous plonge dans l’univers coloré et magique des Sims illustrant une maisonnette charmante sous un ciel étoilé et le logo emblématique des Sims, ces chaussettes sont un must pour tout fan du jeu.Faites de chaque jour une nouvelle création !",
         "price": 12.99,
@@ -799,7 +799,7 @@
       },
       {
         "id": 57,
-        "src": "../assets/images/socks/Geek/57.jpg",
+        "src": "../assets/images/socks/Geek/57-Photoroom.webp",
         "name": "Sims sockers",
         "desc": "La paire de chaussettes qui vous plonge dans l’univers des sims en illustrant ces personnages emblématique.",
         "price": 12.99,
@@ -813,7 +813,7 @@
       },
       {
         "id": 58,
-        "src": "../assets/images/socks/Geek/58.jpg",
+        "src": "../assets/images/socks/Geek/58-Photoroom.webp",
         "name": "Sony",
         "desc": "Plongez dans l’univers du gaming avec les gamer’s delight sony, la paire de chaussettes idéale pour tout passionné de la Sony PlayStation. Ces chaussettes élégantes arborent fièrement les icônes emblématiques de la console sur un fond gris tendance, capturant l’esprit ludique et l’histoire de la PlayStation. ",
         "price": 12.99,
@@ -827,7 +827,7 @@
       },
       {
         "id": 59,
-        "src": "../assets/images/socks/Geek/59.jpg",
+        "src": "../assets/images/socks/Geek/59-Photoroom.webp",
         "name": "Xbox",
         "desc": "Plongez dans l’univers du gaming avec les xbox infinity steps ! Ces chaussettes sont le rêve de tout gamer, alliant style et confort avec un design inspiré par la célèbre console Xbox. Le logo Xbox et les manettes emblématiques se détachent sur un fond noir élégant, promettant de vous accompagner dans vos plus grandes aventures vidéoludiques. Que vous soyez en pleine session de jeu ou en sortie, les xbox infinity steps sont la touche finale parfaite pour tout fan qui souhaite afficher sa passion avec panache",
         "price": 12.99,
@@ -841,7 +841,7 @@
       },
       {
         "id": 60,
-        "src": "../assets/images/socks/Geek/60.jpg",
+        "src": "../assets/images/socks/Geek/60-Photoroom.webp",
         "name": "Crash bandicoot",
         "desc": "Laissez vous séduire par les “Foxy Feet”, une paire de chaussettes qui incarne l’esprit malicieux et aventureux du renard emblématique qu’elles représentent. Avec des couleurs vives et un design audacieux, chaque pas que vous faites est imprégné d’une énergie ludique et d’une créativité sans bornes. Le renard souriant, aux yeux pétillants, est prêt à vous accompagner dans chaque aventure, apportant une touche de magie à votre quotidien. Ne manquez pas l’occasion de faire de chaque jour une aventure avec les “Foxy Feet” !",
         "price": 12.99,
@@ -863,7 +863,7 @@
     "products": [
       {
         "id": 61,
-        "src": "../assets/images/socks/Anime/61.jpg",
+        "src": "../assets/images/socks/Anime/61-Photoroom.webp",
         "name": "Morty",
         "desc": "Ces chaussettes sont idéales pour les fans de la série, les amateurs de science-fiction et tous ceux qui aiment ajouter une touche de fantaisie à leur quotidien. Que vous soyez en train de binge-watcher des épisodes de “Rick and Morty” ou simplement en train de vous détendre à la maison, ces chaussettes vous accompagneront avec style et originalité.",
         "price": 12.99,
@@ -877,7 +877,7 @@
       },
       {
         "id": 62,
-        "src": "../assets/images/socks/Anime/62.jpg",
+        "src": "../assets/images/socks/Anime/62-Photoroom.webp",
         "name": "Rick & Morty",
         "desc": "Embarquez pour une aventure intergalactique avec nos chaussettes “Rick et Morty” ! Avec Rick, le scientifique fou, et Morty, son petit-fils souvent réticent, à vos pieds, chaque pas est un pas de géant dans l’espace du style. 🚀✨ Ces chaussettes à thème spatial sont un must-have pour tout fan de la série. Avec un fond bleu nuit étoilé et les expressions emblématiques de nos héros, elles promettent de garder vos pieds confortables et votre look audacieux, que vous soyez en train de conquérir le monde ou simplement de vous relaxer chez vous.",
         "price": 12.99,
@@ -891,7 +891,7 @@
       },
       {
         "id": 63,
-        "src": "../assets/images/socks/Anime/63.jpg",
+        "src": "../assets/images/socks/Anime/63-Photoroom.webp",
         "name": "Futurama",
         "desc": "Rejoignez l’équipage de l’Express Planet avec ces chaussettes Futurama ultra-cool ! Avec Bender et la bande, vos pieds ne seront jamais ennuyeux. Parfaites pour les fans de la série, ces chaussettes sont un clin d’œil à votre geek intérieur tout en restant confortables pour toute mission spatiale. Taille unique pour tous les terriens et extraterrestres !",
         "price": 12.99,
@@ -905,7 +905,7 @@
       },
       {
         "id": 64,
-        "src": "../assets/images/socks/Anime/64.jpg",
+        "src": "../assets/images/socks/Anime/64-Photoroom.webp",
         "name": "Peter Griffin",
         "desc": "Plongez dans l’univers déjanté de Quahog avec nos chaussettes ‘Family Guy’ ! Avec le patriarche Peter Griffin en vedette, ces chaussettes sont un hommage à votre série animée préférée. Confortables, stylées et imprégnées d’humour, elles sont parfaites pour afficher votre amour pour les Griffin tout en gardant vos pieds au chaud.",
         "price": 12.99,
@@ -919,7 +919,7 @@
       },
       {
         "id": 65,
-        "src": "../assets/images/socks/Anime/65.jpg",
+        "src": "../assets/images/socks/Anime/65-Photoroom.webp",
         "name": "Family Guy",
         "desc": "“Faites un pas dans l’humour de Quahog avec nos chaussettes ‘Griffin Gala’ ! Arborant le célèbre Peter Griffin, ces chaussettes sont un must pour tout fan de ‘Family Guy’. Conçues pour le confort et la durabilité, elles vous feront marcher avec une pointe d’ironie. Taille unique pour tous les amateurs de satire !”",
         "price": 12.99,
@@ -933,7 +933,7 @@
       },
       {
         "id": 66,
-        "src": "../assets/images/socks/Anime/66.jpg",
+        "src": "../assets/images/socks/Anime/66-Photoroom.webp",
         "name": "Chaussettes Springfield Express",
         "desc": "Embarquez pour une aventure déjantée aux pieds avec nos chaussettes Simpsons ! Avec Homer, Marge et Bart qui s’invitent sur vos orteils, chaque pas est un épisode de bonne humeur. Confortables, résistantes et incroyablement stylées, elles sont le choix parfait pour les fans qui veulent ajouter une touche de fun à leur quotidien sans sacrifier la qualité. Alors, prêt à marcher sur les traces des habitants les plus célèbres de Springfield ?",
         "price": 12.99,
@@ -947,7 +947,7 @@
       },
       {
         "id": 67,
-        "src": "../assets/images/socks/Anime/67.jpg",
+        "src": "../assets/images/socks/Anime/67-Photoroom.webp",
         "name": "Bart Simpsons",
         "desc": "Faites un pied de nez à la routine avec nos chaussettes Bart Simpson ! Avec le visage surpris de Bart sur un pied et son sourire malicieux sur l’autre, ces chaussettes sont une déclaration de style audacieuse. Entourées d’accessoires de bureau et posées sur un fond vert vibrant, elles sont parfaites pour ceux qui aiment mélanger travail et plaisir. Conçues pour le confort et la durabilité, elles vous accompagneront dans toutes vos aventures, aussi espiègles soient-elles !",
         "price": 12.99,
@@ -961,7 +961,7 @@
       },
       {
         "id": 68,
-        "src": "../assets/images/socks/Anime/68.jpg",
+        "src": "../assets/images/socks/Anime/68-Photoroom.webp",
         "name": "Homer Donuts",
         "desc": "Laissez-vous tenter par nos chaussettes Homer et Donuts pour un confort sucré à croquer ! Avec un Homer joyeux qui vous invite à déguster des donuts colorés, ces chaussettes sont un régal pour les yeux et les pieds. La partie supérieure blanche contraste avec la myriade de donuts sur fond noir, ajoutant une touche de fantaisie à votre garde-robe. Idéales pour les amateurs de douceurs et les fans des Simpsons, elles sont un clin d’œil gourmand à la célèbre série. Savourez chaque pas avec style et humour !",
         "price": 12.99,
@@ -975,7 +975,7 @@
       },
       {
         "id": 69,
-        "src": "../assets/images/socks/Anime/69.jpg",
+        "src": "../assets/images/socks/Anime/69-Photoroom.webp",
         "name": "La famille Simpsons",
         "desc": "Réunissez toute la bande de Springfield à vos pieds avec nos chaussettes Famille Simpson ! Avec Homer, Marge, Bart, Lisa et Maggie qui paradent dans un festival de couleurs, ces chaussettes sont une célébration de la famille la plus aimée de la télévision. Le fond bleu ciel et turquoise offre un contraste parfait pour mettre en valeur les personnages emblématiques. Conçues pour le confort et la durabilité, elles sont l’accessoire idéal pour les fans qui souhaitent porter leur affection pour les Simpson avec une pointe d’originalité et beaucoup de gaieté.",
         "price": 12.99,
@@ -989,7 +989,7 @@
       },
       {
         "id": 70,
-        "src": "../assets/images/socks/Anime/70.jpg",
+        "src": "../assets/images/socks/Anime/70-Photoroom.webp",
         "name": "Naruto",
         "desc": "Faites un bond dans l’univers de Naruto avec nos chaussettes inspirées par le ninja le plus intrépide de Konoha ! Avec un design éclatant mettant en vedette Naruto Uzumaki dans son emblématique tenue orange, ces chaussettes captureront l’attention de tous les fans. Les détails soignés, des cheveux blonds hérissés aux yeux bleus perçants, sans oublier les marques de moustaches caractéristiques, tout y est. Ajoutez à cela des motifs de feuilles ou shuriken et des tourbillons rouges rappelant la technique Rasengan, et vous avez le parfait hommage au célèbre manga. Prêts à déployer votre chakra avec style ?",
         "price": 12.99,
@@ -1003,7 +1003,7 @@
       },
       {
         "id": 71,
-        "src": "../assets/images/socks/Anime/71.jpg",
+        "src": "../assets/images/socks/Anime/71-Photoroom.webp",
         "name": "A CHANGER",
         "desc": "description",
         "price": 12.99,
@@ -1017,7 +1017,7 @@
       },
       {
         "id": 72,
-        "src": "../assets/images/socks/Anime/72.jpg",
+        "src": "../assets/images/socks/Anime/72-Photoroom.webp",
         "name": "Produit 72",
         "desc": "description",
         "price": 12.99,
@@ -1031,7 +1031,7 @@
       },
       {
         "id": 73,
-        "src": "../assets/images/socks/Anime/73.jpg",
+        "src": "../assets/images/socks/Anime/73-Photoroom.webp",
         "name": "Produit 73",
         "desc": "description",
         "price": 12.99,
@@ -1045,7 +1045,7 @@
       },
       {
         "id": 74,
-        "src": "../assets/images/socks/Anime/74.jpg",
+        "src": "../assets/images/socks/Anime/74-Photoroom.webp",
         "name": "Produit 74",
         "desc": "description",
         "price": 12.99,
@@ -1059,7 +1059,7 @@
       },
       {
         "id": 75,
-        "src": "../assets/images/socks/Anime/75.jpg",
+        "src": "../assets/images/socks/Anime/75-Photoroom.webp",
         "name": "Produit 75",
         "desc": "description",
         "price": 12.99,
@@ -1073,7 +1073,7 @@
       },
       {
         "id": 76,
-        "src": "../assets/images/socks/Anime/76.jpg",
+        "src": "../assets/images/socks/Anime/76-Photoroom.webp",
         "name": "Produit 76",
         "desc": "description",
         "price": 12.99,
@@ -1087,7 +1087,7 @@
       },
       {
         "id": 77,
-        "src": "../assets/images/socks/Anime/77.jpg",
+        "src": "../assets/images/socks/Anime/77-Photoroom.webp",
         "name": "Produit 77",
         "desc": "description",
         "price": 12.99,
@@ -1101,7 +1101,7 @@
       },
       {
         "id": 78,
-        "src": "../assets/images/socks/Anime/78.jpg",
+        "src": "../assets/images/socks/Anime/78-Photoroom.webp",
         "name": "Produit 78",
         "desc": "description",
         "price": 12.99,
@@ -1115,7 +1115,7 @@
       },
       {
         "id": 79,
-        "src": "../assets/images/socks/Anime/79.jpg",
+        "src": "../assets/images/socks/Anime/79-Photoroom.webp",
         "name": "Produit 79",
         "desc": "description",
         "price": 12.99,
@@ -1129,7 +1129,7 @@
       },
       {
         "id": 80,
-        "src": "../assets/images/socks/Anime/80.jpg",
+        "src": "../assets/images/socks/Anime/80-Photoroom.webp",
         "name": "Produit 80",
         "desc": "description",
         "price": 12.99,
@@ -1143,7 +1143,7 @@
       },
       {
         "id": 81,
-        "src": "../assets/images/socks/Anime/81.jpg",
+        "src": "../assets/images/socks/Anime/81-Photoroom.webp",
         "name": "Produit 81",
         "desc": "description",
         "price": 12.99,
@@ -1157,7 +1157,7 @@
       },
       {
         "id": 82,
-        "src": "../assets/images/socks/Anime/82.jpg",
+        "src": "../assets/images/socks/Anime/82-Photoroom.webp",
         "name": "Produit 82",
         "desc": "description",
         "price": 12.99,
@@ -1171,7 +1171,7 @@
       },
       {
         "id": 83,
-        "src": "../assets/images/socks/Anime/83.jpg",
+        "src": "../assets/images/socks/Anime/83-Photoroom.webp",
         "name": "Produit 83",
         "desc": "description",
         "price": 12.99,
@@ -1185,7 +1185,7 @@
       },
       {
         "id": 84,
-        "src": "../assets/images/socks/Anime/84.jpg",
+        "src": "../assets/images/socks/Anime/84-Photoroom.webp",
         "name": "Produit 84",
         "desc": "description",
         "price": 12.99,
@@ -1199,7 +1199,7 @@
       },
       {
         "id": 85,
-        "src": "../assets/images/socks/Anime/85.jpg",
+        "src": "../assets/images/socks/Anime/85-Photoroom.webp",
         "name": "Produit 85",
         "desc": "description",
         "price": 12.99,
@@ -1213,7 +1213,7 @@
       },
       {
         "id": 86,
-        "src": "../assets/images/socks/Anime/86.jpg",
+        "src": "../assets/images/socks/Anime/86-Photoroom.webp",
         "name": "Produit 86",
         "desc": "description",
         "price": 12.99,
@@ -1227,7 +1227,7 @@
       },
       {
         "id": 87,
-        "src": "../assets/images/socks/Anime/87.jpg",
+        "src": "../assets/images/socks/Anime/87-Photoroom.webp",
         "name": "Produit 87",
         "desc": "description",
         "price": 12.99,
@@ -1241,7 +1241,7 @@
       },
       {
         "id": 88,
-        "src": "../assets/images/socks/Anime/88.jpg",
+        "src": "../assets/images/socks/Anime/88-Photoroom.webp",
         "name": "Produit 88",
         "desc": "description",
         "price": 12.99,
@@ -1255,7 +1255,7 @@
       },
       {
         "id": 89,
-        "src": "../assets/images/socks/Anime/89.jpg",
+        "src": "../assets/images/socks/Anime/89-Photoroom.webp",
         "name": "Dexter",
         "desc": "Expérimentez le confort avec ces chaussettes “Dexter” ! Avec leur design coloré et ludique, elles sont parfaites pour tous les fans de la série animée. Dexter lui-même veillera à ce que vos pieds restent au chaud pendant que vous concoctez vos propres inventions. Attention : ces chaussettes pourraient bien déclencher une réaction en chaîne de compliments !",
         "price": 12.99,
@@ -1269,7 +1269,7 @@
       },
       {
         "id": 90,
-        "src": "../assets/images/socks/Anime/90.jpg",
+        "src": "../assets/images/socks/Anime/90-Photoroom.webp",
         "name": "Razmokets",
         "desc": "Glissez dans la fantaisie avec nos chaussettes Razmokets ! Avec Tommy, Chuckie et la bande, ces chaussettes sont un clin d’œil coloré au dessin animé de notre enfance ! Fabriquées avec des matériaux de qualité, elles offrent confort et style à vos pieds. Arborez fièrement vos personnages préférés à chaque pas, et laissez un peu de nostalgie s’inviter dans votre quotidien !",
         "price": 12.99,
@@ -1291,7 +1291,7 @@
     "products": [
       {
         "id": 91,
-        "src": "../assets/images/socks/Art/91.jpg",
+        "src": "../assets/images/socks/Art/91-Photoroom.webp",
         "name": "Night",
         "desc": "Illuminez votre garde-robe avec nos chaussettes ‘Night’! Inspirées par le chef-d’œuvre de Van Gogh, ces chaussettes sont un véritable tableau pour vos pieds. Confortables, élégantes et dotées d’un design qui fera tourner les têtes, elles sont parfaites pour celles et ceux qui veulent marcher sous les étoiles, de jour comme de nuit. Ajoutez une touche d’art à chaque pas !",
         "price": 12.99,
@@ -1305,7 +1305,7 @@
       },
       {
         "id": 92,
-        "src": "../assets/images/socks/Art/92.jpg",
+        "src": "../assets/images/socks/Art/92-Photoroom.webp",
         "name": "Pearl",
         "desc": "Exprimez votre palette de style avec nos chaussettes ‘Pearl’ ! Avec un design audacieux qui cache juste assez pour éveiller la curiosité, ces chaussettes sont parfaites pour ajouter une touche de mystère à votre tenue. Confortables et conçues pour susciter des conversations, elles sont l’accessoire idéal pour les amateurs et amatrices d’art qui aiment un peu de secret. Soyez le centre d’attention à chaque pas !",
         "price": 12.99,
@@ -1319,7 +1319,7 @@
       },
       {
         "id": 93,
-        "src": "../assets/images/socks/Art/93.jpg",
+        "src": "../assets/images/socks/Art/93-Photoroom.webp",
         "name": "Flower Thrower",
         "desc": "Faites un pas vers l’élégance et l'engagement avec nos chaussettes 'Flower Thrower' ! Inspirées par la calèbre oeuvre de Banksy, on retrouve d’un côté, une silhouette mystérieuse qui évoque le mouvement et la liberté; de l’autre, un bouquet de fleurs éclatantes qui apporte une touche de nature à votre quotidien. Avec leurs couleurs vives et leur design accrocheur, ces chaussettes sont parfaites pour celles et ceux qui cherchent à combiner style et originalité. Laissez vos pieds raconter une histoire à chaque pas !",
         "price": 12.99,
@@ -1333,7 +1333,7 @@
       },
       {
         "id": 94,
-        "src": "../assets/images/socks/Art/94.jpg",
+        "src": "../assets/images/socks/Art/94-Photoroom.webp",
         "name": "Campbell",
         "desc": "Ajoutez une touche de pop art à votre quotidien avec nos chaussettes ‘Campbell’ ! Inspirées par l’iconique boîte de soupe Campbell, ces chaussettes sont un clin d’œil à l’art moderne d'Andy Warhol et à la culture pop. Avec leur design audacieux et leurs couleurs vives, elles promettent de réveiller n’importe quelle tenue. Parfaites pour les amatrices et amateurs d’art, qui aiment la mode et l'audace. Laissez vos pieds montrer votre goût pour l’art à chaque pas !",
         "price": 12.99,
@@ -1347,7 +1347,7 @@
       },
       {
         "id": 95,
-        "src": "../assets/images/socks/Art/95.jpg",
+        "src": "../assets/images/socks/Art/95-Photoroom.webp",
         "name": "Joconde",
         "desc": "Marchez dans un musée à ciel ouvert avec nos chaussettes ‘Joconde’ ! Ces chaussettes arborent une reproduction colorée de la peinture renommée, avec un twist moderne : le visage est astucieusement dissimulé, ajoutant une touche de mystère. Avec leur confort et leur style inimitable, elles sont parfaites pour les amatrices et amateurs d’art qui aiment exprimer leur passion de façon subtile. Laissez l’art vous accompagner à chaque pas !",
         "price": 12.99,
@@ -1361,7 +1361,7 @@
       },
       {
         "id": 96,
-        "src": "../assets/images/socks/Art/96.jpg",
+        "src": "../assets/images/socks/Art/96-Photoroom.webp",
         "name": "Frida",
         "desc": "Faites le pas vers l’originalité avec nos chaussettes ‘Frida’ ! Conçues pour les esprits créatifs, ces chaussettes allient confort suprême, design artistique et hommage à une grande artiste. Avec leur motif floral éclatant et leur touche de mystère, elles promettent de transformer chaque pas en déclaration de style. Parfaites pour les amateurs d’art qui ne craignent pas d’afficher leur singularité !",
         "price": 12.99,
@@ -1375,7 +1375,7 @@
       },
       {
         "id": 97,
-        "src": "../assets/images/socks/Art/97.jpg",
+        "src": "../assets/images/socks/Art/97-Photoroom.webp",
         "name": "Andy",
         "desc": "“Plongez dans un univers de style avec nos chaussettes ‘Andy’ ! Avec leurs motifs audacieux et leurs couleurs vives, elles sont la touche finale parfaite pour toute tenue qui ose se démarquer. Confortables et tendance, elles sont un clin d’œil à l’art moderne. Soyez le centre de l’attention, une chaussette à la fois !”",
         "price": 12.99,
@@ -1389,7 +1389,7 @@
       },
       {
         "id": 98,
-        "src": "../assets/images/socks/Art/98.jpg",
+        "src": "../assets/images/socks/Art/98-Photoroom.webp",
         "name": "Jackson",
         "desc": "Élevez votre style avec nos chaussettes ‘Jackson', inspirées des oeuvres de Jackson Pollock ! Ces joyaux du design sont une véritable toile de maître à vos pieds. Avec leur mélange harmonieux de couleurs vives et de motifs abstraits, elles promettent de captiver les regards et d’ajouter une touche d’élégance artistique à votre quotidien. Confortables et ornées de détails en relief, elles ne manqueront pas de faire sensation !",
         "price": 12.99,
@@ -1403,7 +1403,7 @@
       },
       {
         "id": 99,
-        "src": "../assets/images/socks/Art/99.jpg",
+        "src": "../assets/images/socks/Art/99-Photoroom.webp",
         "name": "Léonard",
         "desc": "Enfilez 'Léonard', ces chaussettes inspirées des chefs-d’œuvre de la Renaissance. Avec un design qui ferait sourire De Vinci lui-même, ces chaussettes sont la touche finale parfaite pour tout amatrice ou amateur d’art avec un bon sens de l’humour. Confortables, élégantes et un brin espiègles, elles sont conçues pour celles et ceux qui aiment marcher sur les traces des grands maîtres… tout en gardant les pieds bien au chaud ",
         "price": 12.99,
@@ -1417,7 +1417,7 @@
       },
       {
         "id": 100,
-        "src": "../assets/images/socks/Art/100.jpg",
+        "src": "../assets/images/socks/Art/100-Photoroom.webp",
         "name": "Gorilla",
         "desc": "Ajoutez une touche de fantaisie et d'originalité à votre garde-robe avec nos chaussettes ‘Gorilla’, inspirée des oeuvres de Banksy ! Ces chaussettes sont une véritable célébration du streetart. Leur design réaliste sur fond texturé promet de capturer l’imagination et d’apporter une note d’originalité à vos tenues. Confortables et élégantes, elles sont parfaites pour celles et ceux qui aiment raconter une histoire à travers leur style !",
         "price": 12.99,
@@ -1431,7 +1431,7 @@
       },
       {
         "id": 101,
-        "src": "../assets/images/socks/Art/101.jpg",
+        "src": "../assets/images/socks/Art/101-Photoroom.webp",
         "name": "Gustav",
         "desc": "Faites sensation avec nos chaussettes 'Gustav' ! Inspirées du grand tableau 'Le Baiser', elles sont une véritable œuvre d'art pour vos pieds. Avec leur design coloré et audacieux, elles ajoutent une touche de romantisme et de fantaisie à votre garde-robe. Confortables et fabriquées pour durer, elles ne manqueront pas de démarrer des conversations.",
         "price": 12.99,
@@ -1445,7 +1445,7 @@
       },
       {
         "id": 102,
-        "src": "../assets/images/socks/Art/102.jpg",
+        "src": "../assets/images/socks/Art/102-Photoroom.webp",
         "name": "Salvador",
         "desc": "Éveillez votre style avec nos chaussettes 'Salvador' ! Conçues pour les esprits créatifs, ces chaussettes arborent un design inspiré de l'art abstrait de Salvador Dali qui captivera les regards. Avec leurs motifs colorés, elles sont parfaites pour celles et ceux qui aiment garder une part de mystère. Confort et conversation artistique garantis à chaque pas !",
         "price": 12.99,
@@ -1459,7 +1459,7 @@
       },
       {
         "id": 103,
-        "src": "../assets/images/socks/Art/103.jpg",
+        "src": "../assets/images/socks/Art/103-Photoroom.webp",
         "name": "Hokusai",
         "desc": "Surfez sur la vague de la mode avec nos chaussettes ‘Hokusai’ ! Inspirées par la célèbre œuvre japonaise, ces chaussettes captent l’essence de la mer avec leurs motifs ondulants et leurs nuances de bleu profond. Parfaites pour les amatrices et amateurs d’art et les esprits libres, elles apportent une touche de sérénité et de style à chaque pas. Confortables et artistiques, elles sont une invitation à l’aventure quotidienne, un pied après l’autre.",
         "price": 12.99,
@@ -1473,7 +1473,7 @@
       },
       {
         "id": 104,
-        "src": "../assets/images/socks/Art/104.jpg",
+        "src": "../assets/images/socks/Art/104-Photoroom.webp",
         "name": "Brooklyn",
         "desc": "Marchez dans les pas d’un maître de l’expressionnisme moderne avec ces chaussettes 'Brooklyn' inspirées par l’art audacieux de Jean-Michel Basquiat. Avec leur mélange de couleurs vives et de motifs évoquant les graffitis, elles sont un hommage portable à l’artiste qui a brisé les frontières entre l’art de rue et la galerie. Parfaites pour les esprits rebelles et les amatrices et amateurs d’art contemporain, ces chaussettes sont une déclaration de style qui crie ‘Boom for real’ à chaque pas",
         "price": 12.99,
@@ -1487,7 +1487,7 @@
       },
       {
         "id": 105,
-        "src": "../assets/images/socks/Art/105.jpg",
+        "src": "../assets/images/socks/Art/105-Photoroom.webp",
         "name": "Piet",
         "desc": "Plongez vos pieds dans un chef-d'œuvre avec nos chaussettes 'Piet' ! Ces chaussettes sont un hommage vibrant aux lignes épurées et aux couleurs primaires de l'art moderne. Avec leur mélange audacieux de rouge, bleu et jaune, séparés par des contours noirs, elles sont parfaites pour celles et ceux qui veulent marcher au rythme de l'art. Confortables, élégantes et pleines de caractère, elles feront de chaque pas une déclaration d'amour pour l'art. Exprimez votre palette intérieure !",
         "price": 12.99,
@@ -1501,7 +1501,7 @@
       },
       {
         "id": 106,
-        "src": "../assets/images/socks/Art/106.jpg",
+        "src": "../assets/images/socks/Art/106-Photoroom.webp",
         "name": "Vincent",
         "desc": "Marchez sous les étoiles avec nos chaussettes 'Vincent' ! Inspirées par les chefs-d'œuvre de Van Gogh, ces chaussettes combinent la beauté des tournesols avec les tourbillons célestes pour un effet artistique saisissant. Parfaites pour illuminer votre tenue, elles sont un hommage à l'art qui ne manquera pas d'attirer l'attention. Confortables et conçues pour inspirer, elles sont la touche finale idéale pour les amatrices et amateurs d'art et de nature.",
         "price": 12.99,
@@ -1515,7 +1515,7 @@
       },
       {
         "id": 107,
-        "src": "../assets/images/socks/Art/107.jpg",
+        "src": "../assets/images/socks/Art/107-Photoroom.webp",
         "name": "Kahlo",
         "desc": "Faites le pas vers l’originalité avec nos chaussettes ‘Kahlo’ ! Conçues pour ceux et celles qui aiment ajouter une touche de fantaisie à leur quotidien, ces chaussettes sont un véritable bouquet de confort. Avec leurs motifs floraux éclatants, leur hommage à la grande artiste Frida Kahlo, leurs couleurs vives, elles promettent de garder vos pieds dans une étreinte aussi douce que ludique. Parfaites pour les esprits créatifs, elles sont la promesse d’une démarche fleurie, où que vous alliez !",
         "price": 12.99,
@@ -1529,7 +1529,7 @@
       },
       {
         "id": 108,
-        "src": "../assets/images/socks/Art/108.jpg",
+        "src": "../assets/images/socks/Art/108-Photoroom.webp",
         "name": "Sunrise",
         "desc": "Illuminez votre garde-robe avec les chaussettes ‘Sunrise’! Inspirées par le chef-d’œuvre de Monet, elles évoquent la douceur d’un soleil levant qui baigne le port du Havre dans une lumière dorée. Chaque pas est une œuvre d’art, mêlant les nuances brumeuses et les reflets chatoyants de l’eau, capturant l’essence même de l’impressionnisme. Parfaites pour les amateurs d’art et d’aventure, ces chaussettes sont une invitation à commencer la journée avec élégance et une touche de poésie.",
         "price": 12.99,
@@ -1543,7 +1543,7 @@
       },
       {
         "id": 109,
-        "src": "../assets/images/socks/Art/109.jpg",
+        "src": "../assets/images/socks/Art/109-Photoroom.webp",
         "name": "Claude",
         "desc": "Plongez vos pieds dans un chef-d’œuvre aquatique avec nos chaussettes ‘Claude’ ! Avec leur design inspiré des étangs de nénuphars, elles apportent une touche de sérénité à votre garde-robe. Les couleurs vives et apaisantes évoquent la tranquillité d’un jardin d’eau, offrant un confort visuel et physique. Idéales pour les amoureux de la nature et de l’art, ces chaussettes sont une invitation à marcher sur l’eau avec élégance et fantaisie",
         "price": 12.99,
@@ -1557,7 +1557,7 @@
       },
       {
         "id": 110,
-        "src": "../assets/images/socks/Art/110.jpg",
+        "src": "../assets/images/socks/Art/110-Photoroom.webp",
         "name": "Water Lily",
         "desc": "Flânez dans un jardin aquatique avec nos chaussettes 'Water Lily' ! Inspirées par les célèbres peintures de Claude Monet, ces chaussettes transforment vos pieds en une toile impressionniste. Les teintes de vert, bleu et orange évoquent la sérénité des étangs fleuris, tandis que le design confortable assure que chaque pas est un plongeon dans le monde de l'art. Idéales pour les amoureux de la nature et de la peinture, elles apportent une touche de poésie à votre quotidien.",
         "price": 12.99,
@@ -1571,7 +1571,7 @@
       },
       {
         "id": 111,
-        "src": "../assets/images/socks/Art/111.jpg",
+        "src": "../assets/images/socks/Art/111-Photoroom.webp",
         "name": "Jean-Michel",
         "desc": "Marchez dans les pas de l’art avec nos chaussettes ‘Jean-Michel’ ! Inspirées par l’œuvre iconique de Jean-Michel Basquiat, ces chaussettes sont une célébration de l’art contemporain à vos pieds. Jaune éclatant avec des motifs noirs rappelant le style inimitable de Basquiat, elles sont parfaites pour celles et ceux qui cherchent à mélanger art et confort. Douces au toucher, elles transformeront vos pas en une toile de rue mobile. Portez-les et laissez votre empreinte artistique dans le monde professionnel !",
         "price": 12.99,
@@ -1585,7 +1585,7 @@
       },
       {
         "id": 112,
-        "src": "../assets/images/socks/Art/112.jpg",
+        "src": "../assets/images/socks/Art/112-Photoroom.webp",
         "name": "Square",
         "desc": "Ajoutez une touche de gaieté à votre tenue avec nos chaussettes ‘Square’ ! Ces chaussettes sont un véritable kaléidoscope pour vos pieds, avec leurs motifs géométriques audacieux et leurs couleurs vives. Parfaites pour égayer une journée grise ou pour compléter un look, elles sont conçues pour celles et ceux qui osent montrer leur style unique. Confortables, elles sont le choix idéal pour marcher avec confiance et couleurs !",
         "price": 12.99,
@@ -1599,7 +1599,7 @@
       },
       {
         "id": 113,
-        "src": "../assets/images/socks/Art/113.jpg",
+        "src": "../assets/images/socks/Art/113-Photoroom.webp",
         "name": "Rembrandt",
         "desc": "Marchez à travers l’histoire avec nos chaussettes ‘Rembrandt’ ! Arborant un imprimé inspiré des oeuvres de la Renaissance, ces chaussettes sont une véritable toile d’art pour vos pieds. Chaque pas raconte une histoire, avec des personnages vêtus de leurs plus beaux atours parmi les nuages. Confortables et captivantes, elles sont parfaites pour les amateurs d’histoire et d’art, ajoutant une touche de noblesse à chaque tenue. Enfilez-les et faites de chaque journée un chapitre mémorable de votre propre saga !",
         "price": 12.99,
@@ -1613,7 +1613,7 @@
       },
       {
         "id": 114,
-        "src": "../assets/images/socks/Art/114.jpg",
+        "src": "../assets/images/socks/Art/114-Photoroom.webp",
         "name": "Michelangelo",
         "desc": "Plongez vos pieds dans un chef-d’œuvre avec nos chaussettes ‘Michelangelo’ ! La palette de couleurs vivantes crée un spectacle visuel qui ne manquera pas d’attirer les regards, tandis que le confort supérieur vous permettra de parcourir les galeries de la vie quotidienne avec aisance. Portez-les et faites de chaque journée une exposition d’art exceptionnelle !",
         "price": 12.99,
@@ -1627,7 +1627,7 @@
       },
       {
         "id": 115,
-        "src": "../assets/images/socks/Art/115.jpg",
+        "src": "../assets/images/socks/Art/115-Photoroom.webp",
         "name": "Georgia",
         "desc": "Éveillez vos sens avec les chaussettes ‘Georgia’! Inspirées par les toiles emblématiques de Georgia O’Keeffe, ces chaussettes sont une célébration de la couleur et de la forme. Chaque fibre est imprégnée de l’esprit audacieux de l’artiste, avec des motifs qui rappellent ses célèbres fleurs agrandies et ses paysages du Nouveau-Mexique. Portez un morceau de l’histoire de l’art à vos pieds et laissez-vous transporter dans un monde où la nature rencontre l’abstraction.",
         "price": 12.99,
@@ -1641,7 +1641,7 @@
       },
       {
         "id": 116,
-        "src": "../assets/images/socks/Art/116.jpg",
+        "src": "../assets/images/socks/Art/116-Photoroom.webp",
         "name": "Keith",
         "desc": "Faites vibrer vos pas au rythme de Keith Haring avec nos chaussettes ‘Haring’ ! Inspirées par l’iconique artiste, ces chaussettes sont une toile de confort où danse l’art. Les silhouettes orange énergiques sur fond gris évoquent le dynamisme et la liberté d’expression caractéristiques de Haring. Un clin d’œil artistique à vos pieds, elles sont parfaites pour celles et ceux qui marchent sur le chemin de l’art avec audace et légèreté. Portez-les et faites de chaque pas une déclaration d’art !",
         "price": 12.99,
@@ -1655,7 +1655,7 @@
       },
       {
         "id": 117,
-        "src": "../assets/images/socks/Art/117.jpg",
+        "src": "../assets/images/socks/Art/117-Photoroom.webp",
         "name": "Edvard",
         "desc": "Résonnez avec l’art expressionniste avec les chaussettes ‘Edvard’! Capturant l’essence tourmentée de la célèbre peinture de Munch, ces chaussettes sont un cri visuel qui traverse le tissu. Les lignes ondulantes et les couleurs ardentes enveloppent vos pieds, évoquant la puissance émotionnelle de l’œuvre originale. Portez un symbole de l’angoisse et de la beauté de la condition humaine, tout en ajoutant une touche de drame artistique à votre style quotidien.",
         "price": 12.99,
@@ -1669,7 +1669,7 @@
       },
       {
         "id": 118,
-        "src": "../assets/images/socks/Art/118.jpg",
+        "src": "../assets/images/socks/Art/118-Photoroom.webp",
         "name": "René",
         "desc": "Découvrez le mystère à chaque pas avec nos chaussettes ‘René’ ! Inspirées par les œuvres surréalistes de René Magritte, ces chaussettes sont une énigme enveloppant vos pieds. Elles capturent l’essence de l’art de Magritte, où le jour se mêle à la nuit et la réalité au rêve. Avec leur design qui défie la logique, elles sont parfaites pour celles et ceux qui cherchent à ajouter une touche de poésie et d’énigme à leur garde-robe professionnelle. Confortables et captivantes, elles vous invitent à laisser libre cours à votre imagination. Portez-les et faites de chaque journée une œuvre d’art !",
         "price": 12.99,
@@ -1683,7 +1683,7 @@
       },
       {
         "id": 119,
-        "src": "../assets/images/socks/Art/119.jpg",
+        "src": "../assets/images/socks/Art/119-Photoroom.webp",
         "name": "Haring",
         "desc": "Exprimez votre art de vivre avec nos chaussettes ‘Haring’ ! Inspirées par l’énergie des oeuvre de Keith Haring, ces chaussettes sont un véritable manifeste de style. Les motifs colorés et ludiques, mêlant figures humaines et formes géométriques, évoquent l’art de rue emblématique de Haring. Un hommage pied-à-terre à l’esprit rebelle de l’art moderne, elles sont la promesse d’une démarche audacieuse et d’un confort sans compromis. Laissez vos pieds parler d’art !",
         "price": 12.99,
@@ -1697,7 +1697,7 @@
       },
       {
         "id": 120,
-        "src": "../assets/images/socks/Art/120.jpg",
+        "src": "../assets/images/socks/Art/120-Photoroom.webp",
         "name": "Auguste",
         "desc": "Promenez-vous dans une galerie d’art à chaque pas avec les chaussettes ‘Auguste’! Arborant un design riche et coloré qui rappelle les toiles vibrantes de l'époque d'Auguste Renoir, ces chaussettes transforment vos pieds en chefs-d’œuvre ambulants. Le confort rencontre la classe dans ce tissu doux, où chaque couleur raconte une histoire de rencontres et de paysages urbains. Idéales pour les amateurs d’histoire et d’élégance, elles ajoutent une touche de sophistication à toute tenue, tout en gardant une pointe d’humour.",
         "price": 12.99,
@@ -1719,7 +1719,7 @@
     "products": [
       {
         "id": 121,
-        "src": "../assets/images/socks/Festif/121.jpg",
+        "src": "../assets/images/socks/Festif/121-Photoroom.webp",
         "name": "Produit 121",
         "desc": "description",
         "price": 12.99,
@@ -1733,7 +1733,7 @@
       },
       {
         "id": 122,
-        "src": "../assets/images/socks/Festif/122.jpg",
+        "src": "../assets/images/socks/Festif/122-Photoroom.webp",
         "name": "Produit 122",
         "desc": "description",
         "price": 12.99,
@@ -1747,7 +1747,7 @@
       },
       {
         "id": 123,
-        "src": "../assets/images/socks/Festif/123.jpg",
+        "src": "../assets/images/socks/Festif/123-Photoroom.webp",
         "name": "Produit 123",
         "desc": "description",
         "price": 12.99,
@@ -1761,7 +1761,7 @@
       },
       {
         "id": 124,
-        "src": "../assets/images/socks/Festif/124.jpg",
+        "src": "../assets/images/socks/Festif/124-Photoroom.webp",
         "name": "Produit 124",
         "desc": "description",
         "price": 12.99,
@@ -1775,7 +1775,7 @@
       },
       {
         "id": 125,
-        "src": "../assets/images/socks/Festif/125.jpg",
+        "src": "../assets/images/socks/Festif/125-Photoroom.webp",
         "name": "Produit 125",
         "desc": "description",
         "price": 12.99,
@@ -1789,7 +1789,7 @@
       },
       {
         "id": 126,
-        "src": "../assets/images/socks/Festif/126.jpg",
+        "src": "../assets/images/socks/Festif/126-Photoroom.webp",
         "name": "Produit 126",
         "desc": "description",
         "price": 12.99,
@@ -1803,7 +1803,7 @@
       },
       {
         "id": 127,
-        "src": "../assets/images/socks/Festif/127.jpg",
+        "src": "../assets/images/socks/Festif/127-Photoroom.webp",
         "name": "Produit 127",
         "desc": "description",
         "price": 12.99,
@@ -1817,7 +1817,7 @@
       },
       {
         "id": 128,
-        "src": "../assets/images/socks/Festif/128.jpg",
+        "src": "../assets/images/socks/Festif/128-Photoroom.webp",
         "name": "Produit 128",
         "desc": "description",
         "price": 12.99,
@@ -1831,7 +1831,7 @@
       },
       {
         "id": 129,
-        "src": "../assets/images/socks/Festif/129.jpg",
+        "src": "../assets/images/socks/Festif/129-Photoroom.webp",
         "name": "Produit 129",
         "desc": "description",
         "price": 12.99,
@@ -1845,7 +1845,7 @@
       },
       {
         "id": 130,
-        "src": "../assets/images/socks/Festif/130.jpg",
+        "src": "../assets/images/socks/Festif/130-Photoroom.webp",
         "name": "Produit 130",
         "desc": "description",
         "price": 12.99,
@@ -1859,7 +1859,7 @@
       },
       {
         "id": 131,
-        "src": "../assets/images/socks/Festif/131.jpg",
+        "src": "../assets/images/socks/Festif/131-Photoroom.webp",
         "name": "Produit 131",
         "desc": "description",
         "price": 12.99,
@@ -1873,7 +1873,7 @@
       },
       {
         "id": 132,
-        "src": "../assets/images/socks/Festif/132.jpg",
+        "src": "../assets/images/socks/Festif/132-Photoroom.webp",
         "name": "Produit 132",
         "desc": "description",
         "price": 12.99,
@@ -1887,7 +1887,7 @@
       },
       {
         "id": 133,
-        "src": "../assets/images/socks/Festif/133.jpg",
+        "src": "../assets/images/socks/Festif/133-Photoroom.webp",
         "name": "Produit 133",
         "desc": "description",
         "price": 12.99,
@@ -1901,7 +1901,7 @@
       },
       {
         "id": 134,
-        "src": "../assets/images/socks/Festif/134.jpg",
+        "src": "../assets/images/socks/Festif/134-Photoroom.webp",
         "name": "Produit 134",
         "desc": "description",
         "price": 12.99,
@@ -1915,7 +1915,7 @@
       },
       {
         "id": 135,
-        "src": "../assets/images/socks/Festif/135.jpg",
+        "src": "../assets/images/socks/Festif/135-Photoroom.webp",
         "name": "Produit 135",
         "desc": "description",
         "price": 12.99,
@@ -1929,7 +1929,7 @@
       },
       {
         "id": 136,
-        "src": "../assets/images/socks/Festif/136.jpg",
+        "src": "../assets/images/socks/Festif/136-Photoroom.webp",
         "name": "Produit 136",
         "desc": "description",
         "price": 12.99,
@@ -1943,7 +1943,7 @@
       },
       {
         "id": 137,
-        "src": "../assets/images/socks/Festif/137.jpg",
+        "src": "../assets/images/socks/Festif/137-Photoroom.webp",
         "name": "Produit 137",
         "desc": "description",
         "price": 12.99,
@@ -1957,7 +1957,7 @@
       },
       {
         "id": 138,
-        "src": "../assets/images/socks/Festif/138.jpg",
+        "src": "../assets/images/socks/Festif/138-Photoroom.webp",
         "name": "Produit 138",
         "desc": "description",
         "price": 12.99,
@@ -1971,7 +1971,7 @@
       },
       {
         "id": 139,
-        "src": "../assets/images/socks/Festif/139.jpg",
+        "src": "../assets/images/socks/Festif/139-Photoroom.webp",
         "name": "Produit 139",
         "desc": "description",
         "price": 12.99,
@@ -1985,7 +1985,7 @@
       },
       {
         "id": 140,
-        "src": "../assets/images/socks/Festif/140.jpg",
+        "src": "../assets/images/socks/Festif/140-Photoroom.webp",
         "name": "Produit 140",
         "desc": "description",
         "price": 12.99,
@@ -1999,7 +1999,7 @@
       },
       {
         "id": 141,
-        "src": "../assets/images/socks/Festif/141.jpg",
+        "src": "../assets/images/socks/Festif/141-Photoroom.webp",
         "name": "Produit 141",
         "desc": "description",
         "price": 12.99,
@@ -2013,7 +2013,7 @@
       },
       {
         "id": 142,
-        "src": "../assets/images/socks/Festif/142.jpg",
+        "src": "../assets/images/socks/Festif/142-Photoroom.webp",
         "name": "Produit 142",
         "desc": "description",
         "price": 12.99,
@@ -2027,7 +2027,7 @@
       },
       {
         "id": 143,
-        "src": "../assets/images/socks/Festif/143.jpg",
+        "src": "../assets/images/socks/Festif/143-Photoroom.webp",
         "name": "Produit 143",
         "desc": "description",
         "price": 12.99,
@@ -2041,7 +2041,7 @@
       },
       {
         "id": 144,
-        "src": "../assets/images/socks/Festif/144.jpg",
+        "src": "../assets/images/socks/Festif/144-Photoroom.webp",
         "name": "Produit 144",
         "desc": "description",
         "price": 12.99,
@@ -2055,7 +2055,7 @@
       },
       {
         "id": 145,
-        "src": "../assets/images/socks/Festif/145.jpg",
+        "src": "../assets/images/socks/Festif/145-Photoroom.webp",
         "name": "Produit 145",
         "desc": "description",
         "price": 12.99,
@@ -2069,7 +2069,7 @@
       },
       {
         "id": 146,
-        "src": "../assets/images/socks/Festif/146.jpg",
+        "src": "../assets/images/socks/Festif/146-Photoroom.webp",
         "name": "Produit 146",
         "desc": "description",
         "price": 12.99,
@@ -2083,7 +2083,7 @@
       },
       {
         "id": 147,
-        "src": "../assets/images/socks/Festif/147.jpg",
+        "src": "../assets/images/socks/Festif/147-Photoroom.webp",
         "name": "Produit 147",
         "desc": "description",
         "price": 12.99,
@@ -2097,7 +2097,7 @@
       },
       {
         "id": 148,
-        "src": "../assets/images/socks/Festif/148.jpg",
+        "src": "../assets/images/socks/Festif/148-Photoroom.webp",
         "name": "Produit 148",
         "desc": "description",
         "price": 12.99,
@@ -2111,7 +2111,7 @@
       },
       {
         "id": 149,
-        "src": "../assets/images/socks/Festif/149.jpg",
+        "src": "../assets/images/socks/Festif/149-Photoroom.webp",
         "name": "Produit 149",
         "desc": "description",
         "price": 12.99,
@@ -2125,7 +2125,7 @@
       },
       {
         "id": 150,
-        "src": "../assets/images/socks/Festif/150.jpg",
+        "src": "../assets/images/socks/Festif/150-Photoroom.webp",
         "name": "Produit 150",
         "desc": "description",
         "price": 12.99,
