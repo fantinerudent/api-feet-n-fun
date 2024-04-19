@@ -846,7 +846,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "key": ["Jeu"],
+        "key": ["Jeu", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -861,7 +861,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "key": ["Jeu"],
+        "key": ["Jeu", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -959,7 +959,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "key": ["Animé"],
+        "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1004,7 +1004,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "key": ["Animé"],
+        "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1019,7 +1019,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "key": ["Animé"],
+        "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1034,7 +1034,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "key": ["Animé"],
+        "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1049,7 +1049,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "key": ["Animé"],
+        "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1064,7 +1064,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "key": ["Manga"],
+        "key": ["Manga", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1094,7 +1094,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "key": ["Manga"],
+        "key": ["Manga", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1169,7 +1169,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "key": ["Manga"],
+        "key": ["Manga", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1244,7 +1244,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "key": ["Animé"],
+        "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1259,7 +1259,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "key": ["Animé"],
+        "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1319,7 +1319,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "key": ["Animé"],
+        "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1349,7 +1349,7 @@
         "price": 12.99,
         "new": false,
         "color": ["blue", "white"],
-        "key": ["Animé"],
+        "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
