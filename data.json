@@ -1719,7 +1719,7 @@
     "products": [
       {
         "id": 121,
-        "src": "../assets/images/socks/Festif/121.jpeg",
+        "src": "../assets/images/socks/Festif/121-Photoroom.webp",
         "name": "Joie de Pâques",
         "desc": "Ajoutez une touche d’originalité à votre tenue avec nos chaussettes ornées d'oeufs de pâques ! Confortables et stylées elles sont parfaites pour exprimer votre amour des pieds à la tête. Idéales pour les romantiques et les fashionistas !",
         "price": 12.99,
@@ -1733,7 +1733,7 @@
       },
       {
         "id": 122,
-        "src": "../assets/images/socks/Festif/122.jpeg",
+        "src": "../assets/images/socks/Festif/122-Photoroom.webp",
         "name": " ",
         "desc": " ",
         "price": 12.99,
@@ -1747,7 +1747,7 @@
       },
       {
         "id": 123,
-        "src": "../assets/images/socks/Festif/123.jpeg",
+        "src": "../assets/images/socks/Festif/123-Photoroom.webp",
         "name": "Fashionistas",
         "desc": "Ajoutez une touche d’originalité à votre tenue avec nos chaussettes transparentes ornées de cœurs rouges ! Confortables et stylées elles sont parfaites pour exprimer votre amour des pieds à la tête. Idéales pour les romantiques et les fashionistas !",
         "price": 12.99,
@@ -1761,7 +1761,7 @@
       },
       {
         "id": 124,
-        "src": "../assets/images/socks/Festif/124.jpeg",
+        "src": "../assets/images/socks/Festif/124-Photoroom.webp",
         "name": " Coeur en Fêtes",
         "desc": " Apportez une touche de gaieté à vos pas avec nos chaussettes 'Cœur en Fête'! Grises avec des manchettes éclatantes de rouge, elles sont parsemées de cœurs rouges et turquoise pour égayer votre journée. Confortables et résistantes, elles sont parfaites pour ceux qui aiment mélanger style et affection.",
         "price": 12.99,
@@ -1775,7 +1775,7 @@
       },
       {
         "id": 125,
-        "src": "../assets/images/socks/Festif/125.jpeg",
+        "src": "../assets/images/socks/Festif/125-Photoroom.webp",
         "name": "Coeur en Pétillant ",
         "desc": "Laissez votre cœur guider vos pas avec nos chaussettes ‘Cœur Pétillant’ ! Avec leurs cœurs rouges et roses sur fond blanc, elles sont le symbole parfait de l’amour et de la joie. Confortables et ludiques, elles vous feront danser de bonheur. Ajoutez une dose d’affection à votre style avec ces chaussettes qui sont bien plus qu’un simple accessoire ",
         "price": 12.99,
@@ -1789,7 +1789,7 @@
       },
       {
         "id": 126,
-        "src": "../assets/images/socks/Festif/126.jpeg",
+        "src": "../assets/images/socks/Festif/126-Photoroom.webp",
         "name": " Coeur Bleu",
         "desc": "L’amour à vos pieds ! Avec leur bleu profond et leurs cœurs rouges passionnés, ces chaussettes sont le coup de foudre assuré. Confortables et tendance, elles sont parfaites pour réchauffer les cœurs… et les orteils  ",
         "price": 12.99,
@@ -1803,7 +1803,7 @@
       },
       {
         "id": 127,
-        "src": "../assets/images/socks/Festif/127.jpeg",
+        "src": "../assets/images/socks/Festif/127-Photoroom.webp",
         "name": " Fantômes d'Automne",
         "desc": "Chaussettes Fantômes d’Automne : Laissez vos pieds rejoindre la fête des esprits avec ces chaussettes d’Halloween à la mode ! Avec des citrouilles souriantes et des étoiles pétillantes, elles ajoutent une touche de frisson à votre garde-robe tout en restant douces et confortables. Parfaites pour vos escapades d’octobre ou comme cadeau pour vos amis qui adorent l’épouvante avec élégance ! ",
         "price": 12.99,
@@ -1817,7 +1817,7 @@
       },
       {
         "id": 128,
-        "src": "../assets/images/socks/Festif/128.jpeg",
+        "src": "../assets/images/socks/Festif/128-Photoroom.webp",
         "name": "Citrouilles malicieuses ",
         "desc": "Faites frissonner vos pieds avec style ! Ces chaussettes d’Halloween, ornées de citrouilles sournoises et d’étoiles nocturnes, sont parfaites pour ajouter une touche d’humour à votre tenue. Confortables et tendance, elles sont idéales pour arpenter les rues en quête de bonbons ou pour impressionner lors de votre prochaine soirée costumée. Osez l’originalité avec ces chaussettes qui promettent des frissons… de plaisir ! ",
         "price": 12.99,
@@ -1831,7 +1831,7 @@
       },
       {
         "id": 129,
-        "src": "../assets/images/socks/Festif/129.jpeg",
+        "src": "../assets/images/socks/Festif/129-Photoroom.webp",
         "name": " Saint-Patrick",
         "desc": "portez le bonheur au bout de vos pieds, avec ces chaussettes ornées de trèfles ",
         "price": 12.99,
@@ -1845,7 +1845,7 @@
       },
       {
         "id": 130,
-        "src": "../assets/images/socks/Festif/130.jpeg",
+        "src": "../assets/images/socks/Festif/130-Photoroom.webp",
         "name": "Trèfle à quatre feuilles ",
         "desc": " Mettez de la chance dans vos pas avec ces chaussettes festives ! Parfaites pour célébrer la Saint-Patrick ou simplement pour ajouter une touche de vert à votre quotidien, ces chaussettes sont un véritable trésor. Confortables, élégantes et porteuses de bonne fortune, elles feront le bonheur de vos pieds. Qui sait, elles pourraient même vous guider vers un pot d’or !",
         "price": 12.99,
@@ -1859,7 +1859,7 @@
       },
       {
         "id": 131,
-        "src": "../assets/images/socks/Festif/131.jpeg",
+        "src": "../assets/images/socks/Festif/131-Photoroom.webp",
         "name": "Les chanceuses ",
         "desc": "Mettez de la chance dans vos pas avec ces chaussettes festives ! Parfaites pour célébrer la Saint-Patrick ou simplement pour ajouter une touche de vert à votre quotidien, ces chaussettes sont un véritable trésor. Confortables, élégantes et porteuses de bonne fortune, elles feront le bonheur de vos pieds. Qui sait, elles pourraient même vous guider vers un pot d’or ! ",
         "price": 12.99,
@@ -1873,7 +1873,7 @@
       },
       {
         "id": 132,
-        "src": "../assets/images/socks/Festif/132.jpeg",
+        "src": "../assets/images/socks/Festif/132-Photoroom.webp",
         "name": " Citrouilles d'Halloween",
         "desc": " Faites frissonner vos orteils de plaisir avec nos chaussettes d’Halloween ! Avec des citrouilles souriantes et des étoiles brillantes sur un fond noir élégant, elles sont parfaites pour ajouter une touche de fantaisie à votre garde-robe automnale. Confortables, douces et un brin malicieuses, elles sont idéales pour ceux qui aiment célébrer avec style. Attrapez-les avant que les fantômes ne les emportent ",
         "price": 12.99,
@@ -1887,7 +1887,7 @@
       },
       {
         "id": 133,
-        "src": "../assets/images/socks/Festif/133.jpeg",
+        "src": "../assets/images/socks/Festif/133-Photoroom.webp",
         "name": "Jardin Enchanté ",
         "desc": "Mettez un peu de printemps dans votre pas avec nos chaussettes ‘Jardin Enchanté’ ! Avec leur base grise élégante et leurs motifs floraux éclatants, elles sont parfaites pour ceux qui aiment ajouter une touche de couleur à leur quotidien. Et ne manquez pas les œufs de Pâques cachés parmi les fleurs, prêts à apporter une surprise joyeuse à vos pieds. Confortables, stylées et un brin espiègles, elles feront sourire vos orteils à chaque pas  ",
         "price": 12.99,
@@ -1901,7 +1901,7 @@
       },
       {
         "id": 134,
-        "src": "../assets/images/socks/Festif/134.jpeg",
+        "src": "../assets/images/socks/Festif/134-Photoroom.webp",
         "name": " Porte-Bonheur",
         "desc": "Ajoutez une touche de magie à votre quotidien avec nos chaussettes trèfle ! Conçues pour ceux qui cherchent à allier style et confort, ces chaussettes sont un véritable porte-bonheur. Avec leur motif de trèfles à quatre feuilles et leurs couleurs vives, elles promettent de vous porter chance à chaque pas. Idéales pour le bureau ou une soirée entre amis, elles sont le choix parfait pour ceux qui aiment ajouter un brin de fantaisie à leur garde-robe. Attrapez votre paire et que la chance soit avec vous ! ",
         "price": 12.99,
@@ -1915,7 +1915,7 @@
       },
       {
         "id": 135,
-        "src": "../assets/images/socks/Festif/135.jpeg",
+        "src": "../assets/images/socks/Festif/135-Photoroom.webp",
         "name": " Fantôme d'Halloween",
         "desc": "Frissonnez de style avec nos chaussettes d’Halloween ! Grises avec des citrouilles souriantes et des petits crânes, elles sont parfaites pour ajouter une touche d’humour à vos tenues automnales. Douces et confortables, elles sont idéales pour les esprits audacieux prêts à affronter la nuit des sorcières. Attrapez votre paire et préparez-vous à hanter les rues avec élégance ! ",
         "price": 12.99,
@@ -1929,7 +1929,7 @@
       },
       {
         "id": 136,
-        "src": "../assets/images/socks/Festif/136.jpeg",
+        "src": "../assets/images/socks/Festif/136-Photoroom.webp",
         "name": "Féerie ",
         "desc": " Faites un pas dans un monde féerique avec nos chaussettes 'Jardin Enchanté' ! Ornées de motifs floraux délicats et de lapins espiègles, elles sont la promesse d’une escapade dans la nature à chaque fois que vous les enfilez. Confortables et stylées, elles apportent une touche de gaieté à n’importe quelle tenue. Parfaites pour les amoureux de la nature et du confort !",
         "price": 12.99,
@@ -1943,7 +1943,7 @@
       },
       {
         "id": 137,
-        "src": "../assets/images/socks/Festif/137.jpeg",
+        "src": "../assets/images/socks/Festif/137-Photoroom.webp",
         "name": " Fantaisie",
         "desc": " Nos chaussettes de Noël ne sont pas seulement douces et confortables, elles sont aussi le moyen parfait d’apporter de la joie à vos orteils. Avec leurs motifs festifs et leurs couleurs éclatantes, elles sont idéales pour les soirées cocooning ou pour ajouter une note de gaieté à votre tenue de travail. Qui a dit que l’hiver devait être terne ? Mettez vos chaussettes festives et dansez sur la mélodie des fêtes !",
         "price": 12.99,
@@ -1957,7 +1957,7 @@
       },
       {
         "id": 138,
-        "src": "../assets/images/socks/Festif/138.jpeg",
+        "src": "../assets/images/socks/Festif/138-Photoroom.webp",
         "name": " Réchauffez",
         "desc": " Nos chaussettes de Noël ne sont pas seulement douces et confortables, elles sont aussi le moyen parfait d’apporter de la joie à vos orteils. Avec leurs motifs festifs et leurs couleurs éclatantes, elles sont idéales pour les soirées cocooning ou pour ajouter une note de gaieté à votre tenue de travail. Qui a dit que l’hiver devait être terne ? Mettez vos chaussettes festives et dansez sur la mélodie des fêtes !",
         "price": 12.99,
@@ -1971,7 +1971,7 @@
       },
       {
         "id": 139,
-        "src": "../assets/images/socks/Festif/139.jpeg",
+        "src": "../assets/images/socks/Festif/139-Photoroom.webp",
         "name": " Carrousel Magique",
         "desc": "Faites tourner les têtes avec nos chaussettes Carrousel ! Avec leur design inspiré des fêtes foraines, ces chaussettes sont un véritable festival pour les pieds. Confortables et colorées, elles vous emmèneront dans un tourbillon de style et de gaieté. Parfaites pour égayer vos journées ou pour offrir un cadeau qui sort de l’ordinaire. Attrapez votre paire avant qu’elles ne disparaissent ! ",
         "price": 12.99,
@@ -1985,7 +1985,7 @@
       },
       {
         "id": 140,
-        "src": "../assets/images/socks/Festif/140.jpeg",
+        "src": "../assets/images/socks/Festif/140-Photoroom.webp",
         "name": "Elegance ",
         "desc": "Fleurissez votre quotidien avec nos chaussettes brodées ! Conçues pour les amoureux de la nature, ces chaussettes blanches ornées de fleurs colorées apportent une touche d’élégance printanière à vos pas. Douces comme une caresse et joyeuses comme un bouquet, elles promettent confort et style à vos pieds. Parfaites pour égayer vos tenues ou pour offrir un sourire fleuri à vos proches. ",
         "price": 12.99,
@@ -1999,7 +1999,7 @@
       },
       {
         "id": 141,
-        "src": "../assets/images/socks/Festif/141.jpeg",
+        "src": "../assets/images/socks/Festif/141-Photoroom.webp",
         "name": "Mariée en Fleurs ",
         "desc": "Marchez vers le bonheur avec nos chaussettes Mariée en Fleurs ! Conçues pour ceux qui aiment ajouter une touche d’originalité à leur tenue, ces chaussettes grises arborent un motif floral coloré et une mariée souriante tenant un bouquet éclatant. Parfaites pour un mariage ou pour égayer votre journée de travail, elles promettent confort et style… jusqu’à ce que la lessive vous sépare ! ",
         "price": 12.99,
@@ -2013,7 +2013,7 @@
       },
       {
         "id": 142,
-        "src": "../assets/images/socks/Festif/142.jpeg",
+        "src": "../assets/images/socks/Festif/142-Photoroom.webp",
         "name": " Jardin Secret",
         "desc": "Mettez de la fantaisie à vos pieds avec nos chaussettes Jardin Secret ! Avec leurs motifs floraux éclatants et leur élégante dame en robe, elles apportent une touche d’art et de magie à votre quotidien. Confortables, stylées et un brin espiègles, elles promettent de faire sourire vos petons à chaque pas ! ",
         "price": 12.99,
@@ -2027,7 +2027,7 @@
       },
       {
         "id": 143,
-        "src": "../assets/images/socks/Festif/143.jpeg",
+        "src": "../assets/images/socks/Festif/143-Photoroom.webp",
         "name": " Festives hivernales",
         "desc": "Laissez l’esprit de Noël vous envahir jusqu’aux orteils avec ces chaussettes grises ornées de flocons de neige et de feuilles de houx. Confortables et chaleureuses, elles sont parfaites pour se blottir près du feu ou pour offrir un sourire en cadeau. Mettez un peu de joie dans vos pas avec ces chaussettes qui célèbrent la saison ! ",
         "price": 12.99,
@@ -2041,7 +2041,7 @@
       },
       {
         "id": 144,
-        "src": "../assets/images/socks/Festif/144.jpeg",
+        "src": "../assets/images/socks/Festif/144-Photoroom.webp",
         "name": "Enchantées ",
         "desc": " Plongez vos pieds dans un conte de fées avec ces chaussettes délicatement ornées d’une princesse et de fleurs. Douces et confortables, elles vous transporteront dans un monde de magie et d’élégance. Parfaites pour réchauffer vos journées et ajouter une touche royale à votre garde-robe. Qui a dit que la féerie était réservée aux enfants ?",
         "price": 12.99,
@@ -2055,7 +2055,7 @@
       },
       {
         "id": 145,
-        "src": "../assets/images/socks/Festif/145.jpeg",
+        "src": "../assets/images/socks/Festif/145-Photoroom.webp",
         "name": "Rigolotes ",
         "desc": "Glissez vos pieds dans la joie de l’hiver avec ces chaussettes ornées de bonhommes de neige souriants et de flocons de neige dansants. Avec leur base grise et leurs motifs colorés, elles promettent confort et style tout en apportant une touche festive à votre garde-robe. Parfaites pour réchauffer vos orteils et votre cœur lors des froides journées d’hiver ! ",
         "price": 12.99,
@@ -2069,7 +2069,7 @@
       },
       {
         "id": 146,
-        "src": "../assets/images/socks/Festif/146.jpeg",
+        "src": "../assets/images/socks/Festif/146-Photoroom.webp",
         "name": " Joyeux Anniversaire",
         "desc": "Célébrez chaque jour comme s’il s’agissait de votre anniversaire avec ces chaussettes festives ! Ornementées de ballons colorés et de gâteaux d’anniversaire, elles apportent confort et bonne humeur à vos pieds. Parfaites pour offrir ou pour ajouter un peu de pétillance à votre tenue. Faites un vœu à chaque pas ! ",
         "price": 12.99,
@@ -2083,7 +2083,7 @@
       },
       {
         "id": 147,
-        "src": "../assets/images/socks/Festif/147.jpeg",
+        "src": "../assets/images/socks/Festif/147-Photoroom.webp",
         "name": " Fête Permanente",
         "desc": "Illuminez votre quotidien avec ces chaussettes gâteau d’anniversaire, où chaque jour est une célébration ! Avec leur design coloré et joyeux, elles apportent une touche de fantaisie à vos pas. Confortables et festives, elles sont le cadeau idéal pour souhaiter un ‘joyeux anniversaire’ à vos pieds ",
         "price": 12.99,
@@ -2097,7 +2097,7 @@
       },
       {
         "id": 148,
-        "src": "../assets/images/socks/Festif/148.jpeg",
+        "src": "../assets/images/socks/Festif/148-Photoroom.webp",
         "name": "Câlins de Rennes ",
         "desc": " Réchauffez vos pieds avec une touche de magie hivernale ! Nos chaussettes ornées de rennes et de flocons de neige sont le mélange parfait de style et de confort. Elles sont si douces que vous aurez l’impression de recevoir un câlin des rennes eux-mêmes. Parfaites pour les soirées cocooning ou pour ajouter une note festive à votre look. Embarquez pour un voyage au pays des merveilles hivernales à chaque pas !",
         "price": 12.99,
@@ -2111,7 +2111,7 @@
       },
       {
         "id": 149,
-        "src": "../assets/images/socks/Festif/149.jpeg",
+        "src": "../assets/images/socks/Festif/149-Photoroom.webp",
         "name": " Festives",
         "desc": " Réchauffez vos pieds avec style grâce à nos chaussettes aux motifs joyeux et colorés ! Conçues pour le confort et la gaieté, elles sont l’accessoire parfait pour égayer vos journées. Plus qu’une simple paire de chaussettes, elles sont une célébration à enfiler !",
         "price": 12.99,
@@ -2125,7 +2125,7 @@
       },
       {
         "id": 150,
-        "src": "../assets/images/socks/Festif/150.jpeg",
+        "src": "../assets/images/socks/Festif/150-Photoroom.webp",
         "name": " Fête des pieds",
         "desc": "Ajoutez une touche de gourmandise à votre style avec nos chaussettes parsemées de cupcakes colorés ! Confortables et ludiques, elles sont la cerise sur le gâteau de n’importe quelle tenue. Parfaites pour les amateurs de douceurs et de fantaisie. À croquer à chaque pas ! ",
         "price": 12.99,
