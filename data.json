@@ -928,7 +928,7 @@
         "desc": "Ces chaussettes sont idéales pour les fans de la série, les amateurs de science-fiction et tous ceux qui aiment ajouter une touche de fantaisie à leur quotidien. Que vous soyez en train de binge-watcher des épisodes de “Rick and Morty” ou simplement en train de vous détendre à la maison, ces chaussettes vous accompagneront avec style et originalité.",
         "price": 12.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "yellow"],
         "key": ["Animé", "Rick"],
         "size": [
           { "size": "35-38", "available": true },
@@ -943,7 +943,7 @@
         "desc": "Embarquez pour une aventure intergalactique avec nos chaussettes “Rick et Morty” ! Avec Rick, le scientifique fou, et Morty, son petit-fils souvent réticent, à vos pieds, chaque pas est un pas de géant dans l’espace du style. 🚀✨ Ces chaussettes à thème spatial sont un must-have pour tout fan de la série. Avec un fond bleu nuit étoilé et les expressions emblématiques de nos héros, elles promettent de garder vos pieds confortables et votre look audacieux, que vous soyez en train de conquérir le monde ou simplement de vous relaxer chez vous.",
         "price": 12.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "yellow"],
         "key": ["Animé"],
         "size": [
           { "size": "35-38", "available": false },
@@ -956,9 +956,9 @@
         "src": "../assets/images/socks/Anime/63-Photoroom.webp",
         "name": "Futurama",
         "desc": "Rejoignez l’équipage de l’Express Planet avec ces chaussettes Futurama ultra-cool ! Avec Bender et la bande, vos pieds ne seront jamais ennuyeux. Parfaites pour les fans de la série, ces chaussettes sont un clin d’œil à votre geek intérieur tout en restant confortables pour toute mission spatiale. Taille unique pour tous les terriens et extraterrestres !",
-        "price": 12.99,
+        "price": 11.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "grey"],
         "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -971,9 +971,9 @@
         "src": "../assets/images/socks/Anime/64-Photoroom.webp",
         "name": "Peter Griffin",
         "desc": "Plongez dans l’univers déjanté de Quahog avec nos chaussettes ‘Family Guy’ ! Avec le patriarche Peter Griffin en vedette, ces chaussettes sont un hommage à votre série animée préférée. Confortables, stylées et imprégnées d’humour, elles sont parfaites pour afficher votre amour pour les Griffin tout en gardant vos pieds au chaud.",
-        "price": 12.99,
+        "price": 10.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["green", "white"],
         "key": ["Griffin", "Animé"],
         "size": [
           { "size": "35-38", "available": true },
@@ -986,9 +986,9 @@
         "src": "../assets/images/socks/Anime/65-Photoroom.webp",
         "name": "Family Guy",
         "desc": "“Faites un pas dans l’humour de Quahog avec nos chaussettes ‘Griffin Gala’ ! Arborant le célèbre Peter Griffin, ces chaussettes sont un must pour tout fan de ‘Family Guy’. Conçues pour le confort et la durabilité, elles vous feront marcher avec une pointe d’ironie. Taille unique pour tous les amateurs de satire !”",
-        "price": 12.99,
+        "price": 9.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "brown"],
         "key": ["Griffin", "Animé"],
         "size": [
           { "size": "35-38", "available": true },
@@ -1003,7 +1003,7 @@
         "desc": "Embarquez pour une aventure déjantée aux pieds avec nos chaussettes Simpsons ! Avec Homer, Marge et Bart qui s’invitent sur vos orteils, chaque pas est un épisode de bonne humeur. Confortables, résistantes et incroyablement stylées, elles sont le choix parfait pour les fans qui veulent ajouter une touche de fun à leur quotidien sans sacrifier la qualité. Alors, prêt à marcher sur les traces des habitants les plus célèbres de Springfield ?",
         "price": 12.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["green", "red"],
         "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -1018,7 +1018,7 @@
         "desc": "Faites un pied de nez à la routine avec nos chaussettes Bart Simpson ! Avec le visage surpris de Bart sur un pied et son sourire malicieux sur l’autre, ces chaussettes sont une déclaration de style audacieuse. Entourées d’accessoires de bureau et posées sur un fond vert vibrant, elles sont parfaites pour ceux qui aiment mélanger travail et plaisir. Conçues pour le confort et la durabilité, elles vous accompagneront dans toutes vos aventures, aussi espiègles soient-elles !",
         "price": 12.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "yellow"],
         "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -1033,7 +1033,7 @@
         "desc": "Laissez-vous tenter par nos chaussettes Homer et Donuts pour un confort sucré à croquer ! Avec un Homer joyeux qui vous invite à déguster des donuts colorés, ces chaussettes sont un régal pour les yeux et les pieds. La partie supérieure blanche contraste avec la myriade de donuts sur fond noir, ajoutant une touche de fantaisie à votre garde-robe. Idéales pour les amateurs de douceurs et les fans des Simpsons, elles sont un clin d’œil gourmand à la célèbre série. Savourez chaque pas avec style et humour !",
         "price": 12.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["yellow", "pink", "purple"],
         "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
