@@ -1182,7 +1182,7 @@
         "name": "Bob l'éponge",
         "desc": "Avec le visage souriant et l’optimisme contagieux de Bob, ces chaussettes jaunes vives vous transporteront directement à Bikini Bottom. Que vous soyez en route pour le Crabe Croustillant ou simplement en train de vous détendre dans votre ananas sous la mer, ces chaussettes sont le choix parfait pour tout fan de la série emblématique. Alors n’attendez plus, enfilez ces chaussettes et partez à l’aventure avec Bob et ses amis! 🍍🌊",
         "price": 12.99,
-        "new": false,
+        "new": true,
         "color": ["blue", "white"],
         "key": ["Animé", "Patrick"],
         "size": [
@@ -1197,7 +1197,7 @@
         "name": "Patrick l'étoile de mer",
         "desc": "Inspirées par le meilleur ami de Bob l'éponge, ces chaussettes incarnent l'esprit joyeux et l'insouciance de Patrick Étoile. Avec leur couleur rose emblématique et ce sourire niais qui nous est si cher, elles promettent de garder vos pieds au chaud tout en apportant une touche d'humour à votre quotidien. Idéales pour les fans de la série ou pour ceux qui aspirent à une vie aussi relax que celle sous le rocher de Patrick. Attrapez-les vite, elles sont plus rapides qu'un Gary affamé !",
         "price": 12.99,
-        "new": false,
+        "new": true,
         "color": ["blue", "white"],
         "key": ["Bob", "Animé"],
         "size": [
@@ -1212,7 +1212,7 @@
         "name": "Bob l'éponge heureux !",
         "desc": "Égayez votre garde-robe avec nos chaussettes 'Bob l'éponge heureux'! Ces chaussettes jaune soleil, ornées du visage toujours joyeux de Bob, apporteront une dose de bonne humeur à vos pas. Parfaites pour les journées où vous avez besoin d'un petit coup de pouce, elles vous rappelleront que la vie est aussi amusante que les aventures à Bikini Bottom. N'attendez pas une marée haute pour vous procurer ces trésors des profondeurs !",
         "price": 12.99,
-        "new": false,
+        "new": true,
         "color": ["blue", "white"],
         "key": ["Patrick", "Animé"],
         "size": [
