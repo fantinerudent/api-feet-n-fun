@@ -25,7 +25,7 @@
         "src": "../../assets/images/socks/Sport/2-Photoroom.webp",
         "name": "Messi",
         "desc": "Faites un pas audacieux avec nos chaussettes ‘Messi’ ! Conçues pour les fans, ces joyaux sont aussi colorés que le jeu de l’homme lui-même. Avec une qualité qui rivalise avec les compétences sur le terrain de Messi, elles sont confortables, durables et garanties pour marquer des points dans la rue comme sur le terrain !",
-        "price": 11.99,
+        "price": 14.99,
         "new": true,
         "color": ["blue", "grey"],
         "key": ["Foot", "Sport"],
@@ -40,7 +40,7 @@
         "src": "../../assets/images/socks/Sport/3-Photoroom.webp",
         "name": "LOSC Red",
         "desc": "Faites la différence sur le terrain avec nos chaussettes ‘LOSC Red’ ! Ornées du logo emblématique du club, elles sont le mélange parfait entre confort et fierté. Fabriquées pour les vrais supporters, elles vous feront sentir comme un champion à chaque pas ! ⚽🔥",
-        "price": 15.99,
+        "price": 14.99,
         "new": true,
         "color": ["red", ""],
         "key": ["Foot", "Sport"],
@@ -55,7 +55,7 @@
         "src": "../../assets/images/socks/Sport/4-Photoroom.webp",
         "name": "Legends",
         "desc": "Faites un pas audacieux avec ces chaussettes de footballeur ! Avec des étoiles qui brillent aussi fort que vos compétences sur le terrain et des joueurs qui sont prêts à marquer le but gagnant, ces chaussettes ne sont pas seulement un choix de mode, mais une déclaration d’amour pour le beau jeu. Confortables, colorées et pleines d’énergie - elles sont prêtes à vous accompagner dans chaque match, chaque victoire et chaque moment mémorable ! Alors, êtes-vous prêt à chausser vos héros ?",
-        "price": 15.99,
+        "price": 14.99,
         "new": false,
         "color": ["blue", "red"],
         "key": ["Foot", "Sport"],
@@ -72,11 +72,11 @@
         "desc": "Découvrez nos chaussettes de rugby haut de gamme, conçues pour offrir performance et confort sur le terrain. Fabriquées avec des matériaux de qualité supérieure, nos chaussettes assurent une excellente circulation de l'air pour garder vos pieds au sec et au frais pendant les matchs intenses. Leur construction résistante offre un soutien optimal aux pieds et aux mollets, tandis que les zones rembourrées au talon et aux orteils offrent une protection contre les chocs et les frottements. Disponibles dans une variété de couleurs vives et de designs dynamiques, nos chaussettes de rugby ajoutent une touche de style à votre tenue sur le terrain !",
         "price": 5.99,
         "new": false,
-        "color": ["blue", "yellow"],
+        "color": ["blue", "white"],
         "key": ["Rugby", "Sport"],
         "size": [
           { "size": "35-38", "available": true },
-          { "size": "39-42", "available": true },
+          { "size": "39-42", "available": false },
           { "size": "43-46", "available": true }
         ]
       },
@@ -120,7 +120,7 @@
         "color": ["blue", "white"],
         "key": ["Foot", "Sport"],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -175,7 +175,7 @@
         "src": "../../assets/images/socks/Sport/12-Photoroom.webp",
         "name": "Lionel",
         "desc": "Marchez sur les traces de la légende Lionel Messi avec nos chaussettes fantaisie Mesi en coton 100% confortables",
-        "price": 15.99,
+        "price": 14.99,
         "new": false,
         "color": ["blue", "white"],
         "key": ["Foot", "Sport"],
@@ -235,7 +235,7 @@
         "src": "../../assets/images/socks/Sport/16-Photoroom.webp",
         "name": "Diego",
         "desc": "Portez l'héritage de Maradona à vos pieds avec nos chaussettes fantaisie en coton, un hommage élégant à son incroyable carrière",
-        "price": 15.99,
+        "price": 14.99,
         "new": false,
         "color": ["blue", "yellow"],
         "key": ["Foot", "Sport"],
@@ -250,12 +250,12 @@
         "src": "../../assets/images/socks/Sport/17-Photoroom.webp",
         "name": "Leo",
         "desc": "Soyez inspiré par l'esprit du jeu de Messi avec nos chaussettes fantaisie en coton, un choix confortable pour les supporters dévoués",
-        "price": 15.99,
+        "price": 14.99,
         "new": true,
         "color": ["blue", "red"],
         "key": ["Foot", "Sport"],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -272,7 +272,7 @@
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
@@ -316,7 +316,7 @@
         "key": ["Foot", "Sport"],
         "size": [
           { "size": "35-38", "available": true },
-          { "size": "39-42", "available": true },
+          { "size": "39-42", "available": false },
           { "size": "43-46", "available": true }
         ]
       },
@@ -347,7 +347,7 @@
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
@@ -370,7 +370,7 @@
         "src": "../../assets/images/socks/Sport/25-Photoroom.webp",
         "name": "Chicago",
         "desc": "Portez l'esprit de compétition des Bulls avec nos chaussettes fantaisie en coton, un hommage élégant à l'équipe",
-        "price": 15.99,
+        "price": 14.99,
         "new": true,
         "color": ["red", "white"],
         "key": ["Chicago", "Sport", "Basket"],
@@ -400,7 +400,7 @@
         "src": "../../assets/images/socks/Sport/27-Photoroom.webp",
         "name": "PSG",
         "desc": "Exprimez votre dévouement pour le PSG avec nos chaussettes fantaisie en coton, un choix confortable pour les fans",
-        "price": 12.99,
+        "price": 14.99,
         "new": true,
         "color": ["blue", "white"],
         "key": ["Foot", "Sport"],
@@ -420,7 +420,7 @@
         "color": ["orange", "white"],
         "key": ["Basket", "Sport"],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -452,7 +452,7 @@
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       }
     ]
@@ -468,9 +468,9 @@
         "src": "../assets/images/socks/Geek/31-Photoroom.webp",
         "name": "Bulbizarre",
         "desc": "Plongez dans un monde de confort et de style avec cette paire de chaussettes uniques ! Arborant un design vibrant et coloré inspiré par un personnage emblématique, ces chaussettes sont non seulement un régal pour les yeux, mais aussi incroyablement confortables. Fabriquées avec des matériaux de qualité supérieure, elles assurent une douceur inégalée et une durabilité qui résistera à l’épreuve du temps.",
-        "price": 16.99,
+        "price": 14.99,
         "new": true,
-        "color": ["blue", "white"],
+        "color": ["blue", "green"],
         "key": ["Pokémon", "Jeu"],
         "size": [
           { "size": "35-38", "available": true },
@@ -483,9 +483,9 @@
         "src": "../assets/images/socks/Geek/32-Photoroom.webp",
         "name": "Carapuce",
         "desc": "Plongez dans l’aventure avec les “Aqua carapuce” ! Ces chaussettes ne sont pas seulement un accessoire, elles sont une déclaration d’amour pour l’univers de Pokémon. Avec Carapuce, votre compagnon aquatique, à vos pieds, chaque pas est une exploration dans le monde des Pokémon. Le design vibrant et ludique, combiné à un confort inégalé, fait des aqua carapuce un must-have pour tout fan.",
-        "price": 17.99,
+        "price": 14.99,
         "new": true,
-        "color": ["blue", "white"],
+        "color": ["blue", "blue"],
         "key": ["Pokémon", "Jeu"],
         "size": [
           { "size": "35-38", "available": false },
@@ -498,9 +498,9 @@
         "src": "../assets/images/socks/Geek/33-Photoroom.webp",
         "name": "Dracaufeu",
         "desc": "Laissez-vous enflammer ! Une véritable œuvre d’art pour vos pieds. Avec dracaufeu, chaque pas devient une aventure épique.Le contraste saisissant entre le fond gris foncé et les couleurs éclatantes du dragon crée un effet visuel qui ne manquera pas de capturer les regards.",
-        "price": 13.99,
-        "new": false,
-        "color": ["blue", "white"],
+        "price": 14.99,
+        "new": true,
+        "color": ["blue", "orange"],
         "key": ["Pokémon", "Jeu"],
         "size": [
           { "size": "35-38", "available": true },
@@ -513,9 +513,9 @@
         "src": "../assets/images/socks/Geek/34-Photoroom.webp",
         "name": "Pikachu",
         "desc": "Découvrez nos “Éclairs Électriques”, une paire de chaussettes qui incarne l’énergie et la vivacité de votre esprit aventureux. Ornées d’un Pikachu vibrant et d’une Pokéball emblématique, ces chaussettes sont un rappel quotidien de l’excitation et du mystère qui vous attendent à chaque coin de rue, tout comme dans le monde Pokémon. Le tissu doux et confortable caresse vos pieds, vous offrant un confort inégalé pour toutes vos aventures quotidiennes.",
-        "price": 12.99,
-        "new": false,
-        "color": ["blue", "white"],
+        "price": 14.99,
+        "new": true,
+        "color": ["grey", "yellow"],
         "key": ["Pokémon", "Jeu"],
         "size": [
           { "size": "35-38", "available": true },
@@ -528,9 +528,9 @@
         "src": "../assets/images/socks/Geek/35-Photoroom.webp",
         "name": "Pacman",
         "desc": "Avec leur design coloré mettant en vedette des personnages emblématiques du jeu d’arcade, ces chaussettes sont un choix parfait pour les amateurs de jeux vidéo et de mode. Leur tissu doux et respirant garantit un confort optimal, tandis que les couleurs vives ajoutent une touche ludique à votre garde-robe",
-        "price": 12.99,
+        "price": 5.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["yellow", "white"],
         "key": ["Jeu", "Retro"],
         "size": [
           { "size": "35-38", "available": true },
@@ -543,12 +543,12 @@
         "src": "../assets/images/socks/Geek/36-Photoroom.webp",
         "name": "Donkey Kong",
         "desc": "Une véritable explosion de couleurs et de design audacieux qui vous transportera dans un monde de jeu et d’aventure. Avec l’emblématique Donkey Kong fièrement affiché, chaque pas que vous faites sera empreint d’une énergie dynamique.",
-        "price": 12.99,
+        "price": 10.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "brown"],
         "key": ["Jeu", "Mario"],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -558,9 +558,9 @@
         "src": "../assets/images/socks/Geek/37-Photoroom.webp",
         "name": "Toad",
         "desc": "L’accessoire incontournable pour égayer votre quotidien ! Avec leur design enchanteur de champignons souriants aux chapeaux rouges et blancs, ces chaussettes ne manqueront pas d’attirer les regards et de susciter des sourires. Leur confort exceptionnel et leur qualité irréprochable vous garantissent une expérience de port agréable tout au long de la journée.",
-        "price": 12.99,
+        "price": 10.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "green"],
         "key": ["Jeu", "Mario"],
         "size": [
           { "size": "35-38", "available": true },
@@ -573,14 +573,14 @@
         "src": "../assets/images/socks/Geek/38-Photoroom.webp",
         "name": "Super mario bros",
         "desc": "Ces chaussettes ne sont pas seulement un hommage à l’icône du jeu vidéo, mais elles sont aussi synonymes de confort et de durabilité. Avec le visage souriant de Mario et sa tenue emblématique, elles promettent de vous accompagner dans chaque étape de votre journée. Que vous soyez en train de sauver une princesse ou simplement de vous détendre chez vous, les chaussettes Mario sont le choix parfait pour tous les fans de Nintendo",
-        "price": 12.99,
+        "price": 11.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["", ""],
+        "color": ["grey", "red"],
+        "key": ["Jeu", "Mario"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
@@ -588,9 +588,9 @@
         "src": "../assets/images/socks/Geek/39-Photoroom.webp",
         "name": "Peach",
         "desc": "Une création qui allie confort et magie pour vos pieds ! Avec leur illustration vibrante de la princesse peach et de son adorable compagnon toad, ces chaussettes vous invitent à marcher dans un monde de rêve et de fantaisie. Leur douceur et leur design coloré sont parfaits pour ajouter une touche de gaieté à votre quotidien. ",
-        "price": 12.99,
+        "price": 13.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["pink", "white"],
         "key": ["Jeu", "Mario"],
         "size": [
           { "size": "35-38", "available": true },
@@ -603,13 +603,13 @@
         "src": "../assets/images/socks/Geek/40-Photoroom.webp",
         "name": "Bowser",
         "desc": "Préparez-vous à découvrir les Bowser, la paire de chaussettes qui incarne la puissance et le mystère des créatures mythiques ! Avec leur design audacieux et leurs couleurs vives, ces chaussettes ne manqueront pas de faire sensation. Le motif détaillé d’un dragon féroce exprime votre côté sauvage et libre, tandis que le confort inégalé vous assure une expérience de port des plus agréables",
-        "price": 12.99,
+        "price": 9.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["green", "green"],
         "key": ["Jeu", "Mario"],
         "size": [
           { "size": "35-38", "available": true },
-          { "size": "39-42", "available": true },
+          { "size": "39-42", "available": false },
           { "size": "43-46", "available": true }
         ]
       },
@@ -618,9 +618,9 @@
         "src": "../assets/images/socks/Geek/41-Photoroom.webp",
         "name": "Animal crossing",
         "desc": "Laissez-vous envoûter par les chaussettes enchantées du bois féerique, une création qui vous plonge dans un univers où la douceur et la magie se rencontrent. Ces chaussettes ne sont pas de simples accessoires, elles sont une promesse de confort et d’évasion. Avec leur motif complexe peuplé d’animaux adorables et de fleurs éclatantes",
-        "price": 12.99,
+        "price": 5.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "grey"],
         "key": ["Jeu", "Nitendo"],
         "size": [
           { "size": "35-38", "available": true },
@@ -633,9 +633,9 @@
         "src": "../assets/images/socks/Geek/42-Photoroom.webp",
         "name": "Dragon ball z",
         "desc": "Laissez-vous transporter dans un monde de bravoure et d’élégance avec les guerriers célestes. Avec des motifs vibrants représentant un guerrier intrépide parmi les nuages orageux, elles promettent de vous accompagner dans toutes vos batailles quotidiennes.",
-        "price": 12.99,
+        "price": 8.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "orange"],
         "key": ["Manga", "Goku"],
         "size": [
           { "size": "35-38", "available": true },
@@ -648,12 +648,12 @@
         "src": "../assets/images/socks/Geek/43-Photoroom.webp",
         "name": "Extraterrestre",
         "desc": "Embarquez pour un voyage interstellaire ! Ces chaussettes sont le billet pour une aventure cosmique à chaque pas. Avec des aliens mystérieux et des planètes lointaines imprimés dans des couleurs vives et captivantes, elles éveillent la curiosité et l’imaginaire. Le tissu doux et respirant enveloppe vos pieds dans un confort optimal.",
-        "price": 12.99,
+        "price": 5.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "grey"],
         "key": ["OVNI", "Spatiale"],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -663,9 +663,9 @@
         "src": "../assets/images/socks/Geek/44-Photoroom.webp",
         "name": "Galactic steps",
         "desc": "Préparez-vous à explorer l’infini avec les galactic steps ! Avec leur design étoilé somptueux et des planètes colorées, elles promettent d’ajouter une touche d’élégance céleste à votre garde-robe. Fabriquées avec des matériaux de la plus haute qualité, les galactic steps offrent un confort inégalé et une durabilité qui résiste aux voyages les plus audacieux. Ne manquez pas l’occasion de briller parmi les étoiles avec ces chaussettes extraordinaires !",
-        "price": 12.99,
+        "price": 8.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "grey"],
         "key": ["OVNI", "Spatiale"],
         "size": [
           { "size": "35-38", "available": true },
@@ -678,9 +678,9 @@
         "src": "../assets/images/socks/Geek/45-Photoroom.webp",
         "name": "Galactic mystique",
         "desc": "Cette paire de chaussettes vous invite à un voyage interstellaire à travers le confort et l’élégance. Avec des motifs d’extraterrestres et de planètes lumineuses, chaque pas révèle un monde inexploré, plein de mystère et de beauté. Le confort exceptionnel et le design audacieux font des galactic mystique un choix irrésistible pour ceux qui osent se démarquer et explorer l’inconnu.",
-        "price": 12.99,
+        "price": 9.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["black", "white"],
         "key": ["OVNI", "Spatiale"],
         "size": [
           { "size": "35-38", "available": true },
@@ -693,9 +693,9 @@
         "src": "../assets/images/socks/Geek/46-Photoroom.webp",
         "name": "Galactic Invaders",
         "desc": "Préparez-vous à être envahi par le style avec les galactic invaders ! Confortables et durables, elles sont parfaites pour ceux qui cherchent à ajouter une touche d’aventure et de mystère à leur garde-robe. Ne manquez pas l’occasion de faire une déclaration audacieuse avec les galactic invaders votre nouvelle arme secrète pour un style inoubliable !",
-        "price": 12.99,
+        "price": 8.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "grey"],
         "key": ["OVNI", "Spatiale"],
         "size": [
           { "size": "35-38", "available": true },
@@ -708,13 +708,13 @@
         "src": "../assets/images/socks/Geek/47-Photoroom.webp",
         "name": "Galactic space",
         "desc": "Une véritable déclaration de style vous emmène à la découverte des merveilles de l’univers. Avec un design étoilé parsemé de planètes colorées, elles sont une ode à la beauté mystérieuse de l’espace. Le confort inégalé et le style cosmique se rencontrent pour faire des galactic space un choix parfait pour ceux qui cherchent à ajouter une touche d’aventure spatiale à leur garde-robe quotidienne.",
-        "price": 12.99,
+        "price": 9.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "grey"],
         "key": ["OVNI", "Spatiale"],
         "size": [
           { "size": "35-38", "available": true },
-          { "size": "39-42", "available": true },
+          { "size": "39-42", "available": false },
           { "size": "43-46", "available": true }
         ]
       },
@@ -723,9 +723,9 @@
         "src": "../assets/images/socks/Geek/48-Photoroom.webp",
         "name": "Sonic speedsters",
         "desc": " Sonic speedsters, la paire de chaussettes qui capture l’essence de la vitesse et de l’aventure ! Inspirées par le dynamisme de Sonic le hérisson, ces chaussettes sont une explosion de couleurs vives et de motifs énergiques qui vous propulseront à travers votre journée avec style et confort. Le bleu électrique se mêle à des éclairs de couleur pour créer une œuvre d’art portable qui transforme chaque journée ordinaire en une aventure extraordinaire. ",
-        "price": 12.99,
+        "price": 13.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "blue"],
         "key": ["Nitendo", "Jeu"],
         "size": [
           { "size": "35-38", "available": true },
@@ -738,9 +738,9 @@
         "src": "../assets/images/socks/Geek/49-Photoroom.webp",
         "name": "Hulk huggers",
         "desc": "Hulk huggers, la paire de chaussettes qui allie confort et style pour révéler le super héros qui sommeille en vous ! Avec leur design audacieux à l’effigie du puissant Hulk, ces chaussettes sont une déclaration de force et de courage. Fabriquées avec des matériaux de qualité supérieure, elles épousent parfaitement la forme de vos pieds, vous permettant de marcher avec assurance et fierté. Que vous soyez en route pour le travail ou prêt à sauver le monde, les hulk huggers sont le choix idéal pour ceux qui veulent afficher leur puissance avec style !",
-        "price": 12.99,
+        "price": 10.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["green", "green"],
         "key": ["Comics", "Dc"],
         "size": [
           { "size": "35-38", "available": true },
@@ -755,7 +755,7 @@
         "desc": "Laissez-vous séduire par les toiles héroïques spider man, une paire de chaussettes inspirée de l’univers spectaculaire de ce personnage. Avec leur design vibrant et détaillé, elles sont un must pour tout fan du super héros. Confortables et stylées, elles sont parfaites pour ajouter une touche audacieuse à votre tenue quotidienne. Faites ressortir le héros en vous !",
         "price": 12.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "red"],
         "key": ["Marvel", "Comics"],
         "size": [
           { "size": "35-38", "available": true },
@@ -768,12 +768,12 @@
         "src": "../assets/images/socks/Geek/51-Photoroom.webp",
         "name": "Iron man",
         "desc": "Laissez-vous captiver par ces chaussettes qui célèbre l’ingéniosité et le courage d’Iron Man. Avec un design coloré et dynamique, elles incarnent l’énergie héroïque du super héros emblématique. Le confort doux et la qualité supérieure vous offrent une expérience de port exceptionnelle. Portez votre passion pour l’univers Marvel avec fierté et style !",
-        "price": 12.99,
+        "price": 11.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "red"],
         "key": ["Comics", "Marvel"],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -783,9 +783,9 @@
         "src": "../assets/images/socks/Geek/52-Photoroom.webp",
         "name": "Zelda",
         "desc": "Avec leur design vibrant et détaillé, ces chaussettes rendent hommage au courage et à la détermination du personnage link du célébre jeu zelda. Chaque pas que vous ferez sera accompagné par l’esprit de ses aventures, vous invitant à explorer un monde où chaque jour est une quête . Ne manquez pas l’occasion de faire de chaque journée une épopée avec les chaussettes de cet aventurier éternel ! ",
-        "price": 12.99,
+        "price": 8.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "green"],
         "key": ["Jeu", "Nitendo"],
         "size": [
           { "size": "35-38", "available": true },
@@ -798,14 +798,14 @@
         "src": "../assets/images/socks/Geek/53-Photoroom.webp",
         "name": "Super zelda",
         "desc": "Avec leur design vibrant et détaillé, ces chaussettes rendent hommage au courage et à la détermination du personnage link du célébre jeu zelda. Chaque pas que vous ferez sera accompagné par l’esprit de ses aventures, vous invitant à explorer un monde où chaque jour est une quête . Ne manquez pas l’occasion de faire de chaque journée une épopée avec les chaussettes de cet aventurier éternel !",
-        "price": 12.99,
+        "price": 8.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "green"],
         "key": ["Jeu", "Nitendo"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
@@ -813,9 +813,9 @@
         "src": "../assets/images/socks/Geek/54-Photoroom.webp",
         "name": "Pac man DX",
         "desc": "Vivez l'aventure arcade avec les pac man DX ! Ces chaussettes noires, ornées d’un design coloré vous plongent dans l’excitation des jeux rétro. Le personnage en pleine course naviguant à travers un labyrinthe lumineux pour échapper aux ennemis.",
-        "price": 12.99,
+        "price": 5.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["black", "orange"],
         "key": ["Jeu", "Retro"],
         "size": [
           { "size": "35-38", "available": true },
@@ -828,14 +828,14 @@
         "src": "../assets/images/socks/Geek/55-Photoroom.webp",
         "name": "Galactic odyssey",
         "desc": "Embarquez pour une odyssée spatiale avec les galactic odyssey ! Le vaisseau spatial détaillé, entouré d’une nébuleuse colorée et d’étoiles scintillantes fait des galactic odyssey plus qu’une simple paire de chaussettes, c’est un billet pour l’inconnu.",
-        "price": 12.99,
+        "price": 6.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "orange"],
         "key": ["OVNI", "Spatiale"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
@@ -843,9 +843,9 @@
         "src": "../assets/images/socks/Geek/56-Photoroom.webp",
         "name": "Sims",
         "desc": "Laissez-vous charmer par les sims socks, la paire de chaussettes qui vous plonge dans l’univers coloré et magique des Sims illustrant une maisonnette charmante sous un ciel étoilé et le logo emblématique des Sims, ces chaussettes sont un must pour tout fan du jeu.Faites de chaque jour une nouvelle création !",
-        "price": 12.99,
+        "price": 8.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "grey"],
         "key": ["Jeu", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -858,9 +858,9 @@
         "src": "../assets/images/socks/Geek/57-Photoroom.webp",
         "name": "Sims sockers",
         "desc": "La paire de chaussettes qui vous plonge dans l’univers des sims en illustrant ces personnages emblématique.",
-        "price": 12.99,
+        "price": 7.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "pink"],
         "key": ["Jeu", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -873,14 +873,14 @@
         "src": "../assets/images/socks/Geek/58-Photoroom.webp",
         "name": "Sony",
         "desc": "Plongez dans l’univers du gaming avec les gamer’s delight sony, la paire de chaussettes idéale pour tout passionné de la Sony PlayStation. Ces chaussettes élégantes arborent fièrement les icônes emblématiques de la console sur un fond gris tendance, capturant l’esprit ludique et l’histoire de la PlayStation. ",
-        "price": 12.99,
+        "price": 10.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "grey"],
         "key": ["Jeu", "Console"],
         "size": [
           { "size": "35-38", "available": true },
-          { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "39-42", "available": false },
+          { "size": "43-46", "available": false }
         ]
       },
       {
@@ -888,9 +888,9 @@
         "src": "../assets/images/socks/Geek/59-Photoroom.webp",
         "name": "Xbox",
         "desc": "Plongez dans l’univers du gaming avec les xbox infinity steps ! Ces chaussettes sont le rêve de tout gamer, alliant style et confort avec un design inspiré par la célèbre console Xbox. Le logo Xbox et les manettes emblématiques se détachent sur un fond noir élégant, promettant de vous accompagner dans vos plus grandes aventures vidéoludiques. Que vous soyez en pleine session de jeu ou en sortie, les xbox infinity steps sont la touche finale parfaite pour tout fan qui souhaite afficher sa passion avec panache",
-        "price": 12.99,
+        "price": 10.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "green"],
         "key": ["Jeu", "Console"],
         "size": [
           { "size": "35-38", "available": true },
@@ -905,7 +905,7 @@
         "desc": "Laissez vous séduire par les “Foxy Feet”, une paire de chaussettes qui incarne l’esprit malicieux et aventureux du renard emblématique qu’elles représentent. Avec des couleurs vives et un design audacieux, chaque pas que vous faites est imprégné d’une énergie ludique et d’une créativité sans bornes. Le renard souriant, aux yeux pétillants, est prêt à vous accompagner dans chaque aventure, apportant une touche de magie à votre quotidien. Ne manquez pas l’occasion de faire de chaque jour une aventure avec les “Foxy Feet” !",
         "price": 12.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["orange", "brown"],
         "key": ["Jeu", "Console"],
         "size": [
           { "size": "35-38", "available": true },
@@ -926,8 +926,8 @@
         "src": "../assets/images/socks/Anime/61-Photoroom.webp",
         "name": "Morty",
         "desc": "Ces chaussettes sont idéales pour les fans de la série, les amateurs de science-fiction et tous ceux qui aiment ajouter une touche de fantaisie à leur quotidien. Que vous soyez en train de binge-watcher des épisodes de “Rick and Morty” ou simplement en train de vous détendre à la maison, ces chaussettes vous accompagneront avec style et originalité.",
-        "price": 2.99,
-        "new": false,
+        "price": 14.99,
+        "new": true,
         "color": ["blue", "yellow"],
         "key": ["Animé", "Rick"],
         "size": [
@@ -941,8 +941,8 @@
         "src": "../assets/images/socks/Anime/62-Photoroom.webp",
         "name": "Rick & Morty",
         "desc": "Embarquez pour une aventure intergalactique avec nos chaussettes “Rick et Morty” ! Avec Rick, le scientifique fou, et Morty, son petit-fils souvent réticent, à vos pieds, chaque pas est un pas de géant dans l’espace du style. 🚀✨ Ces chaussettes à thème spatial sont un must-have pour tout fan de la série. Avec un fond bleu nuit étoilé et les expressions emblématiques de nos héros, elles promettent de garder vos pieds confortables et votre look audacieux, que vous soyez en train de conquérir le monde ou simplement de vous relaxer chez vous.",
-        "price": 2.99,
-        "new": false,
+        "price": 14.99,
+        "new": true,
         "color": ["blue", "yellow"],
         "key": ["Animé"],
         "size": [
@@ -958,7 +958,7 @@
         "desc": "Rejoignez l’équipage de l’Express Planet avec ces chaussettes Futurama ultra-cool ! Avec Bender et la bande, vos pieds ne seront jamais ennuyeux. Parfaites pour les fans de la série, ces chaussettes sont un clin d’œil à votre geek intérieur tout en restant confortables pour toute mission spatiale. Taille unique pour tous les terriens et extraterrestres !",
         "price": 7.99,
         "new": false,
-        "color": ["blue", "grey"],
+        "color": ["white", "grey"],
         "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -999,14 +999,14 @@
       {
         "id": 66,
         "src": "../assets/images/socks/Anime/66-Photoroom.webp",
-        "name": "Chaussettes Springfield Express",
+        "name": "Springfield Express",
         "desc": "Embarquez pour une aventure déjantée aux pieds avec nos chaussettes Simpsons ! Avec Homer, Marge et Bart qui s’invitent sur vos orteils, chaque pas est un épisode de bonne humeur. Confortables, résistantes et incroyablement stylées, elles sont le choix parfait pour les fans qui veulent ajouter une touche de fun à leur quotidien sans sacrifier la qualité. Alors, prêt à marcher sur les traces des habitants les plus célèbres de Springfield ?",
-        "price": 12.99,
+        "price": 5.99,
         "new": false,
         "color": ["green", "red"],
         "key": ["Animé", ""],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -1016,9 +1016,9 @@
         "src": "../assets/images/socks/Anime/67-Photoroom.webp",
         "name": "Bart Simpsons",
         "desc": "Faites un pied de nez à la routine avec nos chaussettes Bart Simpson ! Avec le visage surpris de Bart sur un pied et son sourire malicieux sur l’autre, ces chaussettes sont une déclaration de style audacieuse. Entourées d’accessoires de bureau et posées sur un fond vert vibrant, elles sont parfaites pour ceux qui aiment mélanger travail et plaisir. Conçues pour le confort et la durabilité, elles vous accompagneront dans toutes vos aventures, aussi espiègles soient-elles !",
-        "price": 12.99,
+        "price": 11.99,
         "new": false,
-        "color": ["blue", "yellow"],
+        "color": ["grey", "yellow"],
         "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -1031,13 +1031,13 @@
         "src": "../assets/images/socks/Anime/68-Photoroom.webp",
         "name": "Homer Donuts",
         "desc": "Laissez-vous tenter par nos chaussettes Homer et Donuts pour un confort sucré à croquer ! Avec un Homer joyeux qui vous invite à déguster des donuts colorés, ces chaussettes sont un régal pour les yeux et les pieds. La partie supérieure blanche contraste avec la myriade de donuts sur fond noir, ajoutant une touche de fantaisie à votre garde-robe. Idéales pour les amateurs de douceurs et les fans des Simpsons, elles sont un clin d’œil gourmand à la célèbre série. Savourez chaque pas avec style et humour !",
-        "price": 12.99,
-        "new": false,
-        "color": ["yellow", "pink", "purple"],
+        "price": 14.99,
+        "new": true,
+        "color": ["yellow", "white"],
         "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
-          { "size": "39-42", "available": true },
+          { "size": "39-42", "available": false },
           { "size": "43-46", "available": true }
         ]
       },
@@ -1046,9 +1046,9 @@
         "src": "../assets/images/socks/Anime/69-Photoroom.webp",
         "name": "La famille Simpsons",
         "desc": "Réunissez toute la bande de Springfield à vos pieds avec nos chaussettes Famille Simpson ! Avec Homer, Marge, Bart, Lisa et Maggie qui paradent dans un festival de couleurs, ces chaussettes sont une célébration de la famille la plus aimée de la télévision. Le fond bleu ciel et turquoise offre un contraste parfait pour mettre en valeur les personnages emblématiques. Conçues pour le confort et la durabilité, elles sont l’accessoire idéal pour les fans qui souhaitent porter leur affection pour les Simpson avec une pointe d’originalité et beaucoup de gaieté.",
-        "price": 12.99,
+        "price": 8.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "yellow"],
         "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -1063,12 +1063,12 @@
         "desc": "Faites un bond dans l’univers de Naruto avec nos chaussettes inspirées par le ninja le plus intrépide de Konoha ! Avec un design éclatant mettant en vedette Naruto Uzumaki dans son emblématique tenue orange, ces chaussettes captureront l’attention de tous les fans. Les détails soignés, des cheveux blonds hérissés aux yeux bleus perçants, sans oublier les marques de moustaches caractéristiques, tout y est. Ajoutez à cela des motifs de feuilles ou shuriken et des tourbillons rouges rappelant la technique Rasengan, et vous avez le parfait hommage au célèbre manga. Prêts à déployer votre chakra avec style ?",
         "price": 12.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "white"],
         "key": ["Manga", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
@@ -1076,9 +1076,9 @@
         "src": "../assets/images/socks/Anime/71-Photoroom.webp",
         "name": "Sasuke",
         "desc": "Glissez-vous dans la peau d’un ninja avec nos chaussettes Sasuke ! Conçues pour les stratèges froids et les fans de ‘Naruto’, ces chaussettes vous feront sentir l’agilité d’un Uchiha sans risquer le genjutsu. Avec le Sharingan qui veille sur vos pas, chaque mission (ou journée au bureau) deviendra une aventure épique. Parfaites pour les réunions de clan ou les marathons de votre série préférée, elles sont un incontournable pour tout shinobi qui se respecte. Alors, prêt à déchaîner votre chakra ?",
-        "price": 12.99,
+        "price": 11.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "red"],
         "key": ["Manga", "Naruto"],
         "size": [
           { "size": "35-38", "available": true },
@@ -1091,9 +1091,9 @@
         "src": "../assets/images/socks/Anime/72-Photoroom.webp",
         "name": "Ryuk - Death Note",
         "desc": "Marchez avec malice grâce à nos chaussettes Ryuk ! Avec leur design sombre et leurs yeux rouges perçants, elles sont parfaites pour ajouter une touche de mystère à votre style. Confortables et diaboliquement élégantes, elles sont un incontournable pour tout fan de Death Note. Faites un pas vers le côté obscur… de la mode !",
-        "price": 12.99,
+        "price": 9.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["black", "white"],
         "key": ["Manga", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -1106,12 +1106,12 @@
         "src": "../assets/images/socks/Anime/73-Photoroom.webp",
         "name": "San Goku",
         "desc": "Élevez votre style au niveau Super Saiyan avec ces chaussettes dynamiques à l’image de Sangoku ! Présentant le héros emblématique de “Dragon Ball Z” dans son costume de combat orange et bleu, elles sont un must-have pour tous les fans. Avec des illustrations colorées incluant les Dragon Balls et un ciel azuré, ces chaussettes sont parfaites pour ceux qui veulent marcher avec force et détermination. Confortables et résistantes, elles vous accompagneront dans toutes vos aventures, qu’elles soient terrestres ou intergalactiques !",
-        "price": 12.99,
-        "new": false,
-        "color": ["blue", "white"],
+        "price": 14.99,
+        "new": true,
+        "color": ["orange", "grey"],
         "key": ["Manga", "Dragon"],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -1121,9 +1121,9 @@
         "src": "../assets/images/socks/Anime/74-Photoroom.webp",
         "name": "Super Saiyan Blue",
         "desc": "Atteignez de nouveaux sommets de style avec nos chaussettes Super Saiyan Blue ! Inspirées par la transformation ultime de Sangoku, elles affichent des couleurs vibrantes et un design qui capture l’intensité de ce guerrier légendaire. Confortables et résistantes, elles sont conçues pour les fans qui aspirent à la puissance et à l’élégance. Que vous soyez en plein combat ou en mode détente, ces chaussettes sont votre allié pour une journée pleine d’énergie et de confort.",
-        "price": 12.99,
-        "new": false,
-        "color": ["blue", "white"],
+        "price": 14.99,
+        "new": true,
+        "color": ["orange", "white"],
         "key": ["Manga", "Dragon"],
         "size": [
           { "size": "35-38", "available": true },
@@ -1136,9 +1136,9 @@
         "src": "../assets/images/socks/Anime/75-Photoroom.webp",
         "name": "Super Saiyan",
         "desc": "ransformez votre look avec l’énergie d’un Super Saiyan ! Ces chaussettes captent l’essence de Goku, avec ses cheveux blonds hérissés et son regard déterminé. Le design dynamique sur fond bleu évoque la puissance et le mouvement, tandis que le confort est assuré par des zones renforcées en gris. Parfaites pour les fans de “Dragon Ball Z” qui veulent afficher leur passion avec style et confort. Préparez-vous à décoller avec ces chaussettes qui vous donneront l’impression de pouvoir voler !",
-        "price": 12.99,
-        "new": false,
-        "color": ["blue", "white"],
+        "price": 14.99,
+        "new": true,
+        "color": ["blue", "grey"],
         "key": ["Manga", "Dragon"],
         "size": [
           { "size": "35-38", "available": true },
@@ -1151,13 +1151,13 @@
         "src": "../assets/images/socks/Anime/76-Photoroom.webp",
         "name": "South Park",
         "desc": "Nos chaussettes ‘South Park’ sont le choix parfait pour les amateurs de la série et ceux qui aiment ajouter une touche d’humour à leur quotidien. Avec Stan et Kyle grimaçant à vos chevilles, ces chaussettes ne manqueront pas de susciter des sourires, tout en gardant vos orteils bien au chaud. Confortables, douces et ornées de motifs hivernaux, elles sont idéales pour affronter le froid avec style et un brin d’ironie. Parfaites pour un cadeau ou pour montrer votre côté espiègle !",
-        "price": 12.99,
+        "price": 9.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["brown", "orange"],
         "key": ["Kenny", "Cartman"],
         "size": [
           { "size": "35-38", "available": true },
-          { "size": "39-42", "available": true },
+          { "size": "39-42", "available": false },
           { "size": "43-46", "available": true }
         ]
       },
@@ -1166,9 +1166,9 @@
         "src": "../assets/images/socks/Anime/77-Photoroom.webp",
         "name": "Luffy - One Piece",
         "desc": "Inspirées par le capitaine le plus élastique des sept mers, ces chaussettes sont un hommage à son esprit indomptable et à son rêve de liberté. Avec un design qui capture son sourire déterminé et son chapeau de paille iconique, elles sont parfaites pour ceux qui rêvent de grand large ou d’une escapade en ville. Portez-les et marchez vers votre One Piece avec audace et confort !",
-        "price": 12.99,
+        "price": 13.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["black", "orange"],
         "key": ["Manga", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -1181,14 +1181,14 @@
         "src": "../assets/images/socks/Anime/78-Photoroom.webp",
         "name": "Bob l'éponge",
         "desc": "Avec le visage souriant et l’optimisme contagieux de Bob, ces chaussettes jaunes vives vous transporteront directement à Bikini Bottom. Que vous soyez en route pour le Crabe Croustillant ou simplement en train de vous détendre dans votre ananas sous la mer, ces chaussettes sont le choix parfait pour tout fan de la série emblématique. Alors n’attendez plus, enfilez ces chaussettes et partez à l’aventure avec Bob et ses amis! 🍍🌊",
-        "price": 12.99,
+        "price": 14.99,
         "new": true,
-        "color": ["blue", "white"],
+        "color": ["blue", "yellow"],
         "key": ["Animé", "Patrick"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
@@ -1196,9 +1196,9 @@
         "src": "../assets/images/socks/Anime/79-Photoroom.webp",
         "name": "Patrick l'étoile de mer",
         "desc": "Inspirées par le meilleur ami de Bob l'éponge, ces chaussettes incarnent l'esprit joyeux et l'insouciance de Patrick Étoile. Avec leur couleur rose emblématique et ce sourire niais qui nous est si cher, elles promettent de garder vos pieds au chaud tout en apportant une touche d'humour à votre quotidien. Idéales pour les fans de la série ou pour ceux qui aspirent à une vie aussi relax que celle sous le rocher de Patrick. Attrapez-les vite, elles sont plus rapides qu'un Gary affamé !",
-        "price": 12.99,
+        "price": 14.99,
         "new": true,
-        "color": ["blue", "white"],
+        "color": ["blue", "pink"],
         "key": ["Bob", "Animé"],
         "size": [
           { "size": "35-38", "available": true },
@@ -1211,9 +1211,9 @@
         "src": "../assets/images/socks/Anime/80-Photoroom.webp",
         "name": "Bob l'éponge heureux !",
         "desc": "Égayez votre garde-robe avec nos chaussettes 'Bob l'éponge heureux'! Ces chaussettes jaune soleil, ornées du visage toujours joyeux de Bob, apporteront une dose de bonne humeur à vos pas. Parfaites pour les journées où vous avez besoin d'un petit coup de pouce, elles vous rappelleront que la vie est aussi amusante que les aventures à Bikini Bottom. N'attendez pas une marée haute pour vous procurer ces trésors des profondeurs !",
-        "price": 12.99,
+        "price": 14.99,
         "new": true,
-        "color": ["blue", "white"],
+        "color": ["yellow", "brown"],
         "key": ["Patrick", "Animé"],
         "size": [
           { "size": "35-38", "available": true },
@@ -1226,12 +1226,12 @@
         "src": "../assets/images/socks/Anime/81-Photoroom.webp",
         "name": "L'ombre de la justice",
         "desc": "Embrassez votre côté sombre avec nos chaussettes Ryuk ! Inspirées par le shinigami le plus emblématique de Death Note, elles captureront l’attention avec leur motif détaillé et leurs couleurs saisissantes. Confortables et intrigantes, elles sont le choix parfait pour marcher sur les traces de la justice… ou de la malice. À vous de choisir votre camp !",
-        "price": 12.99,
+        "price": 8.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "white"],
         "key": ["Manga", "Death"],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -1241,9 +1241,9 @@
         "src": "../assets/images/socks/Anime/82-Photoroom.webp",
         "name": "Minions",
         "desc": "Ces joyeux compagnons jaunes vous accompagneront dans toutes vos aventures quotidiennes. Avec un œil malicieux et leur tenue de travail emblématique, ces chaussettes sont parfaites pour apporter une dose de bonne humeur à votre garde-robe. Conçues pour le confort et la durabilité, elles sont idéales pour les fans de tous âges. Ajoutez un peu de folie à votre pas avec ces chaussettes Minions qui promettent de transformer chaque journée en une mission amusante !",
-        "price": 12.99,
+        "price": 9.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "yellow"],
         "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -1256,13 +1256,13 @@
         "src": "../assets/images/socks/Anime/83-Photoroom.webp",
         "name": "Stuart le Minion",
         "desc": "Conçues pour capturer l’esprit espiègle et l’énergie débordante de ces petits êtres jaunes, elles sont le moyen idéal pour apporter un sourire à votre style. Avec leur regard unique et leur sourire contagieux, ces chaussettes sont non seulement un régal pour les yeux, mais aussi un confort pour vos pieds. Parfaites pour les fans de la série ou pour ceux qui cherchent à ajouter un peu de fantaisie à leur quotidien. Alors, laissez-vous tenter et laissez ces Minions audacieux prendre le contrôle de vos pas !",
-        "price": 12.99,
+        "price": 9.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "yellow"],
         "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
-          { "size": "39-42", "available": true },
+          { "size": "39-42", "available": false },
           { "size": "43-46", "available": true }
         ]
       },
@@ -1271,9 +1271,9 @@
         "src": "../assets/images/socks/Anime/84-Photoroom.webp",
         "name": "Bryan - Family Guy",
         "desc": "Conçues pour les penseurs et les rêveurs, ces chaussettes capturent l’essence du chien le plus sophistiqué de Quahog. Avec son regard pétillant et son pyjama rouge, Brian est prêt à accompagner vos pas dans toutes vos aventures quotidiennes. Que vous soyez en route pour une réunion importante ou simplement en train de vous détendre chez vous, ces chaussettes vous promettent confort et conversations captivantesAjoutez une touche d’intelligence à votre garde-robe avec ces chaussettes uniques !",
-        "price": 12.99,
+        "price": 7.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "white"],
         "key": ["Griffin", "Animé"],
         "size": [
           { "size": "35-38", "available": true },
@@ -1286,9 +1286,9 @@
         "src": "../assets/images/socks/Anime/85-Photoroom.webp",
         "name": "Bugs Bunny",
         "desc": "Avec leur design inspiré du lapin le plus malin de tous les temps, ces chaussettes sont parfaites pour ajouter une touche de malice à votre tenue. Elles capturent l'esprit espiègle de Bugs avec son célèbre sourire et sa réplique culte 'Quoi d'neuf, docteur ?'. Confortables et durables, elles sont idéales pour les marathons de dessins animés ou pour une journée pleine de blagues. Attrapez-les vite, elles sont aussi rapides que Bugs fuyant Elmer Fudd !",
-        "price": 12.99,
+        "price": 11.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "grey"],
         "key": ["Warner", "Animé"],
         "size": [
           { "size": "35-38", "available": true },
@@ -1301,14 +1301,14 @@
         "src": "../assets/images/socks/Anime/86-Photoroom.webp",
         "name": "Bugs & Lola",
         "desc": "Ces chaussettes uniques capturent l'esprit festif de Bugs et Lola Bunny, le couple le plus adorable et espiègle de tous les dessins animés. Avec Bugs aux platines et Lola qui danse à ses côtés, ces chaussettes sont parfaites pour tous ceux qui aiment mener la fête à leurs pieds. Le ciel étoilé et les cactus ajoutent une touche de fantaisie, tandis que le confort douillet vous permettra de sauter et de danser toute la nuit. N'attendez pas que le rideau tombe, attrapez votre paire maintenant et que la fête commence !",
-        "price": 12.99,
+        "price": 10.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "black"],
         "key": ["Warner", "Animé"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
@@ -1316,9 +1316,9 @@
         "src": "../assets/images/socks/Anime/87-Photoroom.webp",
         "name": "Lapins Crétins",
         "desc": "Laissez les Lapins Crétins envahir votre garde-robe avec ces chaussettes débordantes d’énergie ! Avec leur fond vert éclatant et leurs expressions hilarantes, elles promettent de mettre du pep’s dans vos pas. Confortables et résistantes, elles sont parfaites pour les aventuriers du quotidien qui aiment ajouter une dose de folie à leur style. Prêts à sauter à pieds joints dans la journée ?",
-        "price": 12.99,
+        "price": 5.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["white", "white"],
         "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -1331,9 +1331,9 @@
         "src": "../assets/images/socks/Anime/88-Photoroom.webp",
         "name": "Le diable de Tasmanie",
         "desc": "Laissez le tourbillon de Taz emporter votre style avec nos chaussettes Taz! Représentant le célèbre Diable de Tasmanie connu pour ses tornades destructrices et son appétit insatiable, ces chaussettes sont un véritable hommage à son caractère indomptable. Avec des rayures audacieuses et l'expression sauvage de Taz, elles sont parfaites pour ceux qui ont un esprit aussi libre et fougueux que le personnage lui-même. Préparez-vous à déchaîner un ouragan de mode à vos pieds !",
-        "price": 12.99,
+        "price": 13.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["grey", "brown"],
         "key": ["Warner", "Animé"],
         "size": [
           { "size": "35-38", "available": true },
@@ -1346,9 +1346,9 @@
         "src": "../assets/images/socks/Anime/89-Photoroom.webp",
         "name": "Dexter",
         "desc": "Expérimentez le confort avec ces chaussettes “Dexter” ! Avec leur design coloré et ludique, elles sont parfaites pour tous les fans de la série animée. Dexter lui-même veillera à ce que vos pieds restent au chaud pendant que vous concoctez vos propres inventions. Attention : ces chaussettes pourraient bien déclencher une réaction en chaîne de compliments !",
-        "price": 12.99,
+        "price": 10.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["pink", "orange"],
         "key": ["Animé", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -1361,12 +1361,12 @@
         "src": "../assets/images/socks/Anime/90-Photoroom.webp",
         "name": "Razmokets",
         "desc": "Glissez dans la fantaisie avec nos chaussettes Razmokets ! Avec Tommy, Chuckie et la bande, ces chaussettes sont un clin d’œil coloré au dessin animé de notre enfance ! Fabriquées avec des matériaux de qualité, elles offrent confort et style à vos pieds. Arborez fièrement vos personnages préférés à chaque pas, et laissez un peu de nostalgie s’inviter dans votre quotidien !",
-        "price": 12.99,
+        "price": 9.99,
         "new": false,
-        "color": ["blue", "white"],
+        "color": ["blue", "orange"],
         "key": ["Nickelodeon", "Animé"],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -1384,7 +1384,7 @@
         "src": "../assets/images/socks/Art/91-Photoroom.webp",
         "name": "Night",
         "desc": "Illuminez votre garde-robe avec nos chaussettes ‘Night’! Inspirées par le chef-d’œuvre de Van Gogh, ces chaussettes sont un véritable tableau pour vos pieds. Confortables, élégantes et dotées d’un design qui fera tourner les têtes, elles sont parfaites pour celles et ceux qui veulent marcher sous les étoiles, de jour comme de nuit. Ajoutez une touche d’art à chaque pas !",
-        "price": 15.99,
+        "price": 14.99,
         "new": false,
         "color": ["blue", "yellow"],
         "key": ["", ""],
@@ -1416,7 +1416,7 @@
         "desc": "Faites un pas vers l’élégance et l'engagement avec nos chaussettes 'Flower Thrower' ! Inspirées par la calèbre oeuvre de Banksy, on retrouve d’un côté, une silhouette mystérieuse qui évoque le mouvement et la liberté; de l’autre, un bouquet de fleurs éclatantes qui apporte une touche de nature à votre quotidien. Avec leurs couleurs vives et leur design accrocheur, ces chaussettes sont parfaites pour celles et ceux qui cherchent à combiner style et originalité. Laissez vos pieds raconter une histoire à chaque pas !",
         "price": 12.99,
         "new": true,
-        "color": ["white", ""],
+        "color": ["white"],
         "key": ["fleurs", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -1429,7 +1429,7 @@
         "src": "../assets/images/socks/Art/94-Photoroom.webp",
         "name": "Campbell",
         "desc": "Ajoutez une touche de pop art à votre quotidien avec nos chaussettes ‘Campbell’ ! Inspirées par l’iconique boîte de soupe Campbell, ces chaussettes sont un clin d’œil à l’art moderne d'Andy Warhol et à la culture pop. Avec leur design audacieux et leurs couleurs vives, elles promettent de réveiller n’importe quelle tenue. Parfaites pour les amatrices et amateurs d’art, qui aiment la mode et l'audace. Laissez vos pieds montrer votre goût pour l’art à chaque pas !",
-        "price": 15.99,
+        "price": 14.99,
         "new": false,
         "color": ["red", "white"],
         "key": ["", ""],
@@ -1450,7 +1450,7 @@
         "key": ["da vinci", ""],
         "size": [
           { "size": "35-38", "available": true },
-          { "size": "39-42", "available": true },
+          { "size": "39-42", "available": false },
           { "size": "43-46", "available": true }
         ]
       },
@@ -1461,7 +1461,7 @@
         "desc": "Faites le pas vers l’originalité avec nos chaussettes ‘Frida’ ! Conçues pour les esprits créatifs, ces chaussettes allient confort suprême, design artistique et hommage à une grande artiste. Avec leur motif floral éclatant et leur touche de mystère, elles promettent de transformer chaque pas en déclaration de style. Parfaites pour les amateurs d’art qui ne craignent pas d’afficher leur singularité !",
         "price": 8.99,
         "new": false,
-        "color": ["orange", ""],
+        "color": ["orange"],
         "key": ["kahlo", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -1474,12 +1474,12 @@
         "src": "../assets/images/socks/Art/97-Photoroom.webp",
         "name": "Andy",
         "desc": "Plongez dans un univers de style avec nos chaussettes ‘Andy’ ! Avec leurs motifs audacieux et leurs couleurs vives, elles sont la touche finale parfaite pour toute tenue qui ose se démarquer. Confortables et tendance, elles sont un clin d’œil à l’art moderne. Soyez le centre de l’attention, une chaussette à la fois !",
-        "price": 15.99,
+        "price": 14.99,
         "new": false,
         "color": ["blue", "pink"],
         "key": ["warhol", ""],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -1511,7 +1511,7 @@
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
@@ -1555,7 +1555,7 @@
         "key": ["", ""],
         "size": [
           { "size": "35-38", "available": true },
-          { "size": "39-42", "available": true },
+          { "size": "39-42", "available": false },
           { "size": "43-46", "available": true }
         ]
       },
@@ -1581,7 +1581,7 @@
         "desc": "Marchez dans les pas d’un maître de l’expressionnisme moderne avec ces chaussettes 'Brooklyn' inspirées par l’art audacieux de Jean-Michel Basquiat. Avec leur mélange de couleurs vives et de motifs évoquant les graffitis, elles sont un hommage portable à l’artiste qui a brisé les frontières entre l’art de rue et la galerie. Parfaites pour les esprits rebelles et les amatrices et amateurs d’art contemporain, ces chaussettes sont une déclaration de style qui crie ‘Boom for real’ à chaque pas",
         "price": 12.99,
         "new": true,
-        "color": ["white", ""],
+        "color": ["white"],
         "key": ["", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -1626,12 +1626,12 @@
         "desc": "Faites le pas vers l’originalité avec nos chaussettes ‘Kahlo’ ! Conçues pour ceux et celles qui aiment ajouter une touche de fantaisie à leur quotidien, ces chaussettes sont un véritable bouquet de confort. Avec leurs motifs floraux éclatants, leur hommage à la grande artiste Frida Kahlo, leurs couleurs vives, elles promettent de garder vos pieds dans une étreinte aussi douce que ludique. Parfaites pour les esprits créatifs, elles sont la promesse d’une démarche fleurie, où que vous alliez !",
         "price": 12.99,
         "new": false,
-        "color": ["red", ""],
+        "color": ["red"],
         "key": ["frida", "fleurs"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
@@ -1689,7 +1689,7 @@
         "color": ["yellow", "black"],
         "key": ["", ""],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -1716,7 +1716,7 @@
         "desc": "Marchez à travers l’histoire avec nos chaussettes ‘Rembrandt’ ! Arborant un imprimé inspiré des oeuvres de la Renaissance, ces chaussettes sont une véritable toile d’art pour vos pieds. Chaque pas raconte une histoire, avec des personnages vêtus de leurs plus beaux atours parmi les nuages. Confortables et captivantes, elles sont parfaites pour les amateurs d’histoire et d’art, ajoutant une touche de noblesse à chaque tenue. Enfilez-les et faites de chaque journée un chapitre mémorable de votre propre saga !",
         "price": 12.99,
         "new": false,
-        "color": ["brown", ""],
+        "color": ["brown"],
         "key": ["", ""],
         "size": [
           { "size": "35-38", "available": true },
@@ -1746,12 +1746,12 @@
         "desc": "Éveillez vos sens avec les chaussettes ‘Georgia’! Inspirées par les toiles emblématiques de Georgia O’Keeffe, ces chaussettes sont une célébration de la couleur et de la forme. Chaque fibre est imprégnée de l’esprit audacieux de l’artiste, avec des motifs qui rappellent ses célèbres fleurs agrandies et ses paysages du Nouveau-Mexique. Portez un morceau de l’histoire de l’art à vos pieds et laissez-vous transporter dans un monde où la nature rencontre l’abstraction.",
         "price": 12.99,
         "new": true,
-        "color": ["orange", ""],
+        "color": ["orange"],
         "key": ["", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
@@ -1779,7 +1779,7 @@
         "color": ["black", "orange"],
         "key": ["munch", ""],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -1789,7 +1789,7 @@
         "src": "../assets/images/socks/Art/118-Photoroom.webp",
         "name": "René",
         "desc": "Découvrez le mystère à chaque pas avec nos chaussettes ‘René’ ! Inspirées par les œuvres surréalistes de René Magritte, ces chaussettes sont une énigme enveloppant vos pieds. Elles capturent l’essence de l’art de Magritte, où le jour se mêle à la nuit et la réalité au rêve. Avec leur design qui défie la logique, elles sont parfaites pour celles et ceux qui cherchent à ajouter une touche de poésie et d’énigme à leur garde-robe professionnelle. Confortables et captivantes, elles vous invitent à laisser libre cours à votre imagination. Portez-les et faites de chaque journée une œuvre d’art !",
-        "price": 15.99,
+        "price": 14.99,
         "new": false,
         "color": ["blue", "grey"],
         "key": ["", ""],
@@ -1821,7 +1821,7 @@
         "desc": "Promenez-vous dans une galerie d’art à chaque pas avec les chaussettes ‘Auguste’! Arborant un design riche et coloré qui rappelle les toiles vibrantes de l'époque d'Auguste Renoir, ces chaussettes transforment vos pieds en chefs-d’œuvre ambulants. Le confort rencontre la classe dans ce tissu doux, où chaque couleur raconte une histoire de rencontres et de paysages urbains. Idéales pour les amateurs d’histoire et d’élégance, elles ajoutent une touche de sophistication à toute tenue, tout en gardant une pointe d’humour.",
         "price": 12.99,
         "new": false,
-        "color": ["green", ""],
+        "color": ["green"],
         "key": ["", ""],
         "size": [
           { "size": "35-38", "available": false },
@@ -1842,25 +1842,25 @@
         "src": "../assets/images/socks/Festif/121-Photoroom.webp",
         "name": "Joie de Pâques",
         "desc": "Ajoutez une touche d’originalité à votre tenue avec nos chaussettes ornées d'oeufs de pâques ! Confortables et stylées elles sont parfaites pour exprimer votre amour des pieds à la tête. Idéales pour les romantiques et les fashionistas !",
-        "price": 12.99,
+        "price": 11.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey"],
+        "key": ["Oeuf"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
         "id": 122,
         "src": "../assets/images/socks/Festif/122-Photoroom.webp",
-        "name": " Coeur en Fêtes",
+        "name": "Coeur en Fêtes",
         "desc": "Apportez une touche de gaieté à vos pas avec nos chaussettes 'Cœur en Fête'! Grises avec des manchettes éclatantes de rouge, elles sont parsemées de cœurs rouges et turquoise pour égayer votre journée. Confortables et résistantes, elles sont parfaites pour ceux qui aiment mélanger style et affection. ",
-        "price": 12.99,
+        "price": 10.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey", "pink"],
+        "key": ["Coeur"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1871,26 +1871,26 @@
         "id": 123,
         "src": "../assets/images/socks/Festif/123-Photoroom.webp",
         "name": "Saint-Patrick",
-        "desc": "portez le bonheur au bout de vos pieds, avec ces chaussettes ornées de trèfles",
-        "price": 12.99,
+        "desc": "Mettez un peu de magie dans votre pas avec nos chaussettes festives ! Avec un design inspiré de la Saint-Patrick, ces chaussettes sont ornées de trèfles chanceux et de chapeaux espiègles. Confortables et colorées, elles sont le choix parfait pour ajouter une touche d’amusement à n’importe quelle tenue. Alors, pourquoi attendre ? Faites le plein de chance dès aujourd’hui ! 🍀🧦",
+        "price": 8.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["green"],
+        "key": ["", ""],
         "size": [
           { "size": "35-38", "available": true },
-          { "size": "39-42", "available": true },
+          { "size": "39-42", "available": false },
           { "size": "43-46", "available": true }
         ]
       },
       {
         "id": 124,
         "src": "../assets/images/socks/Festif/124-Photoroom.webp",
-        "name": " Citrouilles malicieuses",
-        "desc": " Faites frissonner vos pieds avec style ! Ces chaussettes d’Halloween, ornées de citrouilles sournoises et d’étoiles nocturnes, sont parfaites pour ajouter une touche d’humour à votre tenue. Confortables et tendance, elles sont idéales pour arpenter les rues en quête de bonbons ou pour impressionner lors de votre prochaine soirée costumée. Osez l’originalité avec ces chaussettes qui promettent des frissons… de plaisir !",
-        "price": 12.99,
+        "name": "Citrouilles malicieuses",
+        "desc": "Faites frissonner vos pieds avec style ! Ces chaussettes d’Halloween, ornées de citrouilles sournoises et d’étoiles nocturnes, sont parfaites pour ajouter une touche d’humour à votre tenue. Confortables et tendance, elles sont idéales pour arpenter les rues en quête de bonbons ou pour impressionner lors de votre prochaine soirée costumée. Osez l’originalité avec ces chaussettes qui promettent des frissons… de plaisir !",
+        "price": 5.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey", "orange"],
+        "key": ["", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1900,14 +1900,14 @@
       {
         "id": 125,
         "src": "../assets/images/socks/Festif/125-Photoroom.webp",
-        "name": "",
-        "desc": " ",
-        "price": 12.99,
+        "name": "Jardin Enchanté",
+        "desc": "Avec un design coloré et joyeux, elles sont le choix parfait pour apporter une touche de gaieté à vos pieds. Ornées de petits lapins mignons et de fleurs délicates, chaque pas sera comme une promenade dans un jardin magique. Confortables et douces, elles sont non seulement un régal pour les yeux mais aussi pour vos pieds !",
+        "price": 10.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey", "pink"],
+        "key": ["Oeuf", "Lapin"],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -1915,12 +1915,12 @@
       {
         "id": 126,
         "src": "../assets/images/socks/Festif/126-Photoroom.webp",
-        "name": "  Carrousel Magique",
-        "desc": " Faites tourner les têtes avec nos chaussettes Carrousel ! Avec leur design inspiré des fêtes foraines, ces chaussettes sont un véritable festival pour les pieds. Confortables et colorées, elles vous emmèneront dans un tourbillon de style et de gaieté. Parfaites pour égayer vos journées ou pour offrir un cadeau qui sort de l’ordinaire. Attrapez votre paire avant qu’elles ne disparaissent ! ",
-        "price": 12.99,
-        "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "name": "Carrousel Magique",
+        "desc": "Faites tourner les têtes avec nos chaussettes Carrousel ! Avec leur design inspiré des fêtes foraines, ces chaussettes sont un véritable festival pour les pieds. Confortables et colorées, elles vous emmèneront dans un tourbillon de style et de gaieté. Parfaites pour égayer vos journées ou pour offrir un cadeau qui sort de l’ordinaire. Attrapez votre paire avant qu’elles ne disparaissent ! ",
+        "price": 14.99,
+        "new": true,
+        "color": ["grey"],
+        "key": ["", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1930,12 +1930,12 @@
       {
         "id": 127,
         "src": "../assets/images/socks/Festif/127-Photoroom.webp",
-        "name": " Fashionistas",
+        "name": "Fashionistas",
         "desc": "Ajoutez une touche d'originalité à votre tenue avec nos chaussettes ornées de coeurs rouges!Confortables et stylées,elles sont pafaites pour exprimer votre amour des pieds à la tête.Idéales pour les romantiques et les fashionistas!",
-        "price": 12.99,
+        "price": 9.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey", "red"],
+        "key": ["", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1945,27 +1945,27 @@
       {
         "id": 128,
         "src": "../assets/images/socks/Festif/128-Photoroom.webp",
-        "name": " ",
-        "desc": " ",
-        "price": 12.99,
-        "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "name": "Fête Foraine",
+        "desc": "Leur design éclatant évoque la fête foraine et ses manèges colorés. Fabriquées pour les âmes vives et joyeuses, ces chaussettes ne sont pas seulement un régal pour vos pieds, mais aussi une explosion de joie pour vos yeux ! Alors, pourquoi attendre ? Ajoutez une touche d’amusement à votre tiroir à chaussettes dès aujourd’hui ! 🌟🎠🧦",
+        "price": 14.99,
+        "new": true,
+        "color": ["blue", "red"],
+        "key": ["Carroussel", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
         "id": 129,
         "src": "../assets/images/socks/Festif/129-Photoroom.webp",
-        "name": "Festives ",
-        "desc": " Réchauffez vos pieds avec style grâce à nos chaussettes aux motifs joyeux et colorés ! Conçues pour le confort et la gaieté, elles sont l’accessoire parfait pour égayer vos journées. Plus qu’une simple paire de chaussettes, elles sont une célébration à enfiler !",
-        "price": 12.99,
+        "name": "Festives",
+        "desc": "Réchauffez vos pieds avec style grâce à nos chaussettes aux motifs joyeux et colorés ! Conçues pour le confort et la gaieté, elles sont l’accessoire parfait pour égayer vos journées. Plus qu’une simple paire de chaussettes, elles sont une célébration à enfiler !",
+        "price": 5.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey"],
+        "key": ["Gâteau", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1975,12 +1975,12 @@
       {
         "id": 130,
         "src": "../assets/images/socks/Festif/130-Photoroom.webp",
-        "name": "Elegance ",
+        "name": "Elegance",
         "desc": "Fleurissez votre quotidien avec nos chaussettes brodées ! Conçues pour les amoureux de la nature, ces chaussettes blanches ornées de fleurs colorées apportent une touche d’élégance printanière à vos pas. Douces comme une caresse et joyeuses comme un bouquet, elles promettent confort et style à vos pieds. Parfaites pour égayer vos tenues ou pour offrir un sourire fleuri à vos proches.",
-        "price": 12.99,
+        "price": 11.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["white"],
+        "key": ["Fleur", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -1990,12 +1990,12 @@
       {
         "id": 131,
         "src": "../assets/images/socks/Festif/131-Photoroom.webp",
-        "name": " Fantôme d'Halloween",
-        "desc": " Frissonnez de style avec nos chaussettes d’Halloween ! Grises avec des citrouilles souriantes et des petits crânes, elles sont parfaites pour ajouter une touche d’humour à vos tenues automnales. Douces et confortables, elles sont idéales pour les esprits audacieux prêts à affronter la nuit des sorcières. Attrapez votre paire et préparez-vous à hanter les rues avec élégance ! ",
+        "name": "Fantôme d'Halloween",
+        "desc": "Frissonnez de style avec nos chaussettes d’Halloween ! Grises avec des citrouilles souriantes et des petits crânes, elles sont parfaites pour ajouter une touche d’humour à vos tenues automnales. Douces et confortables, elles sont idéales pour les esprits audacieux prêts à affronter la nuit des sorcières. Attrapez votre paire et préparez-vous à hanter les rues avec élégance ! ",
         "price": 12.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey", "orange"],
+        "key": ["", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -2005,14 +2005,14 @@
       {
         "id": 132,
         "src": "../assets/images/socks/Festif/132-Photoroom.webp",
-        "name": " Rigolotes",
+        "name": "Rigolotes",
         "desc": "Glissez vos pieds dans la joie de l’hiver avec ces chaussettes ornées de bonhommes de neige souriants et de flocons de neige dansants. Avec leur base grise et leurs motifs colorés, elles promettent confort et style tout en apportant une touche festive à votre garde-robe. Parfaites pour réchauffer vos orteils et votre cœur lors des froides journées d’hiver ! ",
-        "price": 12.99,
+        "price": 13.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey", "white"],
+        "key": ["Hiver", "Neige"],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -2020,12 +2020,12 @@
       {
         "id": 133,
         "src": "../assets/images/socks/Festif/133-Photoroom.webp",
-        "name": " Fantômes d'Automne ",
-        "desc": " laissez vos pieds rejoindre la fête des esprits avec ces chaussettes d'halloween à la mode! avec des citrouilles souriantes",
-        "price": 12.99,
+        "name": "Fantômes d'Automne",
+        "desc": "Avec des citrouilles souriantes, des étoiles mystérieuses et des chauves-souris volantes, chaque pas sera une célébration effrayante mais élégante. Douces et confortables, elles sont parfaites pour ajouter une touche de frisson à votre quotidien ! 🎃🦇🌟",
+        "price": 9.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["orange", "white"],
+        "key": ["", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -2035,12 +2035,12 @@
       {
         "id": 134,
         "src": "../assets/images/socks/Festif/134-Photoroom.webp",
-        "name": "Jardin Enchanté ",
+        "name": "Jardin Enchanté",
         "desc": "Faites un pas dans un monde féerique avec nos chaussettes 'Jardin Enchanté' ! Ornées de motifs floraux délicats et de lapins espiègles, elles sont la promesse d’une escapade dans la nature à chaque fois que vous les enfilez. Confortables et stylées, elles apportent une touche de gaieté à n’importe quelle tenue. Parfaites pour les amoureux de la nature et du confort ",
-        "price": 12.99,
+        "price": 13.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey", "pink"],
+        "key": ["Oeuf", "Lapin"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -2050,12 +2050,12 @@
       {
         "id": 135,
         "src": "../assets/images/socks/Festif/135-Photoroom.webp",
-        "name": "Trèfles 4 feuilles ",
-        "desc": " mettez de la chance dans vos pas avec ces chaussettes festives. Ajoutez une touche de vert à votre quotidien ,ces chaussettes sont un véritable trésor.",
-        "price": 12.99,
+        "name": "Trèfles 4 feuilles",
+        "desc": "Mettez de la chance dans vos pas avec ces chaussettes festives. Ajoutez une touche de vert à votre quotidien ,ces chaussettes sont un véritable trésor.",
+        "price": 11.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["green"],
+        "key": ["", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -2065,27 +2065,27 @@
       {
         "id": 136,
         "src": "../assets/images/socks/Festif/136-Photoroom.webp",
-        "name": " Flowers and Eggs",
-        "desc": " Avec leur base grise élégante et leurs motifs floraux éclatants, elles sont parfaites pour ceux qui aiment ajouter une touche de couleur à leur quotidien et ne manquez pas les oeufs de pâques cachés parmi les fleurs, prêts à apporter une surprise joyeuse à vos pieds ",
-        "price": 12.99,
+        "name": "Flowers and Eggs",
+        "desc": "Avec leur base grise élégante et leurs motifs floraux éclatants, elles sont parfaites pour ceux qui aiment ajouter une touche de couleur à leur quotidien et ne manquez pas les oeufs de pâques cachés parmi les fleurs, prêts à apporter une surprise joyeuse à vos pieds ",
+        "price": 13.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey", "pink"],
+        "key": ["Oeuf", "Fleur"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
         "id": 137,
         "src": "../assets/images/socks/Festif/137-Photoroom.webp",
-        "name": " Joyeux Anniversaire",
-        "desc": " Célébrez chaque jour comme s’il s’agissait de votre anniversaire avec ces chaussettes festives ! Ornementées de ballons colorés et de gâteaux d’anniversaire, elles apportent confort et bonne humeur à vos pieds. Parfaites pour offrir ou pour ajouter un peu de pétillance à votre tenue. Faites un vœu à chaque pas ",
-        "price": 12.99,
+        "name": "Joyeux Anniversaire",
+        "desc": "Célébrez chaque jour comme s’il s’agissait de votre anniversaire avec ces chaussettes festives ! Ornementées de ballons colorés et de gâteaux d’anniversaire, elles apportent confort et bonne humeur à vos pieds. Parfaites pour offrir ou pour ajouter un peu de pétillance à votre tenue. Faites un vœu à chaque pas ",
+        "price": 9.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey", "white"],
+        "key": ["Gâteau", "Ballon"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -2095,12 +2095,12 @@
       {
         "id": 138,
         "src": "../assets/images/socks/Festif/138-Photoroom.webp",
-        "name": " Mariée en Fleurs ",
+        "name": "Mariée en Fleurs ",
         "desc": "Marchez vers le bonheur avec nos chaussettes Mariée en Fleurs ! Conçues pour ceux qui aiment ajouter une touche d’originalité à leur tenue, ces chaussettes grises arborent un motif floral coloré et une mariée souriante tenant un bouquet éclatant. Parfaites pour un mariage ou pour égayer votre journée de travail, elles promettent confort et style… jusqu’à ce que la lessive vous sépare ! ",
         "price": 12.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey", "white"],
+        "key": ["Mariage", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -2110,12 +2110,12 @@
       {
         "id": 139,
         "src": "../assets/images/socks/Festif/139-Photoroom.webp",
-        "name": " Coeur pétillant",
-        "desc": "laissez votre coeur guider vos pas avec nos chaussettes 'Coeur Pétillant'! Avec leurs coeurs rouges et roses sur fond blanc, elles sont le symbole parfait de l'amour et de la joie, confortables et ludiques,elles vous feront danser de bonheur ",
-        "price": 12.99,
+        "name": "Coeur pétillant",
+        "desc": "Laissez votre coeur guider vos pas avec nos chaussettes 'Coeur Pétillant'! Avec leurs coeurs rouges et roses sur fond blanc, elles sont le symbole parfait de l'amour et de la joie, confortables et ludiques,elles vous feront danser de bonheur ",
+        "price": 5.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["pink", "white"],
+        "key": ["Valentin", "Amour"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -2126,11 +2126,11 @@
         "id": 140,
         "src": "../assets/images/socks/Festif/140-Photoroom.webp",
         "name": "Irlandaise",
-        "desc": "laissez bercez vos pieds par la douceur verte Irlandaise et ses trèfles porte-bonheur qui vous apporteront chance à chacun de vos pas ",
-        "price": 12.99,
+        "desc": "Laissez bercez vos pieds par la douceur verte Irlandaise et ses trèfles porte-bonheur qui vous apporteront chance à chacun de vos pas ",
+        "price": 10.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["green"],
+        "key": ["", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -2140,12 +2140,12 @@
       {
         "id": 141,
         "src": "../assets/images/socks/Festif/141-Photoroom.webp",
-        "name": " Festives hivernales",
+        "name": "Festives hivernales",
         "desc": " Laissez l’esprit de Noël vous envahir jusqu’aux orteils avec ces chaussettes grises ornées de flocons de neige et de feuilles de houx. Confortables et chaleureuses, elles sont parfaites pour se blottir près du feu ou pour offrir un sourire en cadeau. Mettez un peu de joie dans vos pas avec ces chaussettes qui célèbrent la saison ! ",
-        "price": 12.99,
+        "price": 13.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["blue", "red"],
+        "key": ["Flocon", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -2155,12 +2155,12 @@
       {
         "id": 142,
         "src": "../assets/images/socks/Festif/142-Photoroom.webp",
-        "name": " Jardin Secret",
+        "name": "Jardin Secret",
         "desc": "Mettez de la fantaisie à vos pieds avec nos chaussettes Jardin Secret ! Avec leurs motifs floraux éclatants et leur élégante dame en robe, elles apportent une touche d’art et de magie à votre quotidien. Confortables, stylées et un brin espiègles, elles promettent de faire sourire vos petons à chaque pas ! ",
-        "price": 12.99,
+        "price": 10.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey", "white"],
+        "key": ["Mariage", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -2171,15 +2171,15 @@
         "id": 143,
         "src": "../assets/images/socks/Festif/143-Photoroom.webp",
         "name": "Citrouilles d'Halloween ",
-        "desc": " Frissonnez de style avec nos chaussettes d’Halloween ! Grises avec des citrouilles souriantes et chauves-souris scintillantes, elles sont parfaites pour ajouter une touche d’humour à vos tenues automnales. Douces et confortables, elles sont idéales pour les esprits audacieux prêts à affronter la nuit des sorcières. Attrapez votre paire et préparez-vous à hanter les rues avec élégance ! ",
-        "price": 12.99,
+        "desc": "Frissonnez de style avec nos chaussettes d’Halloween ! Grises avec des citrouilles souriantes et chauves-souris scintillantes, elles sont parfaites pour ajouter une touche d’humour à vos tenues automnales. Douces et confortables, elles sont idéales pour les esprits audacieux prêts à affronter la nuit des sorcières. Attrapez votre paire et préparez-vous à hanter les rues avec élégance ! ",
+        "price": 11.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey", "orange"],
+        "key": ["", ""],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
@@ -2187,10 +2187,10 @@
         "src": "../assets/images/socks/Festif/144-Photoroom.webp",
         "name": "Coeur Rouge",
         "desc": "L'amour à vos pieds! avec leur nuance de bleu et leurs coeurs rouges passionnés, ces chaussettes sont le coup de foudre assuré.Confortables et tendances,elles sont parfaites pour réchauffer les coeurs et les orteils.",
-        "price": 12.99,
+        "price": 8.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["pink", "red"],
+        "key": ["Valentin", "Amour"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -2200,27 +2200,27 @@
       {
         "id": 145,
         "src": "../assets/images/socks/Festif/145-Photoroom.webp",
-        "name": " Manège Enchanté",
-        "desc": "soyez à la fête et emmenez vos pieds dans un balai de couleurs vives et chatoyantes ",
-        "price": 12.99,
-        "new": false,
+        "name": "Manège Enchanté",
+        "desc": "Inspirées par les manèges et les lumières chatoyantes d’un carnaval, ces chaussettes vous transporteront dans un monde de joie et d’amusement. Les motifs détaillés de la grande roue et du carrousel ajoutent une touche ludique à votre tenue. Confortables et pleines de fantaisie, elles sont parfaites pour égayer vos journées et faire tourner les têtes !",
+        "price": 14.99,
+        "new": true,
         "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "key": ["Carroussel", ""],
         "size": [
           { "size": "35-38", "available": true },
-          { "size": "39-42", "available": true },
+          { "size": "39-42", "available": false },
           { "size": "43-46", "available": true }
         ]
       },
       {
         "id": 146,
         "src": "../assets/images/socks/Festif/146-Photoroom.webp",
-        "name": "Enchantées ",
-        "desc": " Plongez vos pieds dans un conte de fées avec ces chaussettes délicatement ornées d'une princesse et de fleurs.Douces et confortables, elles vous transportent dans un monde de magie et d'élégance",
+        "name": "Enchantées",
+        "desc": "Plongez vos pieds dans un conte de fées avec ces chaussettes délicatement ornées d'une princesse et de fleurs.Douces et confortables, elles vous transportent dans un monde de magie et d'élégance",
         "price": 12.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["pink"],
+        "key": ["Mariage", "Amour"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -2230,14 +2230,14 @@
       {
         "id": 147,
         "src": "../assets/images/socks/Festif/147-Photoroom.webp",
-        "name": " Fête Permanente",
+        "name": "Fête Permanente",
         "desc": "Illuminez votre quotidien avec ces chaussettes gâteau d’anniversaire, où chaque jour est une célébration ! Avec leur design coloré et joyeux, elles apportent une touche de fantaisie à vos pas. Confortables et festives, elles sont le cadeau idéal pour souhaiter un ‘joyeux anniversaire’ à vos pieds ",
-        "price": 12.99,
+        "price": 7.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey"],
+        "key": ["Anniversaire", ""],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
@@ -2246,11 +2246,11 @@
         "id": 148,
         "src": "../assets/images/socks/Festif/148-Photoroom.webp",
         "name": "Festival colors ",
-        "desc": " faites danser vos pieds avec style, dans un balai de couleurs flamboyantes et festives ",
-        "price": 12.99,
-        "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "desc": "Découvrez nos chaussettes ‘Festival Colors’ ! Inspirées par l’énergie vibrante et les couleurs chatoyantes des festivals, ces chaussettes sont un véritable feu d’artifice pour vos pieds. Les motifs audacieux et les teintes vives évoquent la musique, la danse et la joie de vivre. Que vous soyez en train de danser au rythme des tambours ou simplement de vous détendre, ces chaussettes vous accompagneront avec style. Confortables et pleines de bonne humeur, elles sont parfaites pour célébrer chaque jour comme un festival ! 🎉🧦",
+        "price": 14.99,
+        "new": true,
+        "color": ["blue"],
+        "key": ["Manège", "Fête"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
@@ -2260,29 +2260,29 @@
       {
         "id": 149,
         "src": "../assets/images/socks/Festif/149-Photoroom.webp",
-        "name": " Happy Birthday",
+        "name": "Happy Birthday",
         "desc": "Ajoutez une touche de gourmandise à votre style avec nos chaussettes ornées d'un joli gâteau et ballons colorés ! Confortables et ludiques, elles sont la cerise sur le gâteau de n’importe quelle tenue. Parfaites pour les amateurs de douceurs et de fantaisie. À croquer à chaque pas ! ",
         "price": 12.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["white"],
+        "key": ["Gâteau", "Anniversaire"],
         "size": [
           { "size": "35-38", "available": true },
           { "size": "39-42", "available": true },
-          { "size": "43-46", "available": true }
+          { "size": "43-46", "available": false }
         ]
       },
       {
         "id": 150,
         "src": "../assets/images/socks/Festif/150-Photoroom.webp",
-        "name": " Câlins de Rennes",
-        "desc": " Réchauffez vos pieds avec une touche de magie hivernale! Nos chaussettes ornées de rennes et de flocons de neige sont le mélange parfait de style et de confort.Elles sont si douces, que vous aurez l'impression de recevoir un câlin des rennes eux-mêmes",
+        "name": "Câlins de Rennes",
+        "desc": "Réchauffez vos pieds avec une touche de magie hivernale! Nos chaussettes ornées de rennes et de flocons de neige sont le mélange parfait de style et de confort.Elles sont si douces, que vous aurez l'impression de recevoir un câlin des rennes eux-mêmes",
         "price": 12.99,
         "new": false,
-        "color": ["blue", "white"],
-        "key": ["Jeu", "Console"],
+        "color": ["grey"],
+        "key": ["", ""],
         "size": [
-          { "size": "35-38", "available": true },
+          { "size": "35-38", "available": false },
           { "size": "39-42", "available": true },
           { "size": "43-46", "available": true }
         ]
