@@ -3,7 +3,7 @@
     "name": "Sport",
     "id": 1,
     "color": "#10C718",
-    "banner": "../public/assets/images/banners/banniere1.svg",
+    "banner": "../../assets/images/banners/banniere1.svg",
     "products": [
       {
         "id": 1,
@@ -461,7 +461,7 @@
     "name": "Geek",
     "id": 2,
     "color": "#1090C7",
-    "banner": "../public/assets/images/banners/banniere2.svg",
+    "banner": "../../assets/images/banners/banniere2.svg",
     "products": [
       {
         "id": 31,
@@ -919,7 +919,7 @@
     "name": "Anime",
     "id": 3,
     "color": "#F59E1B",
-    "banner": "../public/assets/images/banners/banniere3.svg",
+    "banner": "../../assets/images/banners/banniere3.svg",
     "products": [
       {
         "id": 61,
@@ -1377,7 +1377,7 @@
     "name": "Art",
     "id": 4,
     "color": "#FDDB2B",
-    "banner": "../public/assets/images/banners/banniere4.svg",
+    "banner": "../../assets/images/banners/banniere4.svg",
     "products": [
       {
         "id": 91,
@@ -1835,7 +1835,7 @@
     "name": "Festif",
     "id": 5,
     "color": "#F51BDF",
-    "banner": "../public/assets/images/banners/banniere5.svg",
+    "banner": "../../assets/images/banners/banniere5.svg",
     "products": [
       {
         "id": 121,
